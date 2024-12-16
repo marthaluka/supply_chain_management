@@ -1,0 +1,72 @@
+REGION,DISTRICT,new_FACILITY,Year,Month,n
+Arusha,Arumeru,Mt Meru Regional Hospital,2023,2,1
+Arusha,Ngorongoro,Ngorongoro District Hospital,2023,12,1
+Arusha,Ngorongoro,Wasso Hospital,2023,10,1
+Lindi,Kilwa,Kinyonga District Hospital,2019,1,1
+Lindi,Kilwa,Kinyonga District Hospital,2022,4,1
+Lindi,Kilwa,Kinyonga District Hospital,2022,6,1
+Lindi,Kilwa,Kinyonga District Hospital,2023,5,1
+Lindi,Kilwa,Ruangwa District Hospital,2022,10,2
+Lindi,Lindi,Kitomanga Health Center,2023,2,2
+Lindi,Lindi,Nyangao Hospital,2020,7,1
+Lindi,Lindi,Nyangao Hospital,2023,12,1
+Lindi,Nachingwea,Nachingwea District Hospital,2023,10,1
+Lindi,Nachingwea,Ndanda Hospital,2021,12,1
+Lindi,Nachingwea,Ndanda Hospital,2023,10,1
+Lindi,Ruangwa,Karatu Health Center,2023,2,1
+Lindi,Ruangwa,Ruangwa District Hospital,2020,8,1
+Lindi,Ruangwa,Ruangwa District Hospital,2022,11,2
+Lindi,Ruangwa,Ruangwa District Hospital,2023,2,1
+Mara,Bunda,Manyamanyama Health Center,2019,2,2
+Mara,Bunda,Manyamanyama Health Center,2019,3,1
+Mara,Bunda,Manyamanyama Health Center,2019,5,1
+Mara,Bunda,Manyamanyama Health Center,2021,2,1
+Mara,Butiama,Musoma Regional Hospital,2021,3,1
+Mara,Rorya,Utegi Health Center,2020,10,1
+Mara,Serengeti,RCH B Health Center,2019,4,1
+Mara,Tarime,Muriba Health Center,2021,7,1
+Morogoro,Kilombero,Mlimba Health Center,2019,9,1
+Morogoro,Kilombero,Mlimba Health Center,2022,2,1
+Morogoro,Kilombero,Mngeta Health Center,2020,12,1
+Morogoro,Kilosa,Kilosa District Hospital,2020,10,1
+Morogoro,Kilosa,Kilosa District Hospital,2022,7,2
+Morogoro,Kilosa,St. Joseph Hospital,2020,10,1
+Morogoro,Malinyi,Lugala Hospital,2023,4,2
+Morogoro,Malinyi,Lupiro Health Center,2021,12,1
+Morogoro,Malinyi,Mtimbira Health Center,2021,5,1
+Morogoro,Malinyi,Mtimbira Health Center,2021,6,2
+Morogoro,Malinyi,Nachingwea District Hospital,2020,12,1
+Morogoro,Morogoro,Kisemu Dispensary,2021,4,1
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,6,1
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,8,3
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,12,1
+Morogoro,Morogoro,Morogoro Regional Hospital,2023,2,1
+Morogoro,Morogoro,Morogoro Regional Hospital,2023,6,1
+Morogoro,Morogoro,Morogoro Regional Hospital,2023,9,2
+Morogoro,Morogoro,Morogoro Regional Hospital,2023,10,1
+Morogoro,Morogoro,Uhuru Health Center,2019,2,1
+Morogoro,Morogoro,Uhuru Health Center,2019,5,2
+Morogoro,Morogoro,Uhuru Health Center,2020,4,1
+Morogoro,Morogoro,Uhuru Health Center,2021,8,1
+Morogoro,Mvomero,Uhuru Health Center,2020,3,1
+Morogoro,Ulanga,Kibaoni Health Center,2019,4,1
+Morogoro,Ulanga,Ulanga District Hospital,2019,3,2
+Morogoro,Ulanga,Ulanga District Hospital,2022,8,1
+Mtwara,Masasi,Mkomaindo Hospital,2022,8,1
+Mtwara,Masasi,Nachingwea District Hospital,2022,5,1
+Mtwara,Masasi,Ndanda Hospital,2021,12,1
+Mtwara,Masasi,Ndanda Hospital,2022,5,1
+Mtwara,Masasi,Uhuru Health Center,2022,5,1
+Mtwara,Masasi,NA,2022,11,1
+Mtwara,Mtwara,Dinyecha Health Center,2022,3,1
+Mtwara,Mtwara,Dinyecha Health Center,2022,4,1
+Mtwara,Mtwara,Ligula Regional Hospital,2022,4,1
+Mtwara,Mtwara,Ligula Regional Hospital,2022,6,1
+Mtwara,Mtwara,Nanguruwe Health Center,2018,10,1
+Mtwara,Mtwara,Nanguruwe Health Center,2021,4,1
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2020,8,1
+Mtwara,Nanyumbu,Ndanda Hospital,2023,6,1
+Mtwara,Newala,Newala District Hospital,2018,9,1
+Mtwara,Newala,Newala District Hospital,2019,5,1
+Mtwara,Newala,Tandahimba District Hospital,2019,3,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2023,11,1

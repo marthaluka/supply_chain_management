@@ -1,0 +1,139 @@
+﻿Date_added_facility,name_facility,facility_type,Village_facility,Ward_facility,District_facility,Region_facility,location_status,facility_PEP_status
+23-Mar,Tengeru Hospital,Hospital,Patandi,Akeri,Meru DC,Arusha,Semi -Urban,Available
+21-Oct,Alailelai Dispensary,Dispensary,Alailelai,Alailelai,Ngorongoro,Arusha,Rural,No
+21-Mar,Bunda District Hospital,District Hospital,Nyamakokoto,Balili,Bunda,Mara,Urban,Available
+21-Feb,Berega Hospital,Hospital,Berega,Berega,Kilosa,Morogoro,Rural,No
+21-Feb,Morogoro Regional Hospital,Regional Hospital,Old Dar es Salaam Road,Boma,Morogoro Urban,Morogoro,Urban,Available
+18-Aug,Tarime District Hospital,District Hospital,Biambwi,Bomani,Tarime,Mara,Urban,Available
+21-Aug,Masinono Dispensary,Dispensary,Masinono,Bugwema,Musoma,Mara,Rural,No
+18-Aug,Musoma Regional Hospital,Regional Hospital,Buhare,Buhare,Musoma Municipal,Mara,Urban,Available
+21-Mar,Buhemba Health Center,Health Center,Kinyariri,Buhemba,Butiama,Mara,Rural,Available
+21-Mar,Bunda Health Center,Health Center,Bunda Mjini,Bunda Mjini,Bunda,Mara,Urban,Available
+18-Aug,Butiama District Hospital,District Hospital,Butiama,Butiama,Butiama,Mara,Semi -Urban,Available
+21-Feb,Dutumi Health Center,Health Center,Mbwade,Bwakila Chini,Morogoro,Morogoro,Semi -Urban,Available
+21-Feb,Chiponda Health Center,Health Center,Chiponda,Chiponda,Lindi Rural,Lindi,Rural,Available
+18-Aug,Ligula Regional Hospital,Regional Hospital,Ligula C,Chuno,Mtwara Urban,Mtwara,Urban,Available
+23-Mar,Digodigo,Health Center,Digodigo,Digodigo,Ngorongoro,Arusha,Rural,Available
+21-Feb,Dumila Dispensary,Dispensary,Dumila,Dumila,Kilosa,Morogoro,Semi -Urban,Available
+21-Feb,St. Joseph Hospital,Hospital,Dumila,Dumila,Kilosa,Morogoro,Semi -Urban,Available
+21-Oct,Endulen Hospital,Hospital,Olpiro,Enduleni,Ngorongoro,Arusha,Rural,Available
+21-Oct,Esere Dispensary,Dispensary,Esere,Enduleni,Ngorongoro,Arusha,Rural,No
+21-Oct,Olpiro Dispensary,Dispensary,Olpiro,Enduleni,Ngorongoro,Arusha,Rural,No
+21-Oct,Ormekeke Dispensary,Dispensary,Endulen,Enduleni,Ngorongoro,Arusha,Rural,No
+01-Apr,Engarenaibor HC,Health Center,Mairowa,Engarenaibor,Longido,Arusha,Rural,Available
+23-Mar,Njiro Health Center (Arusha City),Health Center,Block D,Engutoto,Arusha Urban,Arusha,Urban,Available
+18-Aug,FAME Health Center,Health Center,Tloma,Ganako,Karatu,Arusha,Semi -Urban,Available
+22-Feb,Peroza Health Center,Health Center,Genyange,Genyange,Tarime District Council,Mara,Semi -Urban,Available
+22-Jun,Isenye Dispensary,Dispensary,Isenye,Isenye,Serengeti,Mara,Rural,No
+21-Aug,Issenye Dispensary,Dispensary,Nyiberekera,Issenye,Serengeti,Mara,Rural,No
+21-Oct,Kakesio Dispensary,Dispensary,Osinoni,Kakesio,Ngorongoro,Arusha,Rural,No
+23-Mar,Kaloreni Health Center,Health Center,Kaloleni Mashariki,Kaloleni,Arusha Urban,Arusha,Urban,Available
+18-Aug,Karatu Health Center,Health Center,Karatu Mjini,Karatu,Karatu,Arusha,Urban,Available
+21-Feb,Sabasaba Health Center,Health Center,Kasanga,Kasanga,Morogoro,Morogoro,Urban,Available
+21-Mar,Iramba Health Center,Health Center,Nyagasense,Kenyamonta,Serengeti,Mara,Rural,No
+18-Aug,Kibaoni Health Center,Health Center,Kibaoni,Kibaoni,Kilombero,Morogoro,Semi -Urban,Available
+21-Feb,Kibutuka Dispensary,Dispensary,Kibutuka,Kibutuka,Liwale,Lindi,Rural,No
+21-Feb,Kidodi Health Center,Health Center,Msowero,Kidodi,Kilosa,Morogoro,Semi -Urban,Available
+21-Feb,Kilimarondo Dispensary,Health Center,Kilimarondo,Kilimarondo,Nachingwea,Lindi,Rural,No 
+21-Feb,Kimambi Dispensary,Dispensary,Kimambi,Kimambi,Liwale,Lindi,Rural,No
+01-Apr,Eworendeka HC,Health Center,Eworendeke ,Kimokoa,Longido,Arusha,Rural,Available
+21-Feb,Kingolwira Health Center,Health Center,Zahanati,Kingolwira,Morogoro Urban,Morogoro,Semi -Urban,Available
+21-Feb,Kiromba Dispensary,Health Center,Mikumbi,Kiromba,Mtwara Rural,Mtwara,Rural,No
+21-Mar,Kisaka Dispensary,Dispensary,Bunchachari,Kisaka,Serengeti,Mara,Rural,Available
+24-Jun,Kibeyo Hospital (Serengeti District Hospital),Hospital,Kibeyo,Kisangura,Serengeti,Mara,Semi -Urban,Available
+21-Mar,RCH A Health Center,Health Center,Kibeyo,Kisangura,Serengeti,Mara,Semi -Urban,Available
+18-Aug,Kisemu Dispensary,Dispensary,Mtamba,Kisemu,Morogoro,Morogoro,Rural,No
+18-Aug,Kisorya Health Center,Health Center,Kisorya,Kisorya,Bunda,Mara,Rural,No
+21-Feb,Kitangari Dispensary,Health Center,Kitangari Hospitali,Kitangari,Newala,Mtwara,Semi -Urban,Available
+21-Feb,Kitere Health Center,Health Center,Chemchem,Kitere,Mtwara Rural,Mtwara,Rural,No
+21-Feb,Kitomanga Health Center,Health Center,Kitomanga,Kitomanga,Lindi Rural,Lindi,Rural,Available
+21-Feb,Kinyonga District Hospital,District Hospital,Singino,Kivinjesingino,Kilwa,Lindi,Semi -Urban,Available
+21-Mar,Utegi Health Center,Health Center,Utegi,Koryo,Rorya,Mara,Semi -Urban,Available
+18-Aug,Likombe Health Center,Health Center,Mdenga,Likombe,Mtwara Urban,Mtwara,Urban,Available
+18-Aug,Liwale District Hospital,District Hospital,Mpirani,Liwale mjini,Liwale,Lindi,Urban,Available
+21-Feb,Lupiro Health Center,Health Center,Lupiro,Lupiro,Ulanga,Morogoro,Semi -Urban,Available
+21-Feb,Mafiga Health Center,Health Center,Ngazengwa,Mafiga,Morogoro Urban,Morogoro,Urban,Available
+21-Feb,Magubike Health Center,Health Center,Magubike,Magubike,Kilosa,Morogoro,Rural,No
+18-Aug,Ulanga District Hospital,District Hospital,Mahenge,Mahenge,Ulanga,Morogoro,Semi -Urban,Available
+21-Feb,Mahurunga Health Center,Health Center,Mahurunga,Mahurunga,Mtwara Rural,Mtwara,Rural,No
+21-Feb,Mahuta Health Center,Health Center,Mahuta Bondeni,Mahuta,Tandahimba,Mtwara,Semi -Urban,No
+21-Mar,Majimoto Dispensary,Dispensary,Majimoto,Majimoto,Serengeti,Mara,Rural,Available
+18-Aug,Lugala Hospital,Hospital,Lugala,Malinyi,Malinyi,Morogoro,Semi -Urban,Available
+21-Feb,Malinyi Dispensary,Dispensary,Malinyi,Malinyi,Malinyi,Morogoro,Semi -Urban,Available
+23-Mar,Askofu Hhando Hc,Health Center,Mang'ola Barazani,Mang'ola,Karatu,Arusha,Rural,Available
+21-Feb,Mang'ula Health Center,Health Center,Mwaya,Mang'ula,Kilombero,Morogoro,Rural,Available
+18-Aug,Nanyumbu District Hospital,District Hospital,Mangaka,Mangaka,Nanyumbu,Mtwara,Semi -Urban,Available
+18-Aug,Kilwa Masoko Health Center,Health Center,Masoko,Masoko,Kilwa,Lindi,Semi -Urban,Available
+21-Mar,Nyangoto Health Center,Health Center,Nyangoto,Matongo,Tarime District Council,Mara,Rural,Available
+21-Feb,Mbingu Dispensary,Dispensary,Mbingu,Mbingu,Kilombero,Morogoro,Rural,Available
+18-Aug,Kilosa District Hospital,District Hospital,Mbumi,Mbumi,Kilosa,Morogoro,Urban,Available
+21-Feb,Masasi Hospital,District Hospital,Mitonji,Mbuyuni,Masasi,Mtwara,Rural,Available
+21-Feb,Mngeta Health Center,Health Center,Mngeta,Mchombe,Kilombero,Morogoro,Semi -Urban,Available
+21-Feb,Fulwe Dispensary,Dispensary,Fulwe,Mikese,Morogoro,Morogoro,Rural,No
+21-Feb,Mikumi Health Center,Health Center,Mikumi,Mikumi,Kilosa,Morogoro,Semi -Urban,Available
+21-Feb,St. Kizito Hospital,Hospital,Mikumi,Mikumi,Kilosa,Morogoro,Semi -Urban,Available
+18-Aug,Uhuru Health Center,Health Center,Uhuru,Mji Mkuu,Morogoro Urban,Morogoro,Urban,Available
+18-Aug,Shirati Hospital,District Hospital,Mkoma,Mkoma,Rorya,Mara,Semi -Urban,Available
+18-Aug,Mkomaindo Hospital,Hospital,Hospitali,Mkomaindo,Masasi Township Authority,Mtwara,Urban,Available
+21-Feb,Mkuyuni Health Center,Health Center,Mkuyuni,Mkuyuni,Morogoro,Morogoro,Rural,No
+21-Feb,Mlimba Health Center,Health Center,Viwanja Sitini,Mlimba,Kilombero,Morogoro,Semi -Urban,Available
+21-Feb,Mnero Hospital,Hospital,Mnerongongo,Mnerongongo,Nachingwea,Lindi,Rural,Available
+23-Mar,Monduli Hospital,District Hospital,Sabasaba,Monduli Mjini,Monduli,Arusha,Semi -Urban,Available
+23-Mar,Mto wa mbu HC,District Hospital,Sabasaba,Monduli Mjini,Monduli,Arusha,Semi -Urban,Available
+21-Feb,Mtimbira Health Center,Health Center,Munga,Mtimbira,Ulanga,Morogoro,Semi -Urban,Available
+18-Aug,Newala District Hospital,District Hospital,Majengo,Mtonya,Newala,Mtwara,Urban,Available
+21-Aug,Mugango Health Center,Health Center,Nyangoma,Mugango,Musoma,Mara,Rural,No
+21-Mar,Mugeta Health Center,Health Center,Mugeta,Mugeta,Bunda,Mara,Rural,Available
+18-Aug,Serengeti Hospital (Nyerere DDH),District Hospital,Stendi Mpya,Mugumu,Serengeti,Mara,Semi -Urban,Available
+18-Aug,Murangi Health Center,Health Center,Murangi,Murangi,Musoma,Mara,Semi -Urban,Available
+18-Aug,Muriba Health Center,Health Center,Muriba,Muriba,Tarime District Council,Mara,Rural,Available
+21-Feb,Mwaya Health Center,Health Center,Mwaya,Mwaya,Ulanga,Morogoro,Semi -Urban,Available
+21-Feb,Mwembesongo Dispensary,Dispensary,Gohalema,Mwembesongo,Morogoro Urban,Morogoro,Urban,No
+21-Feb,Ndanda Hospital,Hospital,Ndunda,Mwena,Masasi,Mtwara,Semi -Urban,Available
+18-Aug,Ruangwa District Hospital,District Hospital,Kilimahewa,Nachingwea,Ruangwa,Lindi,Semi -Urban,Available
+21-Oct,Bulati Dispensary,Dispensary,Bulati,Nainokanoka,Ngorongoro,Arusha,Rural,No
+21-Oct,Erkeepusi Dispensary,Dispensary,Irkeepus,Nainokanoka,Ngorongoro,Arusha,Rural,No
+21-Oct,Nainokanoka Health Center,Health Center,Bulati,Nainokanoka,Ngorongoro,Arusha,Rural,No
+21-Oct,Naiyobi Dispensary,Dispensary,Naiyobi,Naiyobi,Ngorongoro,Arusha,Rural,No
+01-Apr,Namanga Dispensary,Dispensary,Namanga,Namanga,Longido,Arusha,Semi -Urban,Available
+18-Aug,Nachingwea District Hospital,District Hospital,Ugawaji,Nambambo,Nachingwea,Lindi,Urban,Available
+21-Feb,Namikupa Health Center,Health Center,Pemba,Namikupa,Tandahimba,Mtwara,Rural,No
+18-Aug,Nanguruwe Health Center,Health Center,Nanguruwe,Nanguruwe,Mtwara Rural,Mtwara,Semi -Urban,Available
+21-Feb,Dinyecha Health Center,Health Center,Dinyecha,Nanyamba,Mtwara Rural,Mtwara,Semi -Urban,No
+21-Mar,Natta Health Center,Health Center,Natta Mbiso,Natta,Serengeti,Mara,Rural,No
+23-Mar,Nduruma Health Center,Health Center,Nduruma,Nduruma,Arusha DC,Arusha,Rural,Available
+18-Aug,Kasaunga Health Center,Health Center,Kasahunga,Neruma,Bunda,Mara,Rural,Available
+18-Aug,Ngerengere Health Center,Health Center,Ngerengere,Ngerengere,Morogoro,Morogoro,Semi -Urban,Available
+21-Oct,Missigiyo Dispensary,Dispensary,Misigiyo,Ngorongoro,Ngorongoro,Arusha,Rural,No
+21-Oct,NCAA Dispensary,Dispensary,Makao,Ngorongoro,Ngorongoro,Arusha,Rural,No
+21-Oct,Ngorongoro District Hospital,District Hospital,Makao,Ngorongoro,Ngorongoro,Arusha,Rural,Available
+21-Oct,Oloiolobi Dispensary,Dispensary,Oloirobi,Ngorongoro,Ngorongoro,Arusha,Rural,No
+21-Mar,Nyamagaro Health Center,Health Center,Nyang'ombe,Nyamagaro,Rorya,Mara,Rural,Available
+21-Mar,Maburi Dispensary,Dispensary,Maburi,Nyambureti,Serengeti,Mara,Rural,No
+21-Mar,Kiagata Health Center,Health Center,Kyankoma,Nyamimange,Butiama,Mara,Rural,Available
+21-Mar,Kinesi Health Center,Health Center,Kibuyi,Nyamunga,Rorya,Mara,Rural,Available
+21-Mar,Ikizu Health Center,Health Center,Makongoro A,Nyamuswa,Bunda,Mara,Semi -Urban,Available
+22-Feb,Nyamwaga Hospital,Hospital,Nyamwaga,Nyamwaga,Tarime District Council,Mara,Semi -Urban,Available
+18-Aug,Nyangao Hospital,Hospital,Nyangao B,Nyangao,Lindi Rural,Lindi,Semi -Urban,Available
+21-Oct,Coptic Health Center,Health Center,Nyasho Sokoni,Nyasho,Musoma Municipal,Mara,Urban,Available
+18-Aug,Nyasho Health Center,Health Center,Nyasho magereza,Nyasho,Musoma Municipal,Mara,Urban,Available
+18-Aug,Manyamanyama Health Center,Health Center,Manyamanyama,Nyasura,Bunda,Mara,Semi -Urban,Available
+21-Oct,Olbalbal Dispensary,Dispensary,Meshili,Olbaibal,Ngorongoro,Arusha,Rural,No
+01-Apr,Longido Hospital-HW,HospitaL,Olpepes,Olbomba,Longido,Arusha,Semi -Urban,Available
+23-Mar,Sakala Health Center,Health Center,Sakala,Olgosorok,Ngorongoro,Arusha,Rural,Available
+23-Mar,Olkokola Dispensary,Dispensary,Lemanyata,Olkokola,Arusha DC,Arusha,Rural,Available
+21-Oct,Wasso Hospital,Hospital,Oloirien Magaiduru,Oloirien,Ngorongoro,Arusha,Rural,Available
+23-Mar,Otrumet Hospital,Health Center,Ekenywa,Oltrumet,Arusha DC,Arusha,Rural,Available
+18-Aug,Lutheran Hospital,Hospital,Bashay,Qurus,Karatu,Arusha,Semi -Urban,Available
+18-Aug,Sokoine Hospital,Regional Hospital,Rahaleo,Rahaleo,Lindi Urban,Lindi,Urban,Available
+23-Mar,Rhotia Health Center,Health Center,Rhotia Kainam,Rhotia,Karatu,Arusha,Rural,Available
+21-Mar,Rung'abore Dispensary,Dispensary,Nyamerama,Rung'abure,Serengeti,Mara,Rural,No
+21-Feb,Rutamba Health Center,Health Center,Rutamba ya Zamani,Rutamba,Lindi Rural,Lindi,Rural,No
+23-Mar,Sale HC,Health Center,Sale,Sale,Ngorongoro,Arusha,Rural,Available
+23-Mar,Mt Meru Regional Hospital,Regional Hospital,Naura,Sekei,Arusha Urban,Arusha,Urban,Available
+21-Mar,Sirari Health Center,Health Center,Sokoni,Sirari,Tarime District Council,Mara,Semi -Urban,Available
+22-Feb,Willz Memorial Center,Health Center,Buriba,Sirari,Tarime District Council,Mara,Semi -Urban,Available
+18-Aug,RCH B Health Center,Health Center,Bomani,Stendi kuu,Serengeti,Mara,Semi -Urban,Available
+18-Aug,Tandahimba District Hospital,District Hospital,Matogoro,Tandahimba,Tandahimba,Mtwara,Urban,Available
+18-Aug,Tingi Health Center,Health Center,Tingi,Tingi,Kilwa,Lindi,Semi -Urban,Available
+23-Mar,Usa River Health Center,Health Center,Usa River,Usa River,Meru,Arusha,Semi -Urban,Available
