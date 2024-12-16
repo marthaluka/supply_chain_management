@@ -1,7 +1,4 @@
-## **Rabies Post-Exposure Prophylaxis (PEP) Supply Chain Analysis**
-This repository contains the code, data, and supplementary materials for the manuscript titled:
-
-**"Optimising human rabies vaccine supply chains: a modelling study"**
+## **"Optimising human rabies vaccine supply chains: a modelling study"**
 
 ---
 
