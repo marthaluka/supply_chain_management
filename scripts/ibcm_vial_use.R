@@ -45,7 +45,7 @@ theme_lancet <- function() {
 
 # data filtering script
 
-source("./R/data_filtering.R")
+source("./scripts/data_filtering.R")
 
 # 1. Data at a glance ########
 
@@ -58,7 +58,7 @@ ibcm_bite_data <- drop_both_dispAndtmpPEP
 
 
 # when did districts start collecting data? (between June-Aug 2018)
-dist_start <- read.csv("./data/clean/health_facilities_IBCM_corrected_ER.csv") %>%
+dist_start <- read.csv("./data/health_facilities_IBCM_corrected_ER.csv") %>%
   dplyr::mutate(name_facility = trimws(name_facility),
                 date_added = as.yearmon((Date_added_facility), "%b-%y"),
                 District_facility = dplyr::recode(District_facility,
@@ -132,7 +132,7 @@ summary_stats <- complete_data %>%
 
 
 ## deaths :(
-deaths_df <- read.csv("./data/clean/deaths_patient_district_monthly_2018-2023.csv") %>%
+deaths_df <- read.csv("./data/deaths_patient_district_monthly_2018-2023.csv") %>%
   dplyr::filter(!REGION == "Arusha",
                 !DISTRICT == "Serengeti") %>%
   group_by(DISTRICT) %>%
@@ -250,7 +250,7 @@ by_dist_plot <- complete_data %>%
         strip.background = element_blank()) 
 
 
-pdf("./manuscript/SupplementaryFig1.pdf", width = 8, height = 7)
+pdf("./figures/SupplementaryFig1.pdf", width = 8, height = 7)
 by_dist_plot
 dev.off()
 
@@ -297,7 +297,7 @@ all_districts <- complete_data %>%
 
 # read shapefile
 #tz_shp <- st_read(dsn="./data/districts_2022_population_HDR/", layer="districts_2022_population_HDR")
-tz_shp <- st_read(dsn="./data/new_shp_files_Ellie/", layer="tz_districts_2022") %>% 
+tz_shp <- st_read(dsn="./data/Tz_shp_files//", layer="tz_districts_2022") %>% 
   dplyr::mutate(District_facility = dist_nm)
   
   
@@ -435,7 +435,7 @@ plotB <- complete_data %>%
 
 
 # source helper functions
-source("./R/HelperFun.R")
+source("./scripts/HelperFun.R")
 
 # hist of monthly bites overlayed with Neg binomial########
   ## Define modified function for two districts with support values as argument
@@ -649,7 +649,7 @@ combined_plot <- (plotA+plotB) /(plotC+plotD) +
 print(combined_plot)
 
 
-pdf("./manuscript/Fig2.pdf", width = 9, height = 7)
+pdf("./figures/Fig2.pdf", width = 9, height = 7)
 combined_plot
 dev.off()
 
@@ -705,8 +705,6 @@ dev.off()
 
 
 # 7. Vial use (annual) #########
-
-source("R/HelperFun.R")
 
 # ibcm data
 
@@ -864,7 +862,7 @@ a/b
 
 
 
-source("./R/decentralization.R")
+source("./scripts/decentralization.R")
 
 data_decentralization
 combined_table
@@ -878,8 +876,8 @@ flextable_summary_stats <- flextable(combined_table2)
 flextable_summary_stats
 
 # Export the flextable object to an HTML file
-save_as_docx(flextable_summary_stats, path = "./manuscript/Supp_Table1.docx")
-write_csv(combined_table2, "./manuscript/Supp_Table1.csv")
+save_as_docx(flextable_summary_stats, path = "./figures/Supp_Table1.docx")
+write_csv(combined_table2, "./figures/Supp_Table1.csv")
 
 
 
@@ -920,7 +918,7 @@ d <- ggplot(combined_long, aes(x = Label, y = Total_Vials, fill = Regimen)) +
 myplt <- a/b/d +
   plot_annotation(tag_levels = 'A')
 
-pdf("./manuscript/Fig3.pdf", width = 7, height = 8)
+pdf("./figures/Fig3.pdf", width = 7, height = 8)
 myplt
 dev.off()
 
@@ -1116,7 +1114,7 @@ max(population_df$incidence_per_100k_per_year)
 
 
 # stocking PEP###########
-facilities_df <- read.csv("./data/clean/health_facilities_Revised30thMay.csv")
+facilities_df <- read.csv("./data/health_facilities_Revised30thMay.csv")
 
 facilities_df <- facilities_df %>%
   dplyr::filter(!Region_facility == "Arusha",
@@ -1142,6 +1140,6 @@ ibcm_clinic_year <- ibcm_bite_data %>%
   pivot_wider(names_from = Year, values_from = bites, values_fill = 0)
 
 
-write.csv(ibcm_clinic_year, "./manuscript/ibcm_clinic_year.csv")
+write.csv(ibcm_clinic_year, "./figures/ibcm_clinic_year.csv")
 
 

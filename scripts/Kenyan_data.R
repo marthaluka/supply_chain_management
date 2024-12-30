@@ -224,7 +224,7 @@ design <- "AAA
 
 
 # Export
-pdf("./manuscript/SupplementaryFig2.pdf", width = 10, height = 12)
+pdf("./figures/SupplementaryFig2.pdf", width = 10, height = 12)
 A
 dev.off()
 
@@ -337,7 +337,7 @@ combined_plot <- (plotA+plotB)/(plotC+plotD) +
   plot_annotation(tag_levels = 'A')
 
 
-pdf("./manuscript/SupplementaryFig3.pdf", width = 9.5, height = 8)
+pdf("./figures/SupplementaryFig3.pdf", width = 9.5, height = 8)
 combined_plot
 dev.off()
 

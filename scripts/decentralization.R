@@ -121,13 +121,13 @@ data_decentralization <- PEP_facilities %>%
 data_decentralization_table <- flextable(data_decentralization)
 data_decentralization_table
 
-save_as_docx(data_decentralization_table, path = "./manuscript/decentralization_tmp.docx")
+save_as_docx(data_decentralization_table, path = "./figures/decentralization_tmp.docx")
 
 # Morogoro Regional Hospital - 63
     # Uhuru Health Center - 741
 
 # Models ##############
-source("./R/HelperFun.R")
+source("./scripts/HelperFun.R")
 
 
 # pt_data_to_vials in Helper. R

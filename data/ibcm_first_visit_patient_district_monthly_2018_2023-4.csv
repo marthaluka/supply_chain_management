@@ -1,0 +1,2914 @@
+REGION,DISTRICT,new_FACILITY,Year,Month,Suspect,n
+Arusha,Arumeru,Kaloreni Health Center,2023,2,Healthy,3
+Arusha,Arumeru,Kaloreni Health Center,2023,2,Suspect,13
+Arusha,Arumeru,Kaloreni Health Center,2023,3,Healthy,15
+Arusha,Arumeru,Kaloreni Health Center,2023,3,Suspect,21
+Arusha,Arumeru,Kaloreni Health Center,2023,4,Healthy,13
+Arusha,Arumeru,Kaloreni Health Center,2023,4,Suspect,6
+Arusha,Arumeru,Kaloreni Health Center,2023,5,Healthy,20
+Arusha,Arumeru,Kaloreni Health Center,2023,5,Suspect,2
+Arusha,Arumeru,Kaloreni Health Center,2023,6,Healthy,8
+Arusha,Arumeru,Kaloreni Health Center,2023,6,Suspect,1
+Arusha,Arumeru,Kaloreni Health Center,2023,7,Healthy,3
+Arusha,Arumeru,Kaloreni Health Center,2023,8,Healthy,8
+Arusha,Arumeru,Kaloreni Health Center,2023,8,Suspect,3
+Arusha,Arumeru,Kaloreni Health Center,2023,9,Healthy,8
+Arusha,Arumeru,Kaloreni Health Center,2023,10,Healthy,12
+Arusha,Arumeru,Kaloreni Health Center,2023,11,Healthy,10
+Arusha,Arumeru,Kaloreni Health Center,2023,12,Healthy,10
+Arusha,Arumeru,Kibutuka Dispensary,2020,9,Healthy,1
+Arusha,Arumeru,Mkomaindo Hospital,2021,3,Suspect,1
+Arusha,Arumeru,Mt Meru Regional Hospital,2023,1,Suspect,2
+Arusha,Arumeru,Mt Meru Regional Hospital,2023,2,Suspect,5
+Arusha,Arumeru,Mt Meru Regional Hospital,2023,3,Healthy,4
+Arusha,Arumeru,Mt Meru Regional Hospital,2023,3,Suspect,1
+Arusha,Arumeru,Mt Meru Regional Hospital,2023,5,Suspect,1
+Arusha,Arumeru,Mt Meru Regional Hospital,2023,7,Suspect,3
+Arusha,Arumeru,Mt Meru Regional Hospital,2023,8,Suspect,1
+Arusha,Arumeru,Mt Meru Regional Hospital,2023,10,Suspect,1
+Arusha,Arumeru,Nduruma Health Center,2023,2,Healthy,1
+Arusha,Arumeru,Nduruma Health Center,2023,9,Healthy,1
+Arusha,Arumeru,Njiro Health Center,2023,2,Healthy,1
+Arusha,Arumeru,Njiro Health Center,2023,2,Suspect,2
+Arusha,Arumeru,Njiro Health Center,2023,4,Healthy,1
+Arusha,Arumeru,Njiro Health Center,2023,4,Suspect,1
+Arusha,Arumeru,Njiro Health Center,2023,5,Suspect,2
+Arusha,Arumeru,Njiro Health Center,2023,6,Suspect,2
+Arusha,Arumeru,Njiro Health Center,2023,7,Healthy,1
+Arusha,Arumeru,Njiro Health Center,2023,7,Suspect,2
+Arusha,Arumeru,Njiro Health Center,2023,10,Healthy,1
+Arusha,Arumeru,Njiro Health Center,2023,10,Suspect,1
+Arusha,Arumeru,Otrumet Hospital,2023,4,Suspect,2
+Arusha,Arumeru,Otrumet Hospital,2023,6,Healthy,2
+Arusha,Arumeru,Otrumet Hospital,2023,7,Healthy,3
+Arusha,Arumeru,Otrumet Hospital,2023,9,Healthy,1
+Arusha,Arumeru,Otrumet Hospital,2023,9,Suspect,1
+Arusha,Arumeru,Otrumet Hospital,2023,12,Healthy,1
+Arusha,Arumeru,Rabies Test Facility,2018,1,Healthy,1
+Arusha,Arumeru,Sakala Health Center,2023,5,Suspect,5
+Arusha,Arumeru,Tengeru District Hospital,2023,6,Healthy,3
+Arusha,Arumeru,Tengeru District Hospital,2023,6,Suspect,2
+Arusha,Arumeru,Tengeru District Hospital,2023,7,Healthy,5
+Arusha,Arumeru,Tengeru District Hospital,2023,7,Suspect,3
+Arusha,Arumeru,Tengeru District Hospital,2023,8,Healthy,12
+Arusha,Arumeru,Tengeru District Hospital,2023,8,Suspect,14
+Arusha,Arumeru,Tengeru District Hospital,2023,9,Healthy,3
+Arusha,Arumeru,Tengeru District Hospital,2023,9,Suspect,6
+Arusha,Arumeru,Tengeru District Hospital,2023,10,Healthy,2
+Arusha,Arumeru,Tengeru District Hospital,2023,10,Suspect,1
+Arusha,Arumeru,Tengeru District Hospital,2023,12,Suspect,1
+Arusha,Arusha,Kaloreni Health Center,2023,1,Healthy,1
+Arusha,Arusha,Kaloreni Health Center,2023,2,Healthy,5
+Arusha,Arusha,Kaloreni Health Center,2023,2,Suspect,6
+Arusha,Arusha,Kaloreni Health Center,2023,3,Healthy,11
+Arusha,Arusha,Kaloreni Health Center,2023,3,Suspect,12
+Arusha,Arusha,Kaloreni Health Center,2023,4,Healthy,39
+Arusha,Arusha,Kaloreni Health Center,2023,4,Suspect,31
+Arusha,Arusha,Kaloreni Health Center,2023,5,Healthy,29
+Arusha,Arusha,Kaloreni Health Center,2023,5,Suspect,14
+Arusha,Arusha,Kaloreni Health Center,2023,6,Healthy,27
+Arusha,Arusha,Kaloreni Health Center,2023,7,Healthy,18
+Arusha,Arusha,Kaloreni Health Center,2023,7,Suspect,1
+Arusha,Arusha,Kaloreni Health Center,2023,8,Healthy,26
+Arusha,Arusha,Kaloreni Health Center,2023,8,Suspect,6
+Arusha,Arusha,Kaloreni Health Center,2023,9,Healthy,22
+Arusha,Arusha,Kaloreni Health Center,2023,9,Suspect,1
+Arusha,Arusha,Kaloreni Health Center,2023,10,Healthy,36
+Arusha,Arusha,Kaloreni Health Center,2023,10,Suspect,5
+Arusha,Arusha,Kaloreni Health Center,2023,11,Healthy,36
+Arusha,Arusha,Kaloreni Health Center,2023,11,Suspect,8
+Arusha,Arusha,Kaloreni Health Center,2023,12,Healthy,29
+Arusha,Arusha,Kaloreni Health Center,2023,12,Suspect,2
+Arusha,Arusha,Mt Meru Regional Hospital,2023,1,Suspect,1
+Arusha,Arusha,Mt Meru Regional Hospital,2023,3,Suspect,2
+Arusha,Arusha,Mt Meru Regional Hospital,2023,5,Suspect,2
+Arusha,Arusha,Mt Meru Regional Hospital,2023,9,Suspect,2
+Arusha,Arusha,Mt Meru Regional Hospital,2023,10,Suspect,1
+Arusha,Arusha,Mt Meru Regional Hospital,2023,11,Suspect,1
+Arusha,Arusha,Nduruma Health Center,2023,8,Suspect,1
+Arusha,Arusha,Ngorongoro District Hospital,2023,12,Healthy,1
+Arusha,Arusha,Njiro Health Center,2023,1,Suspect,7
+Arusha,Arusha,Njiro Health Center,2023,2,Suspect,4
+Arusha,Arusha,Njiro Health Center,2023,3,Healthy,4
+Arusha,Arusha,Njiro Health Center,2023,3,Suspect,1
+Arusha,Arusha,Njiro Health Center,2023,4,Healthy,7
+Arusha,Arusha,Njiro Health Center,2023,4,Suspect,11
+Arusha,Arusha,Njiro Health Center,2023,5,Suspect,4
+Arusha,Arusha,Njiro Health Center,2023,6,Suspect,2
+Arusha,Arusha,Njiro Health Center,2023,8,Healthy,2
+Arusha,Arusha,Njiro Health Center,2023,9,Suspect,1
+Arusha,Arusha,Njiro Health Center,2023,12,Healthy,1
+Arusha,Arusha,Sakala Health Center,2023,5,Healthy,1
+Arusha,Arusha,Tengeru District Hospital,2023,6,Healthy,1
+Arusha,Arusha,Tengeru District Hospital,2023,6,Suspect,2
+Arusha,Karatu,Endulen Hospital,2020,10,Healthy,1
+Arusha,Karatu,Endulen Hospital,2020,11,Suspect,1
+Arusha,Karatu,Endulen Hospital,2021,1,Suspect,1
+Arusha,Karatu,FAME Health Center,2019,3,Suspect,1
+Arusha,Karatu,FAME Health Center,2019,5,Healthy,1
+Arusha,Karatu,FAME Health Center,2019,5,Suspect,1
+Arusha,Karatu,FAME Health Center,2019,6,Suspect,4
+Arusha,Karatu,FAME Health Center,2019,7,Suspect,4
+Arusha,Karatu,FAME Health Center,2019,10,Suspect,1
+Arusha,Karatu,FAME Health Center,2019,11,Suspect,2
+Arusha,Karatu,FAME Health Center,2019,12,Suspect,1
+Arusha,Karatu,FAME Health Center,2020,1,Suspect,1
+Arusha,Karatu,FAME Health Center,2020,2,Suspect,2
+Arusha,Karatu,FAME Health Center,2020,3,Healthy,1
+Arusha,Karatu,FAME Health Center,2020,3,Suspect,1
+Arusha,Karatu,FAME Health Center,2020,4,Suspect,1
+Arusha,Karatu,FAME Health Center,2020,5,Suspect,1
+Arusha,Karatu,FAME Health Center,2020,8,Healthy,1
+Arusha,Karatu,FAME Health Center,2020,8,Suspect,1
+Arusha,Karatu,FAME Health Center,2021,2,Suspect,1
+Arusha,Karatu,FAME Health Center,2021,5,Suspect,1
+Arusha,Karatu,FAME Health Center,2021,6,Suspect,1
+Arusha,Karatu,FAME Health Center,2021,11,Suspect,1
+Arusha,Karatu,FAME Health Center,2022,5,Healthy,1
+Arusha,Karatu,FAME Health Center,2022,5,Suspect,6
+Arusha,Karatu,FAME Health Center,2022,7,Suspect,2
+Arusha,Karatu,FAME Health Center,2022,8,Healthy,1
+Arusha,Karatu,FAME Health Center,2022,8,Suspect,3
+Arusha,Karatu,FAME Health Center,2022,9,Suspect,2
+Arusha,Karatu,FAME Health Center,2022,10,Suspect,1
+Arusha,Karatu,FAME Health Center,2023,1,Suspect,2
+Arusha,Karatu,FAME Health Center,2023,2,Suspect,11
+Arusha,Karatu,FAME Health Center,2023,3,Suspect,3
+Arusha,Karatu,FAME Health Center,2023,5,Suspect,2
+Arusha,Karatu,FAME Health Center,2023,6,Suspect,5
+Arusha,Karatu,FAME Health Center,2023,7,Suspect,5
+Arusha,Karatu,FAME Health Center,2023,8,Suspect,1
+Arusha,Karatu,FAME Health Center,2023,9,Suspect,1
+Arusha,Karatu,FAME Health Center,2023,10,Suspect,2
+Arusha,Karatu,Kakesio Dispensary,2020,2,Suspect,3
+Arusha,Karatu,Kakesio Dispensary,2020,6,Suspect,1
+Arusha,Karatu,Karatu Health Center,2023,3,Healthy,1
+Arusha,Karatu,Karatu Health Center,2023,3,Suspect,1
+Arusha,Karatu,Kingolwira Health Center,2019,8,Suspect,1
+Arusha,Karatu,Lutheran Hospital,2023,2,Suspect,2
+Arusha,Karatu,Lutheran Hospital,2023,4,Suspect,4
+Arusha,Karatu,Lutheran Hospital,2023,6,Suspect,1
+Arusha,Karatu,Lutheran Hospital,2023,7,Suspect,1
+Arusha,Karatu,Lutheran Hospital,2023,9,Suspect,1
+Arusha,Karatu,Mt Meru Regional Hospital,2023,1,Suspect,1
+Arusha,Karatu,Mt Meru Regional Hospital,2023,2,Suspect,1
+Arusha,Karatu,Mt Meru Regional Hospital,2023,9,Healthy,1
+Arusha,Karatu,Mt Meru Regional Hospital,2023,10,Suspect,1
+Arusha,Karatu,NCAA Dispensary,2020,8,Suspect,2
+Arusha,Karatu,Njiro Health Center,2023,8,Suspect,1
+Arusha,Karatu,Olbalbal Dispensary,2020,10,Suspect,1
+Arusha,Karatu,Rhotia Health Center,2023,3,Healthy,1
+Arusha,Karatu,Rhotia Health Center,2023,3,Suspect,1
+Arusha,Karatu,Rhotia Health Center,2023,5,Suspect,1
+Arusha,Karatu,Rhotia Health Center,2023,8,Healthy,2
+Arusha,Karatu,Rhotia Health Center,2023,8,Suspect,1
+Arusha,Karatu,Rhotia Health Center,2023,9,Suspect,1
+Arusha,Karatu,Rhotia Health Center,2023,10,Healthy,2
+Arusha,Karatu,Tanzania Facility,2019,3,Healthy,1
+Arusha,Karatu,Tanzania Facility,2019,3,Suspect,1
+Arusha,Karatu,Tanzania Facility,2019,4,Healthy,1
+Arusha,Longido,Esere Dispensary,2020,10,Healthy,1
+Arusha,Longido,Kaloreni Health Center,2023,2,Suspect,1
+Arusha,Longido,Missigiyo Dispensary,2020,10,Healthy,1
+Arusha,Longido,Missing,2018,8,Suspect,1
+Arusha,Longido,Mt Meru Regional Hospital,2023,1,Suspect,1
+Arusha,Longido,Mt Meru Regional Hospital,2023,8,Suspect,1
+Arusha,Longido,Njiro Health Center,2023,7,Healthy,1
+Arusha,Longido,Njiro Health Center,2023,8,Suspect,1
+Arusha,Longido,Tengeru District Hospital,2023,6,Suspect,1
+Arusha,Monduli,FAME Health Center,2019,5,Suspect,2
+Arusha,Monduli,FAME Health Center,2019,7,Suspect,1
+Arusha,Monduli,FAME Health Center,2023,6,Suspect,2
+Arusha,Monduli,Kaloreni Health Center,2023,1,Suspect,1
+Arusha,Monduli,Kaloreni Health Center,2023,4,Healthy,1
+Arusha,Monduli,Kaloreni Health Center,2023,5,Healthy,3
+Arusha,Monduli,Kaloreni Health Center,2023,7,Healthy,1
+Arusha,Monduli,Kaloreni Health Center,2023,8,Healthy,3
+Arusha,Monduli,Kaloreni Health Center,2023,9,Healthy,5
+Arusha,Monduli,Kaloreni Health Center,2023,11,Healthy,1
+Arusha,Monduli,Kaloreni Health Center,2023,12,Healthy,1
+Arusha,Monduli,Kingolwira Health Center,2019,9,Suspect,1
+Arusha,Monduli,Monduli Hospital,2023,1,Healthy,1
+Arusha,Monduli,Monduli Hospital,2023,3,Healthy,1
+Arusha,Monduli,Mt Meru Regional Hospital,2023,1,Suspect,1
+Arusha,Monduli,Mt Meru Regional Hospital,2023,3,Healthy,1
+Arusha,Monduli,Njiro Health Center,2023,9,Healthy,1
+Arusha,Monduli,Rhotia Health Center,2023,11,Suspect,1
+Arusha,NANA,Kaloreni Health Center,2023,9,Healthy,1
+Arusha,NANA,Kaloreni Health Center,2023,12,Healthy,1
+Arusha,Ngorongoro,Endulen Hospital,2021,3,Suspect,1
+Arusha,Ngorongoro,Endulen Hospital,2022,7,Suspect,4
+Arusha,Ngorongoro,FAME Health Center,2019,4,Suspect,6
+Arusha,Ngorongoro,FAME Health Center,2019,5,Suspect,5
+Arusha,Ngorongoro,FAME Health Center,2019,6,Suspect,1
+Arusha,Ngorongoro,FAME Health Center,2019,7,Suspect,3
+Arusha,Ngorongoro,FAME Health Center,2019,12,Suspect,1
+Arusha,Ngorongoro,FAME Health Center,2020,4,Suspect,1
+Arusha,Ngorongoro,FAME Health Center,2020,5,Suspect,1
+Arusha,Ngorongoro,FAME Health Center,2020,7,Suspect,1
+Arusha,Ngorongoro,FAME Health Center,2021,1,Suspect,1
+Arusha,Ngorongoro,FAME Health Center,2021,7,Suspect,1
+Arusha,Ngorongoro,FAME Health Center,2021,8,Suspect,1
+Arusha,Ngorongoro,FAME Health Center,2021,11,Suspect,3
+Arusha,Ngorongoro,FAME Health Center,2022,2,Suspect,5
+Arusha,Ngorongoro,FAME Health Center,2022,3,Suspect,3
+Arusha,Ngorongoro,FAME Health Center,2022,4,Suspect,1
+Arusha,Ngorongoro,FAME Health Center,2022,5,Suspect,2
+Arusha,Ngorongoro,FAME Health Center,2022,6,Suspect,3
+Arusha,Ngorongoro,FAME Health Center,2022,7,Suspect,1
+Arusha,Ngorongoro,FAME Health Center,2022,8,Suspect,4
+Arusha,Ngorongoro,FAME Health Center,2023,5,Suspect,1
+Arusha,Ngorongoro,Karatu Health Center,2023,3,Suspect,1
+Arusha,Ngorongoro,Kingolwira Health Center,2019,8,Suspect,1
+Arusha,Ngorongoro,Kingolwira Health Center,2019,9,Suspect,1
+Arusha,Ngorongoro,Lutheran Hospital,2019,3,Suspect,1
+Arusha,Ngorongoro,Missigiyo Dispensary,2020,10,Healthy,1
+Arusha,Ngorongoro,Missigiyo Dispensary,2021,3,Suspect,6
+Arusha,Ngorongoro,Missigiyo Dispensary,2021,4,Suspect,2
+Arusha,Ngorongoro,Missigiyo Dispensary,2021,5,Healthy,1
+Arusha,Ngorongoro,Missigiyo Dispensary,2021,6,Suspect,1
+Arusha,Ngorongoro,Missigiyo Dispensary,2021,7,Suspect,1
+Arusha,Ngorongoro,Missigiyo Dispensary,2021,8,Suspect,2
+Arusha,Ngorongoro,Missigiyo Dispensary,2021,9,Suspect,1
+Arusha,Ngorongoro,Mt Meru Regional Hospital,2023,4,Suspect,1
+Arusha,Ngorongoro,NCAA Dispensary,2019,7,Healthy,1
+Arusha,Ngorongoro,Nainokanoka Health Center,2020,7,Suspect,1
+Arusha,Ngorongoro,Nainokanoka Health Center,2020,8,Suspect,1
+Arusha,Ngorongoro,Nainokanoka Health Center,2023,3,Suspect,2
+Arusha,Ngorongoro,Nainokanoka Health Center,2023,9,Suspect,1
+Arusha,Ngorongoro,Ngorongoro District Hospital,2022,6,Suspect,1
+Arusha,Ngorongoro,Ngorongoro District Hospital,2022,7,Suspect,4
+Arusha,Ngorongoro,Ngorongoro District Hospital,2022,8,Suspect,5
+Arusha,Ngorongoro,Ngorongoro District Hospital,2023,11,Healthy,2
+Arusha,Ngorongoro,Ngorongoro District Hospital,2023,11,Suspect,1
+Arusha,Ngorongoro,Ngorongoro District Hospital,2023,12,Healthy,7
+Arusha,Ngorongoro,Ngorongoro District Hospital,2023,12,Suspect,1
+Arusha,Ngorongoro,Oloiolobi Dispensary,2020,12,Suspect,1
+Arusha,Ngorongoro,Oloiolobi Dispensary,2022,7,Suspect,4
+Arusha,Ngorongoro,Sakala Health Center,2023,7,Suspect,1
+Arusha,Ngorongoro,Sakala Health Center,2023,8,Suspect,3
+Arusha,Ngorongoro,Sakala Health Center,2023,9,Suspect,1
+Arusha,Ngorongoro,Wasso Hospital,2022,1,Suspect,6
+Arusha,Ngorongoro,Wasso Hospital,2022,2,Suspect,9
+Arusha,Ngorongoro,Wasso Hospital,2022,3,Suspect,5
+Arusha,Ngorongoro,Wasso Hospital,2022,4,Healthy,1
+Arusha,Ngorongoro,Wasso Hospital,2022,4,Suspect,2
+Arusha,Ngorongoro,Wasso Hospital,2022,5,Suspect,7
+Arusha,Ngorongoro,Wasso Hospital,2022,8,Healthy,2
+Arusha,Ngorongoro,Wasso Hospital,2022,8,Suspect,6
+Arusha,Ngorongoro,Wasso Hospital,2023,1,Healthy,1
+Arusha,Ngorongoro,Wasso Hospital,2023,2,Healthy,4
+Arusha,Ngorongoro,Wasso Hospital,2023,2,Suspect,7
+Arusha,Ngorongoro,Wasso Hospital,2023,3,Healthy,7
+Arusha,Ngorongoro,Wasso Hospital,2023,4,Healthy,9
+Arusha,Ngorongoro,Wasso Hospital,2023,5,Suspect,1
+Arusha,Ngorongoro,Wasso Hospital,2023,6,Suspect,4
+Arusha,Ngorongoro,Wasso Hospital,2023,7,Suspect,1
+Arusha,Ngorongoro,Wasso Hospital,2023,8,Healthy,1
+Arusha,Ngorongoro,Wasso Hospital,2023,8,Suspect,7
+Arusha,Ngorongoro,Wasso Hospital,2023,9,Suspect,5
+Arusha,Ngorongoro,Wasso Hospital,2023,10,Healthy,1
+Arusha,Ngorongoro,Wasso Hospital,2023,11,Healthy,9
+Arusha,Ngorongoro,Wasso Hospital,2023,11,Suspect,3
+Arusha,Ngorongoro,Wasso Hospital,2023,12,Suspect,1
+Kaskazini Pemba,Micheweni,Tanzania Facility,2022,8,Suspect,1
+Kusini Pemba,Chake Chake,Chakechake District Hospital,2018,9,Healthy,1
+Kusini Pemba,Mkoani,Tanzania Facility,2022,8,Healthy,1
+Lindi,Kilwa,Buhemba Health Center,2022,2,Healthy,2
+Lindi,Kilwa,Buhemba Health Center,2022,8,Healthy,1
+Lindi,Kilwa,Buhemba Health Center,2022,9,Healthy,1
+Lindi,Kilwa,Buhemba Health Center,2022,10,Healthy,2
+Lindi,Kilwa,Buhemba Health Center,2022,10,Suspect,1
+Lindi,Kilwa,Buhemba Health Center,2022,11,Healthy,4
+Lindi,Kilwa,Buhemba Health Center,2022,11,Suspect,1
+Lindi,Kilwa,Buhemba Health Center,2023,5,Healthy,4
+Lindi,Kilwa,Buhemba Health Center,2023,5,Suspect,3
+Lindi,Kilwa,Kilwa Masoko Health Center,2018,8,Healthy,2
+Lindi,Kilwa,Kilwa Masoko Health Center,2018,8,Suspect,2
+Lindi,Kilwa,Kilwa Masoko Health Center,2019,9,Suspect,2
+Lindi,Kilwa,Kilwa Masoko Health Center,2020,1,Suspect,1
+Lindi,Kilwa,Kilwa Masoko Health Center,2020,2,Suspect,6
+Lindi,Kilwa,Kilwa Masoko Health Center,2020,3,Suspect,1
+Lindi,Kilwa,Kilwa Masoko Health Center,2020,4,Suspect,4
+Lindi,Kilwa,Kilwa Masoko Health Center,2020,5,Suspect,3
+Lindi,Kilwa,Kilwa Masoko Health Center,2020,7,Suspect,5
+Lindi,Kilwa,Kilwa Masoko Health Center,2020,8,Suspect,4
+Lindi,Kilwa,Kilwa Masoko Health Center,2020,9,Suspect,1
+Lindi,Kilwa,Kilwa Masoko Health Center,2020,12,Healthy,4
+Lindi,Kilwa,Kilwa Masoko Health Center,2021,2,Healthy,2
+Lindi,Kilwa,Kilwa Masoko Health Center,2021,2,Suspect,3
+Lindi,Kilwa,Kilwa Masoko Health Center,2021,3,Healthy,1
+Lindi,Kilwa,Kilwa Masoko Health Center,2021,3,Suspect,1
+Lindi,Kilwa,Kilwa Masoko Health Center,2021,4,Suspect,1
+Lindi,Kilwa,Kilwa Masoko Health Center,2021,5,Healthy,2
+Lindi,Kilwa,Kilwa Masoko Health Center,2021,5,Suspect,1
+Lindi,Kilwa,Kilwa Masoko Health Center,2021,10,Suspect,2
+Lindi,Kilwa,Kilwa Masoko Health Center,2021,11,Healthy,1
+Lindi,Kilwa,Kilwa Masoko Health Center,2021,11,Suspect,3
+Lindi,Kilwa,Kilwa Masoko Health Center,2022,4,Suspect,1
+Lindi,Kilwa,Kilwa Masoko Health Center,2022,7,Suspect,22
+Lindi,Kilwa,Kilwa Masoko Health Center,2022,10,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2018,8,Healthy,3
+Lindi,Kilwa,Kinyonga District Hospital,2018,8,Suspect,3
+Lindi,Kilwa,Kinyonga District Hospital,2018,9,Healthy,4
+Lindi,Kilwa,Kinyonga District Hospital,2018,9,Suspect,5
+Lindi,Kilwa,Kinyonga District Hospital,2018,10,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2018,11,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2018,11,Suspect,7
+Lindi,Kilwa,Kinyonga District Hospital,2018,12,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2018,12,Suspect,6
+Lindi,Kilwa,Kinyonga District Hospital,2019,1,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2019,1,Suspect,3
+Lindi,Kilwa,Kinyonga District Hospital,2019,2,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2019,2,Suspect,4
+Lindi,Kilwa,Kinyonga District Hospital,2019,3,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2019,3,Suspect,12
+Lindi,Kilwa,Kinyonga District Hospital,2019,4,Suspect,12
+Lindi,Kilwa,Kinyonga District Hospital,2019,5,Suspect,1
+Lindi,Kilwa,Kinyonga District Hospital,2019,6,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2019,6,Suspect,9
+Lindi,Kilwa,Kinyonga District Hospital,2019,7,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2019,7,Suspect,8
+Lindi,Kilwa,Kinyonga District Hospital,2019,8,Suspect,9
+Lindi,Kilwa,Kinyonga District Hospital,2019,9,Suspect,13
+Lindi,Kilwa,Kinyonga District Hospital,2019,10,Healthy,2
+Lindi,Kilwa,Kinyonga District Hospital,2019,10,Suspect,27
+Lindi,Kilwa,Kinyonga District Hospital,2019,11,Suspect,17
+Lindi,Kilwa,Kinyonga District Hospital,2019,12,Healthy,2
+Lindi,Kilwa,Kinyonga District Hospital,2019,12,Suspect,7
+Lindi,Kilwa,Kinyonga District Hospital,2020,1,Healthy,2
+Lindi,Kilwa,Kinyonga District Hospital,2020,2,Healthy,2
+Lindi,Kilwa,Kinyonga District Hospital,2020,2,Suspect,1
+Lindi,Kilwa,Kinyonga District Hospital,2020,3,Suspect,3
+Lindi,Kilwa,Kinyonga District Hospital,2020,4,Healthy,2
+Lindi,Kilwa,Kinyonga District Hospital,2020,4,Suspect,4
+Lindi,Kilwa,Kinyonga District Hospital,2020,5,Healthy,3
+Lindi,Kilwa,Kinyonga District Hospital,2020,5,Suspect,1
+Lindi,Kilwa,Kinyonga District Hospital,2020,6,Healthy,2
+Lindi,Kilwa,Kinyonga District Hospital,2020,6,Suspect,1
+Lindi,Kilwa,Kinyonga District Hospital,2020,7,Healthy,2
+Lindi,Kilwa,Kinyonga District Hospital,2020,7,Suspect,1
+Lindi,Kilwa,Kinyonga District Hospital,2020,8,Healthy,7
+Lindi,Kilwa,Kinyonga District Hospital,2020,8,Suspect,1
+Lindi,Kilwa,Kinyonga District Hospital,2020,9,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2020,9,Suspect,1
+Lindi,Kilwa,Kinyonga District Hospital,2020,10,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2020,10,Suspect,2
+Lindi,Kilwa,Kinyonga District Hospital,2020,11,Healthy,2
+Lindi,Kilwa,Kinyonga District Hospital,2020,12,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2020,12,Suspect,1
+Lindi,Kilwa,Kinyonga District Hospital,2021,6,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2021,6,Suspect,1
+Lindi,Kilwa,Kinyonga District Hospital,2021,7,Healthy,3
+Lindi,Kilwa,Kinyonga District Hospital,2021,7,Suspect,1
+Lindi,Kilwa,Kinyonga District Hospital,2021,8,Healthy,4
+Lindi,Kilwa,Kinyonga District Hospital,2021,8,Suspect,1
+Lindi,Kilwa,Kinyonga District Hospital,2021,9,Suspect,3
+Lindi,Kilwa,Kinyonga District Hospital,2021,10,Suspect,17
+Lindi,Kilwa,Kinyonga District Hospital,2021,11,Suspect,7
+Lindi,Kilwa,Kinyonga District Hospital,2022,1,Suspect,1
+Lindi,Kilwa,Kinyonga District Hospital,2022,2,Suspect,2
+Lindi,Kilwa,Kinyonga District Hospital,2022,3,Suspect,8
+Lindi,Kilwa,Kinyonga District Hospital,2022,4,Suspect,13
+Lindi,Kilwa,Kinyonga District Hospital,2022,5,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2022,5,Suspect,14
+Lindi,Kilwa,Kinyonga District Hospital,2022,6,Suspect,11
+Lindi,Kilwa,Kinyonga District Hospital,2022,7,Suspect,12
+Lindi,Kilwa,Kinyonga District Hospital,2022,8,Suspect,44
+Lindi,Kilwa,Kinyonga District Hospital,2022,9,Suspect,25
+Lindi,Kilwa,Kinyonga District Hospital,2022,10,Healthy,2
+Lindi,Kilwa,Kinyonga District Hospital,2022,10,Suspect,17
+Lindi,Kilwa,Kinyonga District Hospital,2022,11,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2022,11,Suspect,16
+Lindi,Kilwa,Kinyonga District Hospital,2022,12,Healthy,2
+Lindi,Kilwa,Kinyonga District Hospital,2022,12,Suspect,10
+Lindi,Kilwa,Kinyonga District Hospital,2023,1,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2023,1,Suspect,9
+Lindi,Kilwa,Kinyonga District Hospital,2023,2,Healthy,2
+Lindi,Kilwa,Kinyonga District Hospital,2023,2,Suspect,7
+Lindi,Kilwa,Kinyonga District Hospital,2023,3,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2023,3,Suspect,11
+Lindi,Kilwa,Kinyonga District Hospital,2023,4,Healthy,2
+Lindi,Kilwa,Kinyonga District Hospital,2023,4,Suspect,9
+Lindi,Kilwa,Kinyonga District Hospital,2023,5,Suspect,6
+Lindi,Kilwa,Kinyonga District Hospital,2023,6,Suspect,6
+Lindi,Kilwa,Kinyonga District Hospital,2023,7,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2023,7,Suspect,15
+Lindi,Kilwa,Kinyonga District Hospital,2023,8,Healthy,1
+Lindi,Kilwa,Kinyonga District Hospital,2023,8,Suspect,8
+Lindi,Kilwa,Kinyonga District Hospital,2023,9,Suspect,1
+Lindi,Kilwa,Kinyonga District Hospital,2023,10,Healthy,2
+Lindi,Kilwa,Kinyonga District Hospital,2023,10,Suspect,16
+Lindi,Kilwa,Kinyonga District Hospital,2023,11,Healthy,3
+Lindi,Kilwa,Kinyonga District Hospital,2023,11,Suspect,3
+Lindi,Kilwa,Kinyonga District Hospital,2023,12,Healthy,3
+Lindi,Kilwa,Kinyonga District Hospital,2023,12,Suspect,3
+Lindi,Kilwa,Kitomanga Health Center,2022,1,Suspect,1
+Lindi,Kilwa,Kitomanga Health Center,2022,11,Healthy,1
+Lindi,Kilwa,Kitomanga Health Center,2022,12,Healthy,1
+Lindi,Kilwa,Kitomanga Health Center,2022,12,Suspect,1
+Lindi,Kilwa,Kitomanga Health Center,2023,2,Suspect,1
+Lindi,Kilwa,Kitomanga Health Center,2023,6,Healthy,1
+Lindi,Kilwa,Kitomanga Health Center,2023,6,Suspect,4
+Lindi,Kilwa,Kitomanga Health Center,2023,10,Suspect,4
+Lindi,Kilwa,Kitomanga Health Center,2023,11,Healthy,1
+Lindi,Kilwa,Ligula Regional Hospital,2021,3,Suspect,1
+Lindi,Kilwa,Ligula Regional Hospital,2021,4,Suspect,1
+Lindi,Kilwa,Ligula Regional Hospital,2021,7,Healthy,1
+Lindi,Kilwa,Ligula Regional Hospital,2022,7,Suspect,1
+Lindi,Kilwa,Ligula Regional Hospital,2022,8,Suspect,5
+Lindi,Kilwa,Ligula Regional Hospital,2022,9,Suspect,9
+Lindi,Kilwa,Liwale District Hospital,2021,8,Suspect,1
+Lindi,Kilwa,Liwale District Hospital,2021,9,Healthy,3
+Lindi,Kilwa,Liwale District Hospital,2021,10,Healthy,1
+Lindi,Kilwa,Liwale District Hospital,2021,10,Suspect,3
+Lindi,Kilwa,Liwale District Hospital,2023,1,Healthy,1
+Lindi,Kilwa,Mkomaindo Hospital,2019,9,Suspect,6
+Lindi,Kilwa,Mkomaindo Hospital,2019,11,Suspect,1
+Lindi,Kilwa,Mkomaindo Hospital,2020,3,Suspect,3
+Lindi,Kilwa,Nyangao Hospital,2021,1,Suspect,1
+Lindi,Kilwa,Nyangoto Health Center,2023,4,Suspect,1
+Lindi,Kilwa,Rabies Test Facility,2018,3,Healthy,1
+Lindi,Kilwa,Ruangwa District Hospital,2019,3,Suspect,1
+Lindi,Kilwa,Ruangwa District Hospital,2019,4,Healthy,1
+Lindi,Kilwa,Sokoine Hospital,2022,10,Suspect,6
+Lindi,Kilwa,Sokoine Hospital,2022,12,Suspect,4
+Lindi,Kilwa,Sokoine Hospital,2023,1,Suspect,6
+Lindi,Kilwa,Sokoine Hospital,2023,3,Suspect,2
+Lindi,Kilwa,Sokoine Hospital,2023,4,Suspect,4
+Lindi,Kilwa,Sokoine Hospital,2023,5,Suspect,1
+Lindi,Kilwa,Sokoine Hospital,2023,8,Suspect,2
+Lindi,Lindi,Chiponda Health Center,2020,1,Healthy,1
+Lindi,Lindi,Chiponda Health Center,2020,3,Healthy,1
+Lindi,Lindi,Chiponda Health Center,2020,3,Suspect,3
+Lindi,Lindi,Chiponda Health Center,2020,5,Suspect,1
+Lindi,Lindi,Chiponda Health Center,2020,7,Suspect,1
+Lindi,Lindi,Chiponda Health Center,2020,8,Suspect,1
+Lindi,Lindi,Chiponda Health Center,2020,9,Suspect,1
+Lindi,Lindi,Chiponda Health Center,2020,10,Suspect,2
+Lindi,Lindi,Chiponda Health Center,2020,11,Healthy,1
+Lindi,Lindi,Chiponda Health Center,2020,12,Suspect,1
+Lindi,Lindi,Kitomanga Health Center,2020,2,Suspect,1
+Lindi,Lindi,Kitomanga Health Center,2020,7,Healthy,2
+Lindi,Lindi,Kitomanga Health Center,2020,7,Suspect,1
+Lindi,Lindi,Kitomanga Health Center,2020,9,Healthy,1
+Lindi,Lindi,Kitomanga Health Center,2020,9,Suspect,2
+Lindi,Lindi,Kitomanga Health Center,2020,10,Healthy,1
+Lindi,Lindi,Kitomanga Health Center,2020,11,Suspect,1
+Lindi,Lindi,Kitomanga Health Center,2021,1,Suspect,1
+Lindi,Lindi,Kitomanga Health Center,2021,6,Healthy,1
+Lindi,Lindi,Kitomanga Health Center,2021,7,Healthy,1
+Lindi,Lindi,Kitomanga Health Center,2021,8,Healthy,1
+Lindi,Lindi,Kitomanga Health Center,2021,9,Suspect,2
+Lindi,Lindi,Kitomanga Health Center,2021,10,Healthy,1
+Lindi,Lindi,Kitomanga Health Center,2021,10,Suspect,2
+Lindi,Lindi,Kitomanga Health Center,2022,1,Suspect,3
+Lindi,Lindi,Kitomanga Health Center,2022,2,Suspect,1
+Lindi,Lindi,Kitomanga Health Center,2022,3,Suspect,1
+Lindi,Lindi,Kitomanga Health Center,2022,11,Suspect,2
+Lindi,Lindi,Kitomanga Health Center,2022,12,Healthy,2
+Lindi,Lindi,Kitomanga Health Center,2022,12,Suspect,4
+Lindi,Lindi,Kitomanga Health Center,2023,1,Healthy,1
+Lindi,Lindi,Kitomanga Health Center,2023,4,Suspect,3
+Lindi,Lindi,Kitomanga Health Center,2023,5,Suspect,1
+Lindi,Lindi,Kitomanga Health Center,2023,6,Suspect,1
+Lindi,Lindi,Ligula Regional Hospital,2019,3,Suspect,1
+Lindi,Lindi,Ligula Regional Hospital,2022,3,Suspect,1
+Lindi,Lindi,Ligula Regional Hospital,2022,5,Suspect,1
+Lindi,Lindi,Ligula Regional Hospital,2022,6,Suspect,1
+Lindi,Lindi,Ligula Regional Hospital,2022,7,Suspect,1
+Lindi,Lindi,Ligula Regional Hospital,2022,8,Suspect,4
+Lindi,Lindi,Ligula Regional Hospital,2022,9,Suspect,3
+Lindi,Lindi,Nachingwea District Hospital,2020,8,Healthy,1
+Lindi,Lindi,Nyangao Hospital,2018,8,Healthy,3
+Lindi,Lindi,Nyangao Hospital,2018,8,Suspect,1
+Lindi,Lindi,Nyangao Hospital,2018,9,Healthy,1
+Lindi,Lindi,Nyangao Hospital,2018,12,Healthy,1
+Lindi,Lindi,Nyangao Hospital,2019,1,Suspect,1
+Lindi,Lindi,Nyangao Hospital,2019,4,Healthy,1
+Lindi,Lindi,Nyangao Hospital,2019,5,Healthy,1
+Lindi,Lindi,Nyangao Hospital,2019,8,Suspect,1
+Lindi,Lindi,Nyangao Hospital,2019,10,Suspect,1
+Lindi,Lindi,Nyangao Hospital,2019,11,Suspect,1
+Lindi,Lindi,Nyangao Hospital,2019,12,Suspect,1
+Lindi,Lindi,Nyangao Hospital,2020,1,Healthy,1
+Lindi,Lindi,Nyangao Hospital,2020,1,Suspect,3
+Lindi,Lindi,Nyangao Hospital,2020,2,Suspect,2
+Lindi,Lindi,Nyangao Hospital,2020,6,Healthy,1
+Lindi,Lindi,Nyangao Hospital,2020,8,Healthy,2
+Lindi,Lindi,Nyangao Hospital,2020,9,Suspect,2
+Lindi,Lindi,Nyangao Hospital,2021,2,Healthy,1
+Lindi,Lindi,Nyangao Hospital,2021,2,Suspect,2
+Lindi,Lindi,Nyangao Hospital,2021,3,Suspect,4
+Lindi,Lindi,Nyangao Hospital,2021,4,Healthy,1
+Lindi,Lindi,Nyangao Hospital,2021,4,Suspect,1
+Lindi,Lindi,Nyangao Hospital,2021,7,Healthy,1
+Lindi,Lindi,Nyangao Hospital,2021,8,Healthy,1
+Lindi,Lindi,Nyangao Hospital,2021,9,Suspect,1
+Lindi,Lindi,Nyangao Hospital,2021,11,Suspect,3
+Lindi,Lindi,Nyangao Hospital,2022,1,Suspect,1
+Lindi,Lindi,Nyangao Hospital,2022,6,Suspect,1
+Lindi,Lindi,Nyangao Hospital,2022,7,Suspect,3
+Lindi,Lindi,Nyangao Hospital,2022,8,Suspect,4
+Lindi,Lindi,Nyangao Hospital,2022,10,Suspect,3
+Lindi,Lindi,Nyangao Hospital,2023,1,Suspect,2
+Lindi,Lindi,Nyangao Hospital,2023,4,Suspect,1
+Lindi,Lindi,Nyangao Hospital,2023,5,Suspect,4
+Lindi,Lindi,Nyangao Hospital,2023,6,Suspect,3
+Lindi,Lindi,Nyangao Hospital,2023,7,Suspect,4
+Lindi,Lindi,Nyangao Hospital,2023,8,Suspect,2
+Lindi,Lindi,Nyangao Hospital,2023,10,Suspect,1
+Lindi,Lindi,Nyangao Hospital,2023,11,Suspect,1
+Lindi,Lindi,Nyangao Hospital,2023,12,Healthy,1
+Lindi,Lindi,Nyangao Hospital,2023,12,Suspect,2
+Lindi,Lindi,Rutamba Health Center,2022,8,Suspect,5
+Lindi,Lindi,Sokoine Hospital,2018,9,Healthy,1
+Lindi,Lindi,Sokoine Hospital,2019,3,Healthy,1
+Lindi,Lindi,Sokoine Hospital,2019,3,Suspect,1
+Lindi,Lindi,Sokoine Hospital,2019,4,Suspect,2
+Lindi,Lindi,Sokoine Hospital,2022,3,Suspect,1
+Lindi,Lindi,Sokoine Hospital,2022,5,Suspect,1
+Lindi,Lindi,Sokoine Hospital,2022,6,Suspect,1
+Lindi,Lindi,Sokoine Hospital,2022,10,Suspect,1
+Lindi,Lindi,Sokoine Hospital,2022,11,Suspect,4
+Lindi,Lindi,Sokoine Hospital,2022,12,Suspect,1
+Lindi,Lindi,Sokoine Hospital,2023,1,Suspect,6
+Lindi,Lindi,Sokoine Hospital,2023,2,Healthy,1
+Lindi,Lindi,Sokoine Hospital,2023,2,Suspect,4
+Lindi,Lindi,Sokoine Hospital,2023,3,Suspect,1
+Lindi,Lindi,Sokoine Hospital,2023,4,Suspect,4
+Lindi,Lindi,Sokoine Hospital,2023,5,Suspect,3
+Lindi,Lindi,Sokoine Hospital,2023,6,Suspect,1
+Lindi,Lindi,Sokoine Hospital,2023,7,Suspect,2
+Lindi,Lindi,Sokoine Hospital,2023,8,Suspect,7
+Lindi,Lindi,Sokoine Hospital,2023,10,Suspect,4
+Lindi,Lindi,Sokoine Hospital,2023,11,Suspect,4
+Lindi,Lindi,Sokoine Hospital,2023,12,Suspect,1
+Lindi,Lindi,Tanzania Facility,2022,8,Suspect,1
+Lindi,Liwale,Kibutuka Dispensary,2020,9,Suspect,1
+Lindi,Liwale,Kibutuka Dispensary,2020,11,Healthy,1
+Lindi,Liwale,Liwale District Hospital,2018,7,Healthy,2
+Lindi,Liwale,Liwale District Hospital,2018,7,Suspect,1
+Lindi,Liwale,Liwale District Hospital,2018,8,Healthy,1
+Lindi,Liwale,Liwale District Hospital,2018,11,Healthy,3
+Lindi,Liwale,Liwale District Hospital,2018,11,Suspect,1
+Lindi,Liwale,Liwale District Hospital,2021,10,Suspect,2
+Lindi,Liwale,Liwale District Hospital,2021,12,Healthy,1
+Lindi,Liwale,Liwale District Hospital,2022,1,Healthy,1
+Lindi,Liwale,Liwale District Hospital,2022,2,Healthy,3
+Lindi,Liwale,Liwale District Hospital,2022,2,Suspect,1
+Lindi,Liwale,Liwale District Hospital,2022,3,Suspect,2
+Lindi,Liwale,Liwale District Hospital,2022,4,Healthy,1
+Lindi,Liwale,Liwale District Hospital,2022,4,Suspect,1
+Lindi,Liwale,Liwale District Hospital,2022,5,Healthy,1
+Lindi,Liwale,Liwale District Hospital,2022,6,Suspect,1
+Lindi,Liwale,Liwale District Hospital,2022,9,Suspect,3
+Lindi,Liwale,Liwale District Hospital,2022,10,Suspect,3
+Lindi,Liwale,Liwale District Hospital,2022,11,Healthy,3
+Lindi,Liwale,Liwale District Hospital,2022,11,Suspect,4
+Lindi,Liwale,Liwale District Hospital,2022,12,Healthy,1
+Lindi,Liwale,Liwale District Hospital,2023,2,Healthy,2
+Lindi,Liwale,Liwale District Hospital,2023,3,Healthy,1
+Lindi,Liwale,Liwale District Hospital,2023,4,Healthy,1
+Lindi,Liwale,Liwale District Hospital,2023,4,Suspect,2
+Lindi,Liwale,Liwale District Hospital,2023,5,Suspect,1
+Lindi,Liwale,Liwale District Hospital,2023,6,Healthy,2
+Lindi,Liwale,Liwale District Hospital,2023,7,Healthy,1
+Lindi,Liwale,Liwale District Hospital,2023,8,Healthy,2
+Lindi,Liwale,Liwale District Hospital,2023,9,Healthy,2
+Lindi,Liwale,Liwale District Hospital,2023,10,Healthy,5
+Lindi,Liwale,Liwale District Hospital,2023,10,Suspect,1
+Lindi,Liwale,Liwale District Hospital,2023,11,Healthy,1
+Lindi,Liwale,Nachingwea District Hospital,2018,11,Suspect,1
+Lindi,Liwale,Nachingwea District Hospital,2023,1,Suspect,1
+Lindi,Liwale,Nachingwea District Hospital,2023,8,Suspect,1
+Lindi,Nachingwea,Kitomanga Health Center,2021,11,Suspect,1
+Lindi,Nachingwea,Liwale District Hospital,2021,8,Suspect,1
+Lindi,Nachingwea,Mkomaindo Hospital,2019,6,Healthy,1
+Lindi,Nachingwea,Mkomaindo Hospital,2022,7,Suspect,1
+Lindi,Nachingwea,Mnero Hospital,2020,10,Healthy,1
+Lindi,Nachingwea,Mnero Hospital,2020,10,Suspect,1
+Lindi,Nachingwea,Mnero Hospital,2021,1,Suspect,1
+Lindi,Nachingwea,Mnero Hospital,2021,3,Healthy,1
+Lindi,Nachingwea,Mnero Hospital,2021,10,Healthy,2
+Lindi,Nachingwea,Mnero Hospital,2022,7,Healthy,1
+Lindi,Nachingwea,Mnero Hospital,2022,8,Healthy,2
+Lindi,Nachingwea,Mnero Hospital,2022,12,Healthy,1
+Lindi,Nachingwea,Nachingwea District Hospital,2018,7,Suspect,3
+Lindi,Nachingwea,Nachingwea District Hospital,2018,8,Healthy,1
+Lindi,Nachingwea,Nachingwea District Hospital,2018,8,Suspect,4
+Lindi,Nachingwea,Nachingwea District Hospital,2018,9,Suspect,1
+Lindi,Nachingwea,Nachingwea District Hospital,2018,10,Suspect,5
+Lindi,Nachingwea,Nachingwea District Hospital,2018,11,Suspect,2
+Lindi,Nachingwea,Nachingwea District Hospital,2019,2,Healthy,2
+Lindi,Nachingwea,Nachingwea District Hospital,2019,7,Suspect,1
+Lindi,Nachingwea,Nachingwea District Hospital,2019,9,Suspect,1
+Lindi,Nachingwea,Nachingwea District Hospital,2019,10,Suspect,1
+Lindi,Nachingwea,Nachingwea District Hospital,2019,11,Healthy,1
+Lindi,Nachingwea,Nachingwea District Hospital,2019,12,Suspect,1
+Lindi,Nachingwea,Nachingwea District Hospital,2020,1,Healthy,1
+Lindi,Nachingwea,Nachingwea District Hospital,2020,1,Suspect,1
+Lindi,Nachingwea,Nachingwea District Hospital,2020,3,Suspect,6
+Lindi,Nachingwea,Nachingwea District Hospital,2020,4,Suspect,2
+Lindi,Nachingwea,Nachingwea District Hospital,2020,9,Suspect,1
+Lindi,Nachingwea,Nachingwea District Hospital,2020,10,Suspect,1
+Lindi,Nachingwea,Nachingwea District Hospital,2020,11,Healthy,1
+Lindi,Nachingwea,Nachingwea District Hospital,2021,1,Suspect,1
+Lindi,Nachingwea,Nachingwea District Hospital,2021,2,Healthy,1
+Lindi,Nachingwea,Nachingwea District Hospital,2021,2,Suspect,1
+Lindi,Nachingwea,Nachingwea District Hospital,2021,4,Healthy,1
+Lindi,Nachingwea,Nachingwea District Hospital,2021,4,Suspect,1
+Lindi,Nachingwea,Nachingwea District Hospital,2021,5,Suspect,2
+Lindi,Nachingwea,Nachingwea District Hospital,2021,6,Suspect,2
+Lindi,Nachingwea,Nachingwea District Hospital,2022,2,Suspect,2
+Lindi,Nachingwea,Nachingwea District Hospital,2022,3,Healthy,1
+Lindi,Nachingwea,Nachingwea District Hospital,2022,3,Suspect,2
+Lindi,Nachingwea,Nachingwea District Hospital,2022,4,Suspect,5
+Lindi,Nachingwea,Nachingwea District Hospital,2022,5,Suspect,7
+Lindi,Nachingwea,Nachingwea District Hospital,2022,6,Suspect,1
+Lindi,Nachingwea,Nachingwea District Hospital,2022,10,Suspect,1
+Lindi,Nachingwea,Nachingwea District Hospital,2022,11,Healthy,1
+Lindi,Nachingwea,Nachingwea District Hospital,2022,11,Suspect,3
+Lindi,Nachingwea,Nachingwea District Hospital,2023,4,Suspect,2
+Lindi,Nachingwea,Nachingwea District Hospital,2023,5,Suspect,5
+Lindi,Nachingwea,Nachingwea District Hospital,2023,6,Suspect,1
+Lindi,Nachingwea,Nachingwea District Hospital,2023,8,Suspect,2
+Lindi,Nachingwea,Nachingwea District Hospital,2023,9,Suspect,1
+Lindi,Nachingwea,Nachingwea District Hospital,2023,11,Suspect,6
+Lindi,Nachingwea,Nachingwea District Hospital,2023,12,Suspect,1
+Lindi,Nachingwea,Nyangao Hospital,2020,6,Suspect,2
+Lindi,Nachingwea,Rabies Test Facility,2018,1,Suspect,1
+Lindi,Nachingwea,Rabies Test Facility,2018,2,Healthy,2
+Lindi,Nachingwea,Rabies Test Facility,2018,2,Suspect,1
+Lindi,Nachingwea,Rabies Test Facility,2018,3,Healthy,6
+Lindi,Nachingwea,Rabies Test Facility,2018,4,Healthy,8
+Lindi,Nachingwea,Rabies Test Facility,2018,4,Suspect,2
+Lindi,Nachingwea,Rabies Test Facility,2018,5,Healthy,5
+Lindi,Nachingwea,Rabies Test Facility,2018,6,Healthy,2
+Lindi,Nachingwea,Rabies Test Facility,2018,6,Suspect,3
+Lindi,Nachingwea,Ruangwa District Hospital,2019,12,Suspect,1
+Lindi,Ruangwa,Nachingwea District Hospital,2018,6,Suspect,1
+Lindi,Ruangwa,Nachingwea District Hospital,2018,7,Suspect,1
+Lindi,Ruangwa,Nachingwea District Hospital,2018,10,Suspect,1
+Lindi,Ruangwa,Ndanda Hospital,2022,1,Healthy,1
+Lindi,Ruangwa,Nyangao Hospital,2019,8,Suspect,1
+Lindi,Ruangwa,Nyangao Hospital,2022,11,Suspect,1
+Lindi,Ruangwa,Nyangao Hospital,2023,1,Suspect,1
+Lindi,Ruangwa,Rabies Test Facility,2018,1,Healthy,3
+Lindi,Ruangwa,Rabies Test Facility,2018,1,Suspect,2
+Lindi,Ruangwa,Rabies Test Facility,2018,2,Healthy,1
+Lindi,Ruangwa,Rabies Test Facility,2018,2,Suspect,1
+Lindi,Ruangwa,Rabies Test Facility,2018,3,Healthy,2
+Lindi,Ruangwa,Rabies Test Facility,2018,4,Healthy,3
+Lindi,Ruangwa,Rabies Test Facility,2018,4,Suspect,1
+Lindi,Ruangwa,Rabies Test Facility,2018,5,Healthy,4
+Lindi,Ruangwa,Rabies Test Facility,2018,5,Suspect,1
+Lindi,Ruangwa,Ruangwa District Hospital,2018,1,Suspect,2
+Lindi,Ruangwa,Ruangwa District Hospital,2018,2,Suspect,2
+Lindi,Ruangwa,Ruangwa District Hospital,2018,3,Suspect,2
+Lindi,Ruangwa,Ruangwa District Hospital,2018,4,Suspect,3
+Lindi,Ruangwa,Ruangwa District Hospital,2018,6,Suspect,2
+Lindi,Ruangwa,Ruangwa District Hospital,2018,7,Suspect,4
+Lindi,Ruangwa,Ruangwa District Hospital,2018,8,Suspect,13
+Lindi,Ruangwa,Ruangwa District Hospital,2018,9,Suspect,3
+Lindi,Ruangwa,Ruangwa District Hospital,2018,10,Suspect,3
+Lindi,Ruangwa,Ruangwa District Hospital,2018,11,Suspect,10
+Lindi,Ruangwa,Ruangwa District Hospital,2018,12,Healthy,1
+Lindi,Ruangwa,Ruangwa District Hospital,2018,12,Suspect,2
+Lindi,Ruangwa,Ruangwa District Hospital,2019,1,Healthy,1
+Lindi,Ruangwa,Ruangwa District Hospital,2019,2,Suspect,1
+Lindi,Ruangwa,Ruangwa District Hospital,2019,3,Healthy,2
+Lindi,Ruangwa,Ruangwa District Hospital,2019,3,Suspect,2
+Lindi,Ruangwa,Ruangwa District Hospital,2019,4,Healthy,1
+Lindi,Ruangwa,Ruangwa District Hospital,2019,5,Healthy,4
+Lindi,Ruangwa,Ruangwa District Hospital,2019,8,Suspect,1
+Lindi,Ruangwa,Ruangwa District Hospital,2019,10,Suspect,1
+Lindi,Ruangwa,Ruangwa District Hospital,2020,1,Suspect,1
+Lindi,Ruangwa,Ruangwa District Hospital,2020,7,Suspect,1
+Lindi,Ruangwa,Ruangwa District Hospital,2020,8,Suspect,1
+Lindi,Ruangwa,Ruangwa District Hospital,2021,3,Suspect,4
+Lindi,Ruangwa,Ruangwa District Hospital,2022,1,Suspect,1
+Lindi,Ruangwa,Ruangwa District Hospital,2022,2,Suspect,1
+Lindi,Ruangwa,Ruangwa District Hospital,2022,5,Healthy,2
+Lindi,Ruangwa,Ruangwa District Hospital,2022,6,Suspect,1
+Lindi,Ruangwa,Ruangwa District Hospital,2022,7,Suspect,4
+Lindi,Ruangwa,Ruangwa District Hospital,2022,8,Suspect,2
+Lindi,Ruangwa,Ruangwa District Hospital,2022,10,Healthy,1
+Lindi,Ruangwa,Ruangwa District Hospital,2022,10,Suspect,2
+Lindi,Ruangwa,Ruangwa District Hospital,2022,11,Suspect,5
+Lindi,Ruangwa,Ruangwa District Hospital,2023,1,Suspect,1
+Lindi,Ruangwa,Ruangwa District Hospital,2023,2,Healthy,1
+Lindi,Ruangwa,Ruangwa District Hospital,2023,2,Suspect,1
+Lindi,Ruangwa,Ruangwa District Hospital,2023,3,Healthy,1
+Lindi,Ruangwa,Ruangwa District Hospital,2023,3,Suspect,8
+Lindi,Ruangwa,Ruangwa District Hospital,2023,4,Healthy,2
+Lindi,Ruangwa,Ruangwa District Hospital,2023,4,Suspect,2
+Lindi,Ruangwa,Ruangwa District Hospital,2023,6,Suspect,6
+Lindi,Ruangwa,Ruangwa District Hospital,2023,7,Suspect,1
+Lindi,Ruangwa,Ruangwa District Hospital,2023,8,Suspect,1
+Mara,Bunda,Bunda District Hospital,2018,7,Healthy,1
+Mara,Bunda,Bunda District Hospital,2018,7,Suspect,2
+Mara,Bunda,Bunda District Hospital,2018,8,Healthy,3
+Mara,Bunda,Bunda District Hospital,2018,8,Suspect,2
+Mara,Bunda,Bunda District Hospital,2018,9,Healthy,3
+Mara,Bunda,Bunda District Hospital,2018,9,Suspect,2
+Mara,Bunda,Bunda District Hospital,2018,10,Healthy,4
+Mara,Bunda,Bunda District Hospital,2018,11,Healthy,1
+Mara,Bunda,Bunda District Hospital,2018,12,Healthy,1
+Mara,Bunda,Bunda District Hospital,2019,3,Suspect,3
+Mara,Bunda,Bunda District Hospital,2019,4,Suspect,4
+Mara,Bunda,Bunda District Hospital,2019,5,Suspect,3
+Mara,Bunda,Bunda District Hospital,2019,6,Healthy,4
+Mara,Bunda,Bunda District Hospital,2019,6,Suspect,1
+Mara,Bunda,Bunda District Hospital,2019,7,Healthy,2
+Mara,Bunda,Bunda District Hospital,2019,8,Healthy,1
+Mara,Bunda,Bunda District Hospital,2019,9,Suspect,1
+Mara,Bunda,Bunda District Hospital,2019,10,Healthy,6
+Mara,Bunda,Bunda District Hospital,2019,12,Healthy,2
+Mara,Bunda,Bunda District Hospital,2020,1,Suspect,1
+Mara,Bunda,Bunda District Hospital,2020,3,Suspect,6
+Mara,Bunda,Bunda District Hospital,2020,4,Suspect,12
+Mara,Bunda,Bunda District Hospital,2020,5,Suspect,8
+Mara,Bunda,Bunda District Hospital,2020,7,Suspect,2
+Mara,Bunda,Bunda District Hospital,2020,8,Suspect,4
+Mara,Bunda,Bunda District Hospital,2020,11,Suspect,9
+Mara,Bunda,Bunda District Hospital,2020,12,Healthy,4
+Mara,Bunda,Bunda District Hospital,2020,12,Suspect,7
+Mara,Bunda,Bunda District Hospital,2021,1,Suspect,7
+Mara,Bunda,Bunda District Hospital,2021,2,Healthy,7
+Mara,Bunda,Bunda District Hospital,2021,2,Suspect,4
+Mara,Bunda,Bunda District Hospital,2021,5,Healthy,5
+Mara,Bunda,Bunda District Hospital,2021,5,Suspect,11
+Mara,Bunda,Bunda District Hospital,2021,6,Healthy,4
+Mara,Bunda,Bunda District Hospital,2021,6,Suspect,3
+Mara,Bunda,Bunda District Hospital,2021,7,Suspect,1
+Mara,Bunda,Bunda District Hospital,2021,9,Suspect,3
+Mara,Bunda,Bunda District Hospital,2021,10,Suspect,3
+Mara,Bunda,Bunda District Hospital,2021,11,Suspect,5
+Mara,Bunda,Bunda District Hospital,2021,12,Suspect,7
+Mara,Bunda,Bunda District Hospital,2022,1,Suspect,9
+Mara,Bunda,Bunda District Hospital,2022,2,Suspect,8
+Mara,Bunda,Bunda District Hospital,2022,3,Suspect,8
+Mara,Bunda,Bunda District Hospital,2022,4,Healthy,1
+Mara,Bunda,Bunda District Hospital,2022,4,Suspect,3
+Mara,Bunda,Bunda District Hospital,2022,5,Healthy,6
+Mara,Bunda,Bunda District Hospital,2022,5,Suspect,3
+Mara,Bunda,Bunda District Hospital,2022,6,Healthy,4
+Mara,Bunda,Bunda District Hospital,2022,6,Suspect,2
+Mara,Bunda,Bunda District Hospital,2022,7,Healthy,1
+Mara,Bunda,Bunda District Hospital,2022,7,Suspect,4
+Mara,Bunda,Bunda District Hospital,2022,8,Healthy,3
+Mara,Bunda,Bunda District Hospital,2022,11,Healthy,4
+Mara,Bunda,Bunda District Hospital,2022,11,Suspect,1
+Mara,Bunda,Bunda District Hospital,2022,12,Healthy,1
+Mara,Bunda,Bunda District Hospital,2022,12,Suspect,2
+Mara,Bunda,Bunda District Hospital,2023,1,Healthy,1
+Mara,Bunda,Bunda District Hospital,2023,1,Suspect,7
+Mara,Bunda,Bunda District Hospital,2023,2,Suspect,3
+Mara,Bunda,Bunda District Hospital,2023,3,Suspect,3
+Mara,Bunda,Bunda District Hospital,2023,4,Suspect,2
+Mara,Bunda,Bunda District Hospital,2023,5,Healthy,1
+Mara,Bunda,Bunda District Hospital,2023,5,Suspect,2
+Mara,Bunda,Bunda District Hospital,2023,7,Suspect,2
+Mara,Bunda,Bunda District Hospital,2023,8,Suspect,2
+Mara,Bunda,Bunda District Hospital,2023,12,Healthy,2
+Mara,Bunda,Bunda District Hospital,2023,12,Suspect,3
+Mara,Bunda,Ikizu Health Center,2018,7,Suspect,1
+Mara,Bunda,Ikizu Health Center,2018,9,Suspect,1
+Mara,Bunda,Ikizu Health Center,2018,12,Healthy,1
+Mara,Bunda,Ikizu Health Center,2020,1,Healthy,1
+Mara,Bunda,Ikizu Health Center,2021,1,Healthy,1
+Mara,Bunda,Ikizu Health Center,2022,3,Healthy,4
+Mara,Bunda,Ikizu Health Center,2022,3,Suspect,3
+Mara,Bunda,Ikizu Health Center,2022,4,Healthy,8
+Mara,Bunda,Ikizu Health Center,2022,4,Suspect,4
+Mara,Bunda,Ikizu Health Center,2022,5,Healthy,1
+Mara,Bunda,Ikizu Health Center,2022,5,Suspect,2
+Mara,Bunda,Ikizu Health Center,2022,6,Healthy,1
+Mara,Bunda,Ikizu Health Center,2023,1,Suspect,2
+Mara,Bunda,Isenye Dispensary,2021,2,Healthy,2
+Mara,Bunda,Kisemu Dispensary,2019,8,Healthy,1
+Mara,Bunda,Kisorya Health Center,2018,7,Healthy,1
+Mara,Bunda,Kisorya Health Center,2018,10,Suspect,1
+Mara,Bunda,Kisorya Health Center,2019,7,Healthy,1
+Mara,Bunda,Kisorya Health Center,2020,2,Healthy,1
+Mara,Bunda,Kisorya Health Center,2020,6,Suspect,1
+Mara,Bunda,Kisorya Health Center,2020,7,Suspect,2
+Mara,Bunda,Kisorya Health Center,2020,9,Suspect,1
+Mara,Bunda,Kisorya Health Center,2021,5,Suspect,2
+Mara,Bunda,Kisorya Health Center,2022,2,Suspect,1
+Mara,Bunda,Kisorya Health Center,2022,3,Suspect,1
+Mara,Bunda,Kisorya Health Center,2022,4,Suspect,2
+Mara,Bunda,Kisorya Health Center,2022,5,Healthy,2
+Mara,Bunda,Kisorya Health Center,2022,5,Suspect,2
+Mara,Bunda,Manyamanyama Health Center,2018,7,Suspect,1
+Mara,Bunda,Manyamanyama Health Center,2018,8,Healthy,1
+Mara,Bunda,Manyamanyama Health Center,2018,10,Healthy,1
+Mara,Bunda,Manyamanyama Health Center,2018,11,Healthy,1
+Mara,Bunda,Manyamanyama Health Center,2018,12,Suspect,2
+Mara,Bunda,Manyamanyama Health Center,2019,1,Healthy,2
+Mara,Bunda,Manyamanyama Health Center,2019,1,Suspect,4
+Mara,Bunda,Manyamanyama Health Center,2019,2,Healthy,1
+Mara,Bunda,Manyamanyama Health Center,2019,3,Healthy,3
+Mara,Bunda,Manyamanyama Health Center,2019,3,Suspect,3
+Mara,Bunda,Manyamanyama Health Center,2019,4,Suspect,1
+Mara,Bunda,Manyamanyama Health Center,2019,6,Suspect,1
+Mara,Bunda,Manyamanyama Health Center,2019,8,Suspect,1
+Mara,Bunda,Manyamanyama Health Center,2019,9,Healthy,1
+Mara,Bunda,Manyamanyama Health Center,2019,9,Suspect,1
+Mara,Bunda,Manyamanyama Health Center,2019,10,Healthy,2
+Mara,Bunda,Manyamanyama Health Center,2019,10,Suspect,3
+Mara,Bunda,Manyamanyama Health Center,2019,11,Healthy,2
+Mara,Bunda,Manyamanyama Health Center,2019,11,Suspect,5
+Mara,Bunda,Manyamanyama Health Center,2019,12,Suspect,6
+Mara,Bunda,Manyamanyama Health Center,2020,1,Suspect,6
+Mara,Bunda,Manyamanyama Health Center,2020,4,Healthy,3
+Mara,Bunda,Manyamanyama Health Center,2020,4,Suspect,8
+Mara,Bunda,Manyamanyama Health Center,2020,5,Healthy,5
+Mara,Bunda,Manyamanyama Health Center,2020,5,Suspect,4
+Mara,Bunda,Manyamanyama Health Center,2020,6,Healthy,3
+Mara,Bunda,Manyamanyama Health Center,2020,6,Suspect,7
+Mara,Bunda,Manyamanyama Health Center,2020,7,Healthy,2
+Mara,Bunda,Manyamanyama Health Center,2020,7,Suspect,8
+Mara,Bunda,Manyamanyama Health Center,2020,8,Suspect,1
+Mara,Bunda,Manyamanyama Health Center,2020,9,Healthy,1
+Mara,Bunda,Manyamanyama Health Center,2020,9,Suspect,2
+Mara,Bunda,Manyamanyama Health Center,2020,12,Healthy,1
+Mara,Bunda,Manyamanyama Health Center,2020,12,Suspect,8
+Mara,Bunda,Manyamanyama Health Center,2021,1,Suspect,1
+Mara,Bunda,Manyamanyama Health Center,2021,5,Suspect,3
+Mara,Bunda,Manyamanyama Health Center,2021,6,Healthy,1
+Mara,Bunda,Manyamanyama Health Center,2021,6,Suspect,6
+Mara,Bunda,Manyamanyama Health Center,2021,7,Healthy,1
+Mara,Bunda,Manyamanyama Health Center,2021,8,Suspect,1
+Mara,Bunda,Manyamanyama Health Center,2021,9,Suspect,1
+Mara,Bunda,Manyamanyama Health Center,2021,11,Suspect,1
+Mara,Bunda,Manyamanyama Health Center,2022,1,Suspect,1
+Mara,Bunda,Manyamanyama Health Center,2022,3,Healthy,1
+Mara,Bunda,Manyamanyama Health Center,2022,3,Suspect,1
+Mara,Bunda,Manyamanyama Health Center,2022,6,Healthy,1
+Mara,Bunda,Manyamanyama Health Center,2022,6,Suspect,5
+Mara,Bunda,Manyamanyama Health Center,2022,7,Suspect,6
+Mara,Bunda,Manyamanyama Health Center,2022,8,Suspect,1
+Mara,Bunda,Manyamanyama Health Center,2022,9,Healthy,2
+Mara,Bunda,Manyamanyama Health Center,2022,10,Suspect,2
+Mara,Bunda,Manyamanyama Health Center,2022,12,Healthy,3
+Mara,Bunda,Manyamanyama Health Center,2022,12,Suspect,4
+Mara,Bunda,Manyamanyama Health Center,2023,1,Healthy,3
+Mara,Bunda,Manyamanyama Health Center,2023,1,Suspect,5
+Mara,Bunda,Manyamanyama Health Center,2023,2,Healthy,10
+Mara,Bunda,Manyamanyama Health Center,2023,2,Suspect,5
+Mara,Bunda,Manyamanyama Health Center,2023,3,Suspect,3
+Mara,Bunda,Manyamanyama Health Center,2023,4,Healthy,1
+Mara,Bunda,Manyamanyama Health Center,2023,4,Suspect,11
+Mara,Bunda,Manyamanyama Health Center,2023,5,Suspect,2
+Mara,Bunda,Manyamanyama Health Center,2023,6,Suspect,1
+Mara,Bunda,Manyamanyama Health Center,2023,7,Suspect,2
+Mara,Bunda,Manyamanyama Health Center,2023,8,Suspect,1
+Mara,Bunda,Manyamanyama Health Center,2023,9,Suspect,2
+Mara,Bunda,Manyamanyama Health Center,2023,12,Healthy,1
+Mara,Bunda,Manyamanyama Health Center,2023,12,Suspect,4
+Mara,Bunda,Mugeta Health Center,2018,6,Suspect,1
+Mara,Bunda,Mugeta Health Center,2018,10,Suspect,1
+Mara,Bunda,Mugeta Health Center,2019,8,Healthy,1
+Mara,Bunda,Mugeta Health Center,2019,10,Healthy,1
+Mara,Bunda,Mugeta Health Center,2020,7,Suspect,5
+Mara,Bunda,Mugeta Health Center,2020,9,Suspect,1
+Mara,Bunda,Mugeta Health Center,2022,3,Healthy,1
+Mara,Bunda,Mugeta Health Center,2022,3,Suspect,1
+Mara,Bunda,Mugeta Health Center,2023,1,Suspect,1
+Mara,Bunda,Mugeta Health Center,2023,2,Suspect,1
+Mara,Bunda,Shirati Hospital,2019,5,Healthy,1
+Mara,Bunda,Shirati Hospital,2019,5,Suspect,1
+Mara,Bunda,Shirati Hospital,2019,6,Healthy,1
+Mara,Bunda,Shirati Hospital,2019,6,Suspect,1
+Mara,Bunda,Shirati Hospital,2019,7,Suspect,1
+Mara,Bunda,Tandahimba District Hospital,2018,8,Healthy,1
+Mara,Bunda,Tanzania Facility,2022,8,Healthy,1
+Mara,Bunda,Ulanga District Hospital,2022,1,Healthy,1
+Mara,Bunda,Ulanga District Hospital,2022,1,Suspect,2
+Mara,Bunda,Ulanga District Hospital,2022,2,Healthy,1
+Mara,Bunda,Ulanga District Hospital,2022,2,Suspect,1
+Mara,Bunda,Ulanga District Hospital,2022,3,Healthy,3
+Mara,Bunda,Ulanga District Hospital,2022,4,Healthy,3
+Mara,Bunda,Ulanga District Hospital,2022,4,Suspect,2
+Mara,Bunda,Ulanga District Hospital,2022,5,Healthy,1
+Mara,Bunda,Ulanga District Hospital,2022,6,Healthy,1
+Mara,Butiama,Buhemba Health Center,2018,7,Suspect,1
+Mara,Butiama,Buhemba Health Center,2018,9,Healthy,1
+Mara,Butiama,Buhemba Health Center,2018,11,Suspect,4
+Mara,Butiama,Buhemba Health Center,2018,12,Suspect,1
+Mara,Butiama,Buhemba Health Center,2019,3,Suspect,1
+Mara,Butiama,Buhemba Health Center,2019,6,Suspect,1
+Mara,Butiama,Buhemba Health Center,2019,7,Suspect,1
+Mara,Butiama,Buhemba Health Center,2019,8,Suspect,1
+Mara,Butiama,Buhemba Health Center,2020,4,Suspect,3
+Mara,Butiama,Buhemba Health Center,2020,5,Suspect,2
+Mara,Butiama,Buhemba Health Center,2021,1,Suspect,1
+Mara,Butiama,Buhemba Health Center,2021,2,Healthy,1
+Mara,Butiama,Buhemba Health Center,2021,3,Healthy,1
+Mara,Butiama,Buhemba Health Center,2021,3,Suspect,1
+Mara,Butiama,Buhemba Health Center,2021,4,Healthy,1
+Mara,Butiama,Buhemba Health Center,2021,5,Healthy,2
+Mara,Butiama,Buhemba Health Center,2021,5,Suspect,1
+Mara,Butiama,Buhemba Health Center,2021,7,Healthy,1
+Mara,Butiama,Buhemba Health Center,2021,8,Healthy,1
+Mara,Butiama,Buhemba Health Center,2021,10,Healthy,1
+Mara,Butiama,Buhemba Health Center,2021,11,Suspect,1
+Mara,Butiama,Buhemba Health Center,2021,12,Suspect,2
+Mara,Butiama,Buhemba Health Center,2022,1,Healthy,2
+Mara,Butiama,Buhemba Health Center,2022,2,Healthy,4
+Mara,Butiama,Buhemba Health Center,2022,2,Suspect,1
+Mara,Butiama,Buhemba Health Center,2022,3,Healthy,1
+Mara,Butiama,Buhemba Health Center,2022,3,Suspect,2
+Mara,Butiama,Buhemba Health Center,2022,4,Healthy,2
+Mara,Butiama,Buhemba Health Center,2022,4,Suspect,1
+Mara,Butiama,Buhemba Health Center,2022,5,Healthy,2
+Mara,Butiama,Buhemba Health Center,2022,5,Suspect,2
+Mara,Butiama,Buhemba Health Center,2022,6,Healthy,3
+Mara,Butiama,Buhemba Health Center,2022,7,Healthy,3
+Mara,Butiama,Buhemba Health Center,2022,7,Suspect,1
+Mara,Butiama,Buhemba Health Center,2022,9,Suspect,3
+Mara,Butiama,Buhemba Health Center,2022,10,Suspect,2
+Mara,Butiama,Butiama District Hospital,2018,9,Healthy,1
+Mara,Butiama,Butiama District Hospital,2018,9,Suspect,1
+Mara,Butiama,Butiama District Hospital,2018,11,Healthy,1
+Mara,Butiama,Butiama District Hospital,2018,12,Healthy,1
+Mara,Butiama,Butiama District Hospital,2018,12,Suspect,2
+Mara,Butiama,Butiama District Hospital,2019,1,Healthy,3
+Mara,Butiama,Butiama District Hospital,2019,1,Suspect,6
+Mara,Butiama,Butiama District Hospital,2019,3,Healthy,4
+Mara,Butiama,Butiama District Hospital,2019,3,Suspect,6
+Mara,Butiama,Butiama District Hospital,2019,4,Healthy,1
+Mara,Butiama,Butiama District Hospital,2019,4,Suspect,5
+Mara,Butiama,Butiama District Hospital,2019,5,Suspect,1
+Mara,Butiama,Butiama District Hospital,2019,6,Suspect,19
+Mara,Butiama,Butiama District Hospital,2019,7,Healthy,4
+Mara,Butiama,Butiama District Hospital,2019,7,Suspect,6
+Mara,Butiama,Butiama District Hospital,2019,8,Healthy,1
+Mara,Butiama,Butiama District Hospital,2020,1,Suspect,1
+Mara,Butiama,Butiama District Hospital,2020,2,Suspect,1
+Mara,Butiama,Butiama District Hospital,2020,5,Suspect,3
+Mara,Butiama,Butiama District Hospital,2020,6,Suspect,2
+Mara,Butiama,Butiama District Hospital,2020,11,Suspect,4
+Mara,Butiama,Butiama District Hospital,2020,12,Healthy,3
+Mara,Butiama,Butiama District Hospital,2020,12,Suspect,7
+Mara,Butiama,Butiama District Hospital,2021,1,Healthy,1
+Mara,Butiama,Butiama District Hospital,2021,1,Suspect,3
+Mara,Butiama,Butiama District Hospital,2021,2,Suspect,3
+Mara,Butiama,Butiama District Hospital,2021,3,Suspect,3
+Mara,Butiama,Butiama District Hospital,2021,4,Suspect,3
+Mara,Butiama,Butiama District Hospital,2021,8,Suspect,3
+Mara,Butiama,Butiama District Hospital,2021,9,Suspect,3
+Mara,Butiama,Butiama District Hospital,2021,10,Suspect,1
+Mara,Butiama,Butiama District Hospital,2021,11,Suspect,4
+Mara,Butiama,Butiama District Hospital,2022,1,Suspect,3
+Mara,Butiama,Butiama District Hospital,2022,3,Healthy,1
+Mara,Butiama,Butiama District Hospital,2022,3,Suspect,3
+Mara,Butiama,Butiama District Hospital,2022,6,Healthy,3
+Mara,Butiama,Butiama District Hospital,2022,6,Suspect,3
+Mara,Butiama,Butiama District Hospital,2022,7,Healthy,1
+Mara,Butiama,Butiama District Hospital,2022,7,Suspect,8
+Mara,Butiama,Butiama District Hospital,2022,8,Healthy,5
+Mara,Butiama,Butiama District Hospital,2022,9,Healthy,2
+Mara,Butiama,Butiama District Hospital,2022,9,Suspect,2
+Mara,Butiama,Butiama District Hospital,2022,12,Suspect,4
+Mara,Butiama,Butiama District Hospital,2023,1,Suspect,4
+Mara,Butiama,Butiama District Hospital,2023,2,Suspect,1
+Mara,Butiama,Butiama District Hospital,2023,3,Suspect,1
+Mara,Butiama,Butiama District Hospital,2023,5,Suspect,1
+Mara,Butiama,Butiama District Hospital,2023,6,Suspect,1
+Mara,Butiama,Butiama District Hospital,2023,7,Suspect,3
+Mara,Butiama,Butiama District Hospital,2023,8,Suspect,1
+Mara,Butiama,Butiama District Hospital,2023,10,Suspect,2
+Mara,Butiama,Butiama District Hospital,2023,11,Suspect,3
+Mara,Butiama,Ikizu Health Center,2022,3,Suspect,1
+Mara,Butiama,Kiagata Health Center,2022,3,Healthy,3
+Mara,Butiama,Kiagata Health Center,2022,4,Suspect,2
+Mara,Butiama,Kiagata Health Center,2022,5,Healthy,1
+Mara,Butiama,Kiagata Health Center,2022,5,Suspect,2
+Mara,Butiama,Kiagata Health Center,2022,6,Healthy,4
+Mara,Butiama,Kiagata Health Center,2022,6,Suspect,2
+Mara,Butiama,Kiagata Health Center,2022,7,Healthy,2
+Mara,Butiama,Kiagata Health Center,2022,8,Healthy,1
+Mara,Butiama,Kiagata Health Center,2022,9,Healthy,1
+Mara,Butiama,Kiagata Health Center,2023,9,Healthy,2
+Mara,Butiama,Kiagata Health Center,2023,11,Healthy,1
+Mara,Butiama,Kiagata Health Center,2023,11,Suspect,1
+Mara,Butiama,Manyamanyama Health Center,2019,6,Suspect,1
+Mara,Butiama,Manyamanyama Health Center,2020,3,Healthy,1
+Mara,Butiama,Manyamanyama Health Center,2020,3,Suspect,1
+Mara,Butiama,Manyamanyama Health Center,2020,4,Healthy,1
+Mara,Butiama,Manyamanyama Health Center,2020,7,Suspect,1
+Mara,Butiama,Manyamanyama Health Center,2022,2,Suspect,1
+Mara,Butiama,Manyamanyama Health Center,2022,9,Suspect,1
+Mara,Butiama,Manyamanyama Health Center,2022,10,Healthy,1
+Mara,Butiama,Manyamanyama Health Center,2022,10,Suspect,1
+Mara,Butiama,Manyamanyama Health Center,2022,11,Suspect,2
+Mara,Butiama,Manyamanyama Health Center,2023,4,Healthy,1
+Mara,Butiama,Manyamanyama Health Center,2023,5,Suspect,1
+Mara,Butiama,Manyamanyama Health Center,2023,9,Suspect,3
+Mara,Butiama,Musoma Regional Hospital,2021,10,Suspect,1
+Mara,Butiama,Musoma Regional Hospital,2023,3,Suspect,1
+Mara,Butiama,Nyasho Health Center,2018,8,Healthy,1
+Mara,Butiama,Nyasho Health Center,2018,8,Suspect,1
+Mara,Butiama,Nyasho Health Center,2020,11,Suspect,1
+Mara,Butiama,Nyasho Health Center,2023,9,Suspect,1
+Mara,Butiama,RCH B Health Center,2019,10,Suspect,1
+Mara,Butiama,Tanzania Facility,2022,8,Suspect,1
+Mara,Butiama,Tarime District Hospital,2023,10,Suspect,1
+Mara,Musoma,Buhemba Health Center,2019,2,Suspect,1
+Mara,Musoma,Buhemba Health Center,2019,6,Suspect,1
+Mara,Musoma,Butiama District Hospital,2019,4,Suspect,1
+Mara,Musoma,Butiama District Hospital,2021,9,Suspect,1
+Mara,Musoma,Butiama District Hospital,2023,10,Suspect,1
+Mara,Musoma,Butiama District Hospital,2023,12,Suspect,1
+Mara,Musoma,Coptic Health Center,2022,6,Healthy,1
+Mara,Musoma,Coptic Health Center,2022,6,Suspect,2
+Mara,Musoma,Coptic Health Center,2022,7,Suspect,2
+Mara,Musoma,Manyamanyama Health Center,2019,2,Suspect,1
+Mara,Musoma,Manyamanyama Health Center,2021,8,Suspect,1
+Mara,Musoma,Manyamanyama Health Center,2021,11,Suspect,2
+Mara,Musoma,Manyamanyama Health Center,2022,2,Suspect,2
+Mara,Musoma,Manyamanyama Health Center,2022,9,Suspect,1
+Mara,Musoma,Manyamanyama Health Center,2022,11,Healthy,1
+Mara,Musoma,Manyamanyama Health Center,2023,3,Suspect,1
+Mara,Musoma,Manyamanyama Health Center,2023,6,Suspect,1
+Mara,Musoma,Manyamanyama Health Center,2023,9,Suspect,1
+Mara,Musoma,Mugango Health Center,2020,8,Healthy,1
+Mara,Musoma,Mugango Health Center,2020,8,Suspect,1
+Mara,Musoma,Mugango Health Center,2022,10,Suspect,1
+Mara,Musoma,Mugango Health Center,2023,3,Suspect,1
+Mara,Musoma,Mugango Health Center,2023,6,Healthy,1
+Mara,Musoma,Mugango Health Center,2023,7,Healthy,1
+Mara,Musoma,Murangi Health Center,2018,9,Healthy,1
+Mara,Musoma,Murangi Health Center,2018,9,Suspect,4
+Mara,Musoma,Murangi Health Center,2018,11,Suspect,1
+Mara,Musoma,Murangi Health Center,2018,12,Healthy,1
+Mara,Musoma,Murangi Health Center,2019,3,Suspect,1
+Mara,Musoma,Murangi Health Center,2019,5,Healthy,1
+Mara,Musoma,Murangi Health Center,2019,7,Healthy,1
+Mara,Musoma,Murangi Health Center,2019,10,Healthy,1
+Mara,Musoma,Murangi Health Center,2019,12,Healthy,1
+Mara,Musoma,Murangi Health Center,2020,1,Healthy,5
+Mara,Musoma,Murangi Health Center,2020,2,Healthy,1
+Mara,Musoma,Murangi Health Center,2020,2,Suspect,1
+Mara,Musoma,Murangi Health Center,2020,4,Healthy,1
+Mara,Musoma,Murangi Health Center,2020,7,Healthy,3
+Mara,Musoma,Murangi Health Center,2020,7,Suspect,2
+Mara,Musoma,Murangi Health Center,2020,9,Suspect,2
+Mara,Musoma,Murangi Health Center,2020,10,Healthy,2
+Mara,Musoma,Murangi Health Center,2020,11,Healthy,1
+Mara,Musoma,Murangi Health Center,2020,11,Suspect,2
+Mara,Musoma,Murangi Health Center,2020,12,Healthy,1
+Mara,Musoma,Murangi Health Center,2020,12,Suspect,2
+Mara,Musoma,Murangi Health Center,2021,1,Healthy,1
+Mara,Musoma,Murangi Health Center,2021,2,Suspect,3
+Mara,Musoma,Murangi Health Center,2021,3,Healthy,2
+Mara,Musoma,Murangi Health Center,2021,5,Healthy,1
+Mara,Musoma,Murangi Health Center,2021,5,Suspect,1
+Mara,Musoma,Murangi Health Center,2021,7,Healthy,1
+Mara,Musoma,Murangi Health Center,2021,8,Suspect,1
+Mara,Musoma,Murangi Health Center,2021,9,Healthy,1
+Mara,Musoma,Murangi Health Center,2021,11,Suspect,5
+Mara,Musoma,Murangi Health Center,2021,12,Healthy,1
+Mara,Musoma,Murangi Health Center,2021,12,Suspect,6
+Mara,Musoma,Murangi Health Center,2022,3,Healthy,1
+Mara,Musoma,Murangi Health Center,2022,3,Suspect,3
+Mara,Musoma,Murangi Health Center,2022,4,Healthy,1
+Mara,Musoma,Murangi Health Center,2022,5,Healthy,1
+Mara,Musoma,Murangi Health Center,2022,6,Healthy,2
+Mara,Musoma,Murangi Health Center,2022,6,Suspect,3
+Mara,Musoma,Murangi Health Center,2022,7,Healthy,5
+Mara,Musoma,Murangi Health Center,2022,7,Suspect,7
+Mara,Musoma,Murangi Health Center,2022,8,Healthy,1
+Mara,Musoma,Murangi Health Center,2023,1,Suspect,1
+Mara,Musoma,Murangi Health Center,2023,2,Suspect,1
+Mara,Musoma,Murangi Health Center,2023,3,Suspect,1
+Mara,Musoma,Murangi Health Center,2023,5,Healthy,1
+Mara,Musoma,Murangi Health Center,2023,7,Healthy,1
+Mara,Musoma,Murangi Health Center,2023,7,Suspect,1
+Mara,Musoma,Murangi Health Center,2023,8,Suspect,2
+Mara,Musoma,Murangi Health Center,2023,9,Healthy,1
+Mara,Musoma,Murangi Health Center,2023,9,Suspect,4
+Mara,Musoma,Murangi Health Center,2023,11,Suspect,1
+Mara,Musoma,Murangi Health Center,2023,12,Suspect,6
+Mara,Musoma,Musoma Regional Hospital,2020,9,Suspect,2
+Mara,Musoma,Musoma Regional Hospital,2020,10,Suspect,1
+Mara,Musoma,Musoma Regional Hospital,2020,11,Suspect,1
+Mara,Musoma,Musoma Regional Hospital,2020,12,Suspect,1
+Mara,Musoma,Musoma Regional Hospital,2021,1,Healthy,1
+Mara,Musoma,Musoma Regional Hospital,2021,2,Suspect,2
+Mara,Musoma,Musoma Regional Hospital,2021,9,Suspect,1
+Mara,Musoma,Musoma Regional Hospital,2021,10,Healthy,1
+Mara,Musoma,Musoma Regional Hospital,2022,12,Suspect,1
+Mara,Musoma,Musoma Regional Hospital,2023,1,Healthy,1
+Mara,Musoma,Musoma Regional Hospital,2023,1,Suspect,1
+Mara,Musoma,Musoma Regional Hospital,2023,2,Suspect,1
+Mara,Musoma,Musoma Regional Hospital,2023,3,Suspect,1
+Mara,Musoma,Newala District Hospital,2019,5,Suspect,1
+Mara,Musoma,Nyasho Health Center,2018,8,Healthy,1
+Mara,Musoma,Nyasho Health Center,2019,3,Healthy,1
+Mara,Musoma,Nyasho Health Center,2019,5,Healthy,5
+Mara,Musoma,Nyasho Health Center,2019,5,Suspect,2
+Mara,Musoma,Nyasho Health Center,2019,9,Healthy,2
+Mara,Musoma,Nyasho Health Center,2019,9,Suspect,3
+Mara,Musoma,Nyasho Health Center,2019,10,Suspect,1
+Mara,Musoma,Nyasho Health Center,2019,12,Healthy,1
+Mara,Musoma,Nyasho Health Center,2020,1,Suspect,2
+Mara,Musoma,Nyasho Health Center,2020,2,Healthy,2
+Mara,Musoma,Nyasho Health Center,2020,2,Suspect,5
+Mara,Musoma,Nyasho Health Center,2020,3,Suspect,1
+Mara,Musoma,Nyasho Health Center,2020,10,Suspect,2
+Mara,Musoma,Nyasho Health Center,2020,11,Suspect,2
+Mara,Musoma,Nyasho Health Center,2020,12,Healthy,1
+Mara,Musoma,Nyasho Health Center,2020,12,Suspect,1
+Mara,Musoma,Nyasho Health Center,2021,1,Suspect,5
+Mara,Musoma,Nyasho Health Center,2021,2,Suspect,2
+Mara,Musoma,Nyasho Health Center,2021,6,Healthy,1
+Mara,Musoma,Nyasho Health Center,2021,6,Suspect,1
+Mara,Musoma,Nyasho Health Center,2021,7,Healthy,3
+Mara,Musoma,Nyasho Health Center,2021,7,Suspect,1
+Mara,Musoma,Nyasho Health Center,2021,8,Healthy,3
+Mara,Musoma,Nyasho Health Center,2021,8,Suspect,1
+Mara,Musoma,Nyasho Health Center,2021,9,Healthy,4
+Mara,Musoma,Nyasho Health Center,2021,9,Suspect,3
+Mara,Musoma,Nyasho Health Center,2021,10,Suspect,1
+Mara,Musoma,Nyasho Health Center,2021,11,Healthy,1
+Mara,Musoma,Nyasho Health Center,2021,11,Suspect,4
+Mara,Musoma,Nyasho Health Center,2021,12,Suspect,1
+Mara,Musoma,Nyasho Health Center,2022,3,Suspect,6
+Mara,Musoma,Nyasho Health Center,2022,4,Healthy,2
+Mara,Musoma,Nyasho Health Center,2022,4,Suspect,4
+Mara,Musoma,Nyasho Health Center,2022,5,Suspect,1
+Mara,Musoma,Nyasho Health Center,2022,6,Healthy,1
+Mara,Musoma,Nyasho Health Center,2022,6,Suspect,2
+Mara,Musoma,Nyasho Health Center,2022,7,Suspect,2
+Mara,Musoma,Nyasho Health Center,2022,9,Suspect,2
+Mara,Musoma,Nyasho Health Center,2022,10,Suspect,7
+Mara,Musoma,Nyasho Health Center,2022,12,Healthy,2
+Mara,Musoma,Nyasho Health Center,2022,12,Suspect,5
+Mara,Musoma,Nyasho Health Center,2023,1,Healthy,1
+Mara,Musoma,Nyasho Health Center,2023,1,Suspect,4
+Mara,Musoma,Nyasho Health Center,2023,2,Suspect,1
+Mara,Musoma,Nyasho Health Center,2023,3,Suspect,2
+Mara,Musoma,Nyasho Health Center,2023,4,Suspect,1
+Mara,Musoma,Nyasho Health Center,2023,5,Healthy,3
+Mara,Musoma,Nyasho Health Center,2023,6,Suspect,2
+Mara,Musoma,Nyasho Health Center,2023,7,Suspect,3
+Mara,Musoma,Nyasho Health Center,2023,9,Suspect,4
+Mara,Musoma,Nyasho Health Center,2023,12,Suspect,4
+Mara,Musoma,Shirati Hospital,2019,7,Suspect,1
+Mara,Rorya,Bunda District Hospital,2022,11,Healthy,2
+Mara,Rorya,Butiama District Hospital,2021,11,Suspect,1
+Mara,Rorya,Kinesi Health Center,2020,5,Suspect,1
+Mara,Rorya,Kinesi Health Center,2020,6,Suspect,2
+Mara,Rorya,Kinesi Health Center,2020,7,Suspect,3
+Mara,Rorya,Kinesi Health Center,2020,9,Healthy,2
+Mara,Rorya,Kinesi Health Center,2020,10,Healthy,2
+Mara,Rorya,Kinesi Health Center,2020,11,Healthy,1
+Mara,Rorya,Kinesi Health Center,2021,2,Healthy,1
+Mara,Rorya,Kinesi Health Center,2021,5,Healthy,1
+Mara,Rorya,Kinesi Health Center,2021,6,Healthy,2
+Mara,Rorya,Kinesi Health Center,2021,6,Suspect,1
+Mara,Rorya,Kinesi Health Center,2021,9,Healthy,1
+Mara,Rorya,Kinesi Health Center,2022,3,Suspect,1
+Mara,Rorya,Kinesi Health Center,2022,4,Healthy,1
+Mara,Rorya,Kinesi Health Center,2022,4,Suspect,1
+Mara,Rorya,Kinesi Health Center,2022,5,Suspect,2
+Mara,Rorya,Kinesi Health Center,2022,7,Healthy,1
+Mara,Rorya,Kinesi Health Center,2022,8,Healthy,2
+Mara,Rorya,Kinesi Health Center,2022,8,Suspect,1
+Mara,Rorya,Kinesi Health Center,2023,1,Suspect,1
+Mara,Rorya,Kinesi Health Center,2023,4,Suspect,1
+Mara,Rorya,Kinesi Health Center,2023,6,Healthy,1
+Mara,Rorya,Kinesi Health Center,2023,7,Healthy,1
+Mara,Rorya,Kinesi Health Center,2023,7,Suspect,2
+Mara,Rorya,Kinesi Health Center,2023,9,Suspect,2
+Mara,Rorya,Kinesi Health Center,2023,10,Healthy,1
+Mara,Rorya,Kinesi Health Center,2023,10,Suspect,1
+Mara,Rorya,Kinesi Health Center,2023,11,Suspect,1
+Mara,Rorya,Kinesi Health Center,2023,12,Healthy,1
+Mara,Rorya,Nyamagaro Health Center,2020,9,Suspect,1
+Mara,Rorya,Nyamagaro Health Center,2020,10,Healthy,1
+Mara,Rorya,Nyamagaro Health Center,2020,11,Suspect,1
+Mara,Rorya,Nyamagaro Health Center,2020,12,Healthy,1
+Mara,Rorya,Nyamagaro Health Center,2021,1,Healthy,2
+Mara,Rorya,Nyamagaro Health Center,2021,2,Healthy,1
+Mara,Rorya,Nyamagaro Health Center,2022,4,Healthy,2
+Mara,Rorya,Nyamagaro Health Center,2022,4,Suspect,2
+Mara,Rorya,Nyamagaro Health Center,2022,5,Healthy,1
+Mara,Rorya,Nyamagaro Health Center,2022,5,Suspect,3
+Mara,Rorya,Nyamagaro Health Center,2022,7,Suspect,1
+Mara,Rorya,Nyamagaro Health Center,2022,11,Healthy,3
+Mara,Rorya,Nyamagaro Health Center,2022,11,Suspect,1
+Mara,Rorya,Nyamagaro Health Center,2022,12,Healthy,1
+Mara,Rorya,Nyamagaro Health Center,2022,12,Suspect,1
+Mara,Rorya,Nyamagaro Health Center,2023,1,Suspect,3
+Mara,Rorya,Nyamagaro Health Center,2023,2,Suspect,6
+Mara,Rorya,Nyamagaro Health Center,2023,3,Healthy,3
+Mara,Rorya,Nyamagaro Health Center,2023,3,Suspect,3
+Mara,Rorya,Nyamagaro Health Center,2023,4,Suspect,1
+Mara,Rorya,Nyamagaro Health Center,2023,6,Suspect,2
+Mara,Rorya,Nyamagaro Health Center,2023,7,Suspect,2
+Mara,Rorya,Nyamagaro Health Center,2023,8,Suspect,1
+Mara,Rorya,Nyamagaro Health Center,2023,10,Suspect,1
+Mara,Rorya,Nyasho Health Center,2020,1,Healthy,1
+Mara,Rorya,Nyasho Health Center,2022,11,Suspect,1
+Mara,Rorya,Shirati Hospital,2018,4,Suspect,1
+Mara,Rorya,Shirati Hospital,2018,6,Suspect,5
+Mara,Rorya,Shirati Hospital,2018,7,Suspect,1
+Mara,Rorya,Shirati Hospital,2018,8,Healthy,1
+Mara,Rorya,Shirati Hospital,2018,8,Suspect,3
+Mara,Rorya,Shirati Hospital,2018,9,Suspect,1
+Mara,Rorya,Shirati Hospital,2019,4,Healthy,1
+Mara,Rorya,Shirati Hospital,2019,4,Suspect,2
+Mara,Rorya,Shirati Hospital,2019,6,Healthy,2
+Mara,Rorya,Shirati Hospital,2019,7,Suspect,1
+Mara,Rorya,Shirati Hospital,2019,8,Suspect,3
+Mara,Rorya,Shirati Hospital,2019,9,Suspect,1
+Mara,Rorya,Shirati Hospital,2019,10,Suspect,1
+Mara,Rorya,Shirati Hospital,2019,11,Suspect,3
+Mara,Rorya,Shirati Hospital,2019,12,Suspect,1
+Mara,Rorya,Shirati Hospital,2020,1,Suspect,5
+Mara,Rorya,Shirati Hospital,2020,2,Suspect,4
+Mara,Rorya,Shirati Hospital,2020,3,Suspect,3
+Mara,Rorya,Shirati Hospital,2020,4,Suspect,1
+Mara,Rorya,Shirati Hospital,2020,7,Suspect,3
+Mara,Rorya,Shirati Hospital,2020,8,Suspect,3
+Mara,Rorya,Shirati Hospital,2020,9,Healthy,1
+Mara,Rorya,Shirati Hospital,2020,11,Healthy,2
+Mara,Rorya,Shirati Hospital,2020,12,Healthy,2
+Mara,Rorya,Shirati Hospital,2021,1,Healthy,2
+Mara,Rorya,Shirati Hospital,2021,1,Suspect,2
+Mara,Rorya,Shirati Hospital,2021,2,Healthy,1
+Mara,Rorya,Shirati Hospital,2021,2,Suspect,2
+Mara,Rorya,Shirati Hospital,2021,3,Suspect,1
+Mara,Rorya,Shirati Hospital,2021,7,Healthy,3
+Mara,Rorya,Shirati Hospital,2021,8,Healthy,2
+Mara,Rorya,Shirati Hospital,2021,8,Suspect,3
+Mara,Rorya,Shirati Hospital,2021,9,Healthy,3
+Mara,Rorya,Shirati Hospital,2021,9,Suspect,2
+Mara,Rorya,Shirati Hospital,2021,10,Healthy,1
+Mara,Rorya,Shirati Hospital,2021,10,Suspect,2
+Mara,Rorya,Shirati Hospital,2021,11,Healthy,3
+Mara,Rorya,Shirati Hospital,2021,11,Suspect,5
+Mara,Rorya,Shirati Hospital,2021,12,Suspect,8
+Mara,Rorya,Shirati Hospital,2022,1,Healthy,1
+Mara,Rorya,Shirati Hospital,2022,2,Healthy,1
+Mara,Rorya,Shirati Hospital,2022,3,Healthy,2
+Mara,Rorya,Shirati Hospital,2022,3,Suspect,5
+Mara,Rorya,Shirati Hospital,2022,4,Healthy,1
+Mara,Rorya,Shirati Hospital,2022,5,Healthy,2
+Mara,Rorya,Shirati Hospital,2022,6,Healthy,3
+Mara,Rorya,Shirati Hospital,2022,11,Healthy,1
+Mara,Rorya,Shirati Hospital,2022,12,Healthy,3
+Mara,Rorya,Shirati Hospital,2022,12,Suspect,1
+Mara,Rorya,Shirati Hospital,2023,4,Suspect,1
+Mara,Rorya,Shirati Hospital,2023,6,Healthy,2
+Mara,Rorya,Shirati Hospital,2023,8,Healthy,1
+Mara,Rorya,Shirati Hospital,2023,8,Suspect,2
+Mara,Rorya,Shirati Hospital,2023,9,Healthy,3
+Mara,Rorya,Shirati Hospital,2023,9,Suspect,3
+Mara,Rorya,Shirati Hospital,2023,10,Healthy,1
+Mara,Rorya,Shirati Hospital,2023,10,Suspect,2
+Mara,Rorya,Tarime District Hospital,2023,11,Suspect,1
+Mara,Rorya,Utegi Health Center,2019,12,Suspect,1
+Mara,Rorya,Utegi Health Center,2020,1,Suspect,2
+Mara,Rorya,Utegi Health Center,2020,7,Suspect,1
+Mara,Rorya,Utegi Health Center,2020,8,Suspect,1
+Mara,Rorya,Utegi Health Center,2020,10,Healthy,3
+Mara,Rorya,Utegi Health Center,2021,6,Healthy,2
+Mara,Rorya,Utegi Health Center,2022,3,Healthy,1
+Mara,Rorya,Utegi Health Center,2023,1,Suspect,1
+Mara,Rorya,Utegi Health Center,2023,6,Healthy,1
+Mara,Rorya,Utegi Health Center,2023,7,Suspect,1
+Mara,Rorya,Utegi Health Center,2023,11,Healthy,2
+Mara,Rorya,Utegi Health Center,2023,11,Suspect,1
+Mara,Serengeti,Alailelai Dispensary,2022,9,Suspect,1
+Mara,Serengeti,Alailelai Dispensary,2022,10,Suspect,1
+Mara,Serengeti,Alailelai Dispensary,2022,11,Suspect,1
+Mara,Serengeti,Alailelai Dispensary,2022,12,Suspect,2
+Mara,Serengeti,Alailelai Dispensary,2023,4,Healthy,2
+Mara,Serengeti,Bunda District Hospital,2019,4,Suspect,1
+Mara,Serengeti,Iramba Health Center,2020,8,Healthy,14
+Mara,Serengeti,Iramba Health Center,2020,8,Suspect,3
+Mara,Serengeti,Isenye Dispensary,2018,9,Suspect,2
+Mara,Serengeti,Isenye Dispensary,2019,11,Healthy,2
+Mara,Serengeti,Isenye Dispensary,2019,12,Healthy,23
+Mara,Serengeti,Isenye Dispensary,2020,1,Suspect,1
+Mara,Serengeti,Isenye Dispensary,2020,2,Healthy,10
+Mara,Serengeti,Isenye Dispensary,2020,2,Suspect,1
+Mara,Serengeti,Isenye Dispensary,2020,6,Healthy,18
+Mara,Serengeti,Isenye Dispensary,2020,6,Suspect,4
+Mara,Serengeti,Isenye Dispensary,2020,9,Healthy,25
+Mara,Serengeti,Isenye Dispensary,2020,9,Suspect,3
+Mara,Serengeti,Isenye Dispensary,2020,12,Healthy,16
+Mara,Serengeti,Isenye Dispensary,2020,12,Suspect,2
+Mara,Serengeti,Isenye Dispensary,2021,2,Healthy,29
+Mara,Serengeti,Isenye Dispensary,2021,2,Suspect,3
+Mara,Serengeti,Isenye Dispensary,2021,7,Healthy,10
+Mara,Serengeti,Isenye Dispensary,2021,7,Suspect,7
+Mara,Serengeti,Isenye Dispensary,2026,9,Healthy,1
+Mara,Serengeti,Kisaka Dispensary,2020,11,Healthy,1
+Mara,Serengeti,Kisaka Dispensary,2020,11,Suspect,2
+Mara,Serengeti,Kisaka Dispensary,2020,12,Suspect,4
+Mara,Serengeti,Kisaka Dispensary,2021,1,Suspect,3
+Mara,Serengeti,Kisaka Dispensary,2021,2,Healthy,8
+Mara,Serengeti,Kisaka Dispensary,2021,2,Suspect,3
+Mara,Serengeti,Kisaka Dispensary,2021,3,Healthy,1
+Mara,Serengeti,Kisaka Dispensary,2021,8,Suspect,2
+Mara,Serengeti,Kisaka Dispensary,2021,9,Healthy,2
+Mara,Serengeti,Kisaka Dispensary,2021,9,Suspect,1
+Mara,Serengeti,Kisaka Dispensary,2021,10,Suspect,2
+Mara,Serengeti,Kisaka Dispensary,2023,2,Suspect,4
+Mara,Serengeti,Kisaka Dispensary,2023,3,Suspect,2
+Mara,Serengeti,Maburi Dispensary,2019,11,Healthy,1
+Mara,Serengeti,Maburi Dispensary,2019,12,Healthy,3
+Mara,Serengeti,Maburi Dispensary,2020,1,Healthy,1
+Mara,Serengeti,Maburi Dispensary,2020,2,Healthy,2
+Mara,Serengeti,Maburi Dispensary,2021,6,Healthy,5
+Mara,Serengeti,Maburi Dispensary,2021,6,Suspect,1
+Mara,Serengeti,Maburi Dispensary,2021,7,Healthy,1
+Mara,Serengeti,Maburi Dispensary,2021,7,Suspect,1
+Mara,Serengeti,Maburi Dispensary,2022,7,Healthy,3
+Mara,Serengeti,Maburi Dispensary,2022,8,Healthy,9
+Mara,Serengeti,Maburi Dispensary,2022,8,Suspect,1
+Mara,Serengeti,Maburi Dispensary,2022,9,Healthy,9
+Mara,Serengeti,Maburi Dispensary,2022,9,Suspect,1
+Mara,Serengeti,Maburi Dispensary,2022,10,Healthy,3
+Mara,Serengeti,Majimoto Dispensary,2020,8,Healthy,10
+Mara,Serengeti,Majimoto Dispensary,2020,8,Suspect,3
+Mara,Serengeti,Majimoto Dispensary,2021,2,Healthy,1
+Mara,Serengeti,Majimoto Dispensary,2021,5,Healthy,2
+Mara,Serengeti,Majimoto Dispensary,2021,5,Suspect,1
+Mara,Serengeti,Majimoto Dispensary,2021,6,Healthy,2
+Mara,Serengeti,Majimoto Dispensary,2021,6,Suspect,3
+Mara,Serengeti,Majimoto Dispensary,2021,7,Healthy,3
+Mara,Serengeti,Majimoto Dispensary,2021,7,Suspect,3
+Mara,Serengeti,Majimoto Dispensary,2022,3,Suspect,2
+Mara,Serengeti,Majimoto Dispensary,2022,4,Healthy,2
+Mara,Serengeti,Majimoto Dispensary,2022,5,Healthy,5
+Mara,Serengeti,Majimoto Dispensary,2022,6,Suspect,4
+Mara,Serengeti,Majimoto Dispensary,2022,7,Suspect,1
+Mara,Serengeti,Majimoto Dispensary,2022,8,Healthy,2
+Mara,Serengeti,Majimoto Dispensary,2022,8,Suspect,5
+Mara,Serengeti,Majimoto Dispensary,2022,9,Healthy,1
+Mara,Serengeti,Majimoto Dispensary,2023,2,Suspect,3
+Mara,Serengeti,Manyamanyama Health Center,2019,1,Healthy,1
+Mara,Serengeti,Manyamanyama Health Center,2022,9,Suspect,1
+Mara,Serengeti,Manyamanyama Health Center,2023,4,Suspect,1
+Mara,Serengeti,Musoma Regional Hospital,2023,1,Suspect,1
+Mara,Serengeti,Natta Health Center,2020,4,Healthy,10
+Mara,Serengeti,Natta Health Center,2020,4,Suspect,1
+Mara,Serengeti,Natta Health Center,2020,5,Healthy,1
+Mara,Serengeti,Natta Health Center,2021,5,Healthy,11
+Mara,Serengeti,Natta Health Center,2021,5,Suspect,5
+Mara,Serengeti,Natta Health Center,2022,7,Suspect,3
+Mara,Serengeti,Natta Health Center,2022,8,Suspect,5
+Mara,Serengeti,Natta Health Center,2023,1,Healthy,7
+Mara,Serengeti,Natta Health Center,2023,2,Suspect,3
+Mara,Serengeti,Nyamagaro Health Center,2022,10,Healthy,1
+Mara,Serengeti,RCH A Health Center,2022,2,Healthy,2
+Mara,Serengeti,RCH A Health Center,2022,3,Healthy,4
+Mara,Serengeti,RCH A Health Center,2022,4,Healthy,1
+Mara,Serengeti,RCH A Health Center,2022,5,Healthy,1
+Mara,Serengeti,RCH A Health Center,2022,6,Healthy,1
+Mara,Serengeti,RCH A Health Center,2022,6,Suspect,1
+Mara,Serengeti,RCH A Health Center,2022,8,Healthy,1
+Mara,Serengeti,RCH A Health Center,2022,9,Healthy,1
+Mara,Serengeti,RCH A Health Center,2022,10,Healthy,2
+Mara,Serengeti,RCH A Health Center,2022,11,Healthy,2
+Mara,Serengeti,RCH A Health Center,2022,12,Healthy,2
+Mara,Serengeti,RCH A Health Center,2023,1,Healthy,1
+Mara,Serengeti,RCH B Health Center,2018,9,Healthy,4
+Mara,Serengeti,RCH B Health Center,2018,10,Healthy,7
+Mara,Serengeti,RCH B Health Center,2018,10,Suspect,6
+Mara,Serengeti,RCH B Health Center,2018,11,Healthy,2
+Mara,Serengeti,RCH B Health Center,2018,11,Suspect,1
+Mara,Serengeti,RCH B Health Center,2018,12,Healthy,3
+Mara,Serengeti,RCH B Health Center,2018,12,Suspect,1
+Mara,Serengeti,RCH B Health Center,2019,1,Healthy,2
+Mara,Serengeti,RCH B Health Center,2019,1,Suspect,2
+Mara,Serengeti,RCH B Health Center,2019,2,Healthy,10
+Mara,Serengeti,RCH B Health Center,2019,2,Suspect,4
+Mara,Serengeti,RCH B Health Center,2019,3,Healthy,5
+Mara,Serengeti,RCH B Health Center,2019,3,Suspect,6
+Mara,Serengeti,RCH B Health Center,2019,4,Healthy,34
+Mara,Serengeti,RCH B Health Center,2019,4,Suspect,6
+Mara,Serengeti,RCH B Health Center,2019,5,Healthy,41
+Mara,Serengeti,RCH B Health Center,2019,5,Suspect,11
+Mara,Serengeti,RCH B Health Center,2019,6,Healthy,28
+Mara,Serengeti,RCH B Health Center,2019,6,Suspect,5
+Mara,Serengeti,RCH B Health Center,2019,7,Healthy,34
+Mara,Serengeti,RCH B Health Center,2019,7,Suspect,12
+Mara,Serengeti,RCH B Health Center,2019,8,Healthy,14
+Mara,Serengeti,RCH B Health Center,2019,9,Healthy,47
+Mara,Serengeti,RCH B Health Center,2019,9,Suspect,2
+Mara,Serengeti,RCH B Health Center,2019,10,Healthy,28
+Mara,Serengeti,RCH B Health Center,2019,10,Suspect,8
+Mara,Serengeti,RCH B Health Center,2019,11,Healthy,35
+Mara,Serengeti,RCH B Health Center,2019,11,Suspect,3
+Mara,Serengeti,RCH B Health Center,2019,12,Healthy,28
+Mara,Serengeti,RCH B Health Center,2020,1,Healthy,15
+Mara,Serengeti,RCH B Health Center,2020,2,Healthy,9
+Mara,Serengeti,RCH B Health Center,2020,2,Suspect,3
+Mara,Serengeti,RCH B Health Center,2020,3,Healthy,25
+Mara,Serengeti,RCH B Health Center,2020,4,Healthy,4
+Mara,Serengeti,RCH B Health Center,2020,7,Healthy,27
+Mara,Serengeti,RCH B Health Center,2020,7,Suspect,3
+Mara,Serengeti,RCH B Health Center,2020,8,Healthy,2
+Mara,Serengeti,RCH B Health Center,2020,9,Healthy,7
+Mara,Serengeti,RCH B Health Center,2020,10,Healthy,26
+Mara,Serengeti,RCH B Health Center,2020,10,Suspect,4
+Mara,Serengeti,RCH B Health Center,2020,11,Healthy,29
+Mara,Serengeti,RCH B Health Center,2020,11,Suspect,5
+Mara,Serengeti,RCH B Health Center,2020,12,Healthy,17
+Mara,Serengeti,RCH B Health Center,2020,12,Suspect,2
+Mara,Serengeti,RCH B Health Center,2021,1,Healthy,22
+Mara,Serengeti,RCH B Health Center,2021,1,Suspect,6
+Mara,Serengeti,RCH B Health Center,2021,3,Healthy,26
+Mara,Serengeti,RCH B Health Center,2021,3,Suspect,7
+Mara,Serengeti,RCH B Health Center,2021,4,Healthy,32
+Mara,Serengeti,RCH B Health Center,2021,4,Suspect,5
+Mara,Serengeti,RCH B Health Center,2021,6,Healthy,14
+Mara,Serengeti,RCH B Health Center,2021,6,Suspect,4
+Mara,Serengeti,RCH B Health Center,2021,7,Healthy,1
+Mara,Serengeti,RCH B Health Center,2021,8,Healthy,12
+Mara,Serengeti,RCH B Health Center,2021,8,Suspect,9
+Mara,Serengeti,RCH B Health Center,2021,9,Healthy,13
+Mara,Serengeti,RCH B Health Center,2021,9,Suspect,7
+Mara,Serengeti,RCH B Health Center,2021,10,Healthy,9
+Mara,Serengeti,RCH B Health Center,2021,10,Suspect,10
+Mara,Serengeti,RCH B Health Center,2021,11,Healthy,6
+Mara,Serengeti,RCH B Health Center,2021,11,Suspect,15
+Mara,Serengeti,RCH B Health Center,2021,12,Healthy,11
+Mara,Serengeti,RCH B Health Center,2021,12,Suspect,7
+Mara,Serengeti,RCH B Health Center,2022,2,Healthy,10
+Mara,Serengeti,RCH B Health Center,2022,2,Suspect,9
+Mara,Serengeti,RCH B Health Center,2022,3,Healthy,14
+Mara,Serengeti,RCH B Health Center,2022,3,Suspect,9
+Mara,Serengeti,RCH B Health Center,2022,4,Healthy,5
+Mara,Serengeti,RCH B Health Center,2022,4,Suspect,10
+Mara,Serengeti,RCH B Health Center,2022,5,Healthy,5
+Mara,Serengeti,RCH B Health Center,2022,5,Suspect,9
+Mara,Serengeti,RCH B Health Center,2022,6,Healthy,6
+Mara,Serengeti,RCH B Health Center,2022,6,Suspect,5
+Mara,Serengeti,RCH B Health Center,2022,7,Healthy,8
+Mara,Serengeti,RCH B Health Center,2022,7,Suspect,9
+Mara,Serengeti,RCH B Health Center,2022,8,Healthy,5
+Mara,Serengeti,RCH B Health Center,2022,8,Suspect,7
+Mara,Serengeti,RCH B Health Center,2022,9,Healthy,5
+Mara,Serengeti,RCH B Health Center,2022,9,Suspect,8
+Mara,Serengeti,RCH B Health Center,2022,10,Healthy,11
+Mara,Serengeti,RCH B Health Center,2022,10,Suspect,12
+Mara,Serengeti,RCH B Health Center,2022,11,Healthy,7
+Mara,Serengeti,RCH B Health Center,2022,11,Suspect,8
+Mara,Serengeti,RCH B Health Center,2022,12,Healthy,7
+Mara,Serengeti,RCH B Health Center,2022,12,Suspect,6
+Mara,Serengeti,RCH B Health Center,2023,3,Healthy,6
+Mara,Serengeti,RCH B Health Center,2023,3,Suspect,11
+Mara,Serengeti,RCH B Health Center,2023,4,Healthy,7
+Mara,Serengeti,RCH B Health Center,2023,4,Suspect,10
+Mara,Serengeti,RCH B Health Center,2023,5,Healthy,1
+Mara,Serengeti,RCH B Health Center,2023,5,Suspect,13
+Mara,Serengeti,RCH B Health Center,2023,6,Healthy,1
+Mara,Serengeti,RCH B Health Center,2023,6,Suspect,11
+Mara,Serengeti,RCH B Health Center,2023,7,Healthy,4
+Mara,Serengeti,RCH B Health Center,2023,7,Suspect,10
+Mara,Serengeti,RCH B Health Center,2023,8,Healthy,4
+Mara,Serengeti,RCH B Health Center,2023,8,Suspect,10
+Mara,Serengeti,RCH B Health Center,2023,9,Healthy,8
+Mara,Serengeti,RCH B Health Center,2023,9,Suspect,3
+Mara,Serengeti,RCH B Health Center,2023,11,Healthy,2
+Mara,Serengeti,RCH B Health Center,2023,11,Suspect,10
+Mara,Serengeti,RCH B Health Center,2023,12,Healthy,7
+Mara,Serengeti,RCH B Health Center,2023,12,Suspect,5
+Mara,Serengeti,Rabies Test Facility,2018,1,Suspect,1
+Mara,Serengeti,Rabies Test Facility,2018,2,Healthy,3
+Mara,Serengeti,Rabies Test Facility,2018,3,Healthy,4
+Mara,Serengeti,Rabies Test Facility,2018,4,Healthy,2
+Mara,Serengeti,Rabies Test Facility,2018,5,Healthy,3
+Mara,Serengeti,Rabies Test Facility,2018,6,Healthy,2
+Mara,Serengeti,Rabies Test Facility,2018,6,Suspect,2
+Mara,Serengeti,Rabies Test Facility,2018,7,Healthy,3
+Mara,Serengeti,Rabies Test Facility,2018,7,Suspect,1
+Mara,Serengeti,Rung'abore Dispensary,2020,1,Healthy,1
+Mara,Serengeti,Rung'abore Dispensary,2020,6,Healthy,4
+Mara,Serengeti,Rung'abore Dispensary,2020,8,Healthy,1
+Mara,Serengeti,Rung'abore Dispensary,2020,8,Suspect,1
+Mara,Serengeti,Rung'abore Dispensary,2021,5,Healthy,5
+Mara,Serengeti,Rung'abore Dispensary,2021,5,Suspect,2
+Mara,Serengeti,Rung'abore Dispensary,2022,8,Healthy,1
+Mara,Serengeti,Rung'abore Dispensary,2022,9,Healthy,1
+Mara,Serengeti,Rung'abore Dispensary,2022,9,Suspect,3
+Mara,Serengeti,Rung'abore Dispensary,2022,10,Healthy,2
+Mara,Serengeti,Rung'abore Dispensary,2022,12,Healthy,1
+Mara,Serengeti,Rung'abore Dispensary,2023,1,Healthy,1
+Mara,Serengeti,Rung'abore Dispensary,2023,2,Healthy,1
+Mara,Serengeti,Rung'abore Dispensary,2023,3,Healthy,1
+Mara,Serengeti,Rung'abore Dispensary,2023,3,Suspect,1
+Mara,Serengeti,Rung'abore Dispensary,2023,4,Healthy,2
+Mara,Serengeti,Rung'abore Dispensary,2023,6,Healthy,3
+Mara,Serengeti,Rung'abore Dispensary,2023,7,Healthy,1
+Mara,Serengeti,Rung'abore Dispensary,2023,8,Healthy,4
+Mara,Serengeti,Rung'abore Dispensary,2023,9,Healthy,2
+Mara,Serengeti,Rung'abore Dispensary,2023,10,Healthy,3
+Mara,Serengeti,Rung'abore Dispensary,2023,12,Suspect,1
+Mara,Serengeti,Sakala Health Center,2023,5,Suspect,4
+Mara,Serengeti,Sakala Health Center,2023,6,Suspect,2
+Mara,Serengeti,Serengeti District Hospital,2022,6,Healthy,4
+Mara,Serengeti,Serengeti District Hospital,2022,9,Healthy,1
+Mara,Serengeti,Serengeti District Hospital,2023,1,Healthy,10
+Mara,Serengeti,Serengeti District Hospital,2023,1,Suspect,7
+Mara,Serengeti,Serengeti District Hospital,2023,2,Healthy,6
+Mara,Serengeti,Serengeti District Hospital,2023,2,Suspect,10
+Mara,Serengeti,Serengeti District Hospital,2023,10,Healthy,2
+Mara,Serengeti,Serengeti District Hospital,2023,10,Suspect,6
+Mara,Tarime,Kibaoni Health Center,2020,12,Healthy,1
+Mara,Tarime,Muriba Health Center,2018,10,Healthy,4
+Mara,Tarime,Muriba Health Center,2018,10,Suspect,2
+Mara,Tarime,Muriba Health Center,2018,11,Suspect,1
+Mara,Tarime,Muriba Health Center,2018,12,Healthy,1
+Mara,Tarime,Muriba Health Center,2019,2,Suspect,1
+Mara,Tarime,Muriba Health Center,2019,3,Healthy,2
+Mara,Tarime,Muriba Health Center,2019,4,Healthy,3
+Mara,Tarime,Muriba Health Center,2019,5,Healthy,2
+Mara,Tarime,Muriba Health Center,2019,6,Healthy,2
+Mara,Tarime,Muriba Health Center,2019,7,Suspect,1
+Mara,Tarime,Muriba Health Center,2019,8,Suspect,1
+Mara,Tarime,Muriba Health Center,2019,9,Healthy,5
+Mara,Tarime,Muriba Health Center,2019,11,Healthy,2
+Mara,Tarime,Muriba Health Center,2019,12,Healthy,1
+Mara,Tarime,Muriba Health Center,2020,1,Healthy,1
+Mara,Tarime,Muriba Health Center,2020,2,Healthy,2
+Mara,Tarime,Muriba Health Center,2020,3,Healthy,1
+Mara,Tarime,Muriba Health Center,2020,3,Suspect,1
+Mara,Tarime,Muriba Health Center,2020,4,Healthy,2
+Mara,Tarime,Muriba Health Center,2020,5,Healthy,1
+Mara,Tarime,Muriba Health Center,2020,6,Healthy,1
+Mara,Tarime,Muriba Health Center,2020,7,Healthy,2
+Mara,Tarime,Muriba Health Center,2020,8,Healthy,1
+Mara,Tarime,Muriba Health Center,2020,10,Suspect,1
+Mara,Tarime,Muriba Health Center,2021,3,Healthy,1
+Mara,Tarime,Muriba Health Center,2021,4,Suspect,1
+Mara,Tarime,Muriba Health Center,2021,6,Healthy,1
+Mara,Tarime,Muriba Health Center,2021,7,Healthy,1
+Mara,Tarime,Muriba Health Center,2021,9,Suspect,1
+Mara,Tarime,Muriba Health Center,2021,10,Healthy,1
+Mara,Tarime,Muriba Health Center,2021,10,Suspect,2
+Mara,Tarime,Muriba Health Center,2022,3,Healthy,1
+Mara,Tarime,Muriba Health Center,2022,7,Healthy,3
+Mara,Tarime,Muriba Health Center,2022,8,Healthy,2
+Mara,Tarime,Muriba Health Center,2022,9,Healthy,1
+Mara,Tarime,Muriba Health Center,2023,2,Healthy,1
+Mara,Tarime,Muriba Health Center,2023,3,Suspect,1
+Mara,Tarime,Muriba Health Center,2023,4,Suspect,1
+Mara,Tarime,Muriba Health Center,2023,7,Suspect,1
+Mara,Tarime,Muriba Health Center,2023,8,Suspect,1
+Mara,Tarime,Muriba Health Center,2023,12,Suspect,1
+Mara,Tarime,Nyamwaga Hospital,2023,5,Suspect,1
+Mara,Tarime,Nyamwaga Hospital,2023,6,Suspect,1
+Mara,Tarime,Nyangoto Health Center,2022,2,Healthy,1
+Mara,Tarime,Nyangoto Health Center,2022,5,Healthy,2
+Mara,Tarime,Nyangoto Health Center,2023,1,Healthy,1
+Mara,Tarime,Nyangoto Health Center,2023,3,Healthy,1
+Mara,Tarime,Nyangoto Health Center,2023,5,Healthy,1
+Mara,Tarime,Nyangoto Health Center,2023,6,Healthy,1
+Mara,Tarime,Nyangoto Health Center,2023,10,Suspect,2
+Mara,Tarime,Peroza Health Center,2023,6,Healthy,3
+Mara,Tarime,Rabies Test Facility,2018,1,Healthy,3
+Mara,Tarime,Rabies Test Facility,2018,1,Suspect,1
+Mara,Tarime,Rabies Test Facility,2018,2,Healthy,4
+Mara,Tarime,Rabies Test Facility,2018,2,Suspect,2
+Mara,Tarime,Rabies Test Facility,2018,3,Healthy,4
+Mara,Tarime,Rabies Test Facility,2018,3,Suspect,1
+Mara,Tarime,Rabies Test Facility,2018,4,Healthy,3
+Mara,Tarime,Rabies Test Facility,2018,4,Suspect,3
+Mara,Tarime,Rabies Test Facility,2018,5,Healthy,2
+Mara,Tarime,Rabies Test Facility,2018,5,Suspect,1
+Mara,Tarime,Rabies Test Facility,2018,6,Healthy,4
+Mara,Tarime,Rabies Test Facility,2018,6,Suspect,2
+Mara,Tarime,Serengeti District Hospital,2019,11,Healthy,2
+Mara,Tarime,Serengeti District Hospital,2019,12,Healthy,1
+Mara,Tarime,Serengeti District Hospital,2020,1,Healthy,1
+Mara,Tarime,Shirati Hospital,2019,6,Suspect,1
+Mara,Tarime,Shirati Hospital,2021,1,Healthy,1
+Mara,Tarime,Sirari Health Center,2020,7,Healthy,1
+Mara,Tarime,Sirari Health Center,2021,3,Suspect,1
+Mara,Tarime,Sirari Health Center,2021,9,Suspect,1
+Mara,Tarime,Sirari Health Center,2021,10,Healthy,1
+Mara,Tarime,Sirari Health Center,2021,10,Suspect,1
+Mara,Tarime,Sirari Health Center,2023,1,Suspect,1
+Mara,Tarime,Sirari Health Center,2023,2,Suspect,1
+Mara,Tarime,Sirari Health Center,2023,5,Suspect,1
+Mara,Tarime,Sirari Health Center,2023,6,Healthy,1
+Mara,Tarime,Sirari Health Center,2023,6,Suspect,1
+Mara,Tarime,Sirari Health Center,2023,8,Healthy,1
+Mara,Tarime,Sirari Health Center,2023,8,Suspect,3
+Mara,Tarime,Sirari Health Center,2023,9,Suspect,1
+Mara,Tarime,Sirari Health Center,2023,10,Healthy,1
+Mara,Tarime,Sirari Health Center,2023,10,Suspect,2
+Mara,Tarime,Sirari Health Center,2023,11,Healthy,2
+Mara,Tarime,Sirari Health Center,2023,11,Suspect,2
+Mara,Tarime,Sirari Health Center,2023,12,Healthy,1
+Mara,Tarime,Sirari Health Center,2023,12,Suspect,2
+Mara,Tarime,Tarime District Hospital,2018,7,Suspect,3
+Mara,Tarime,Tarime District Hospital,2018,8,Healthy,1
+Mara,Tarime,Tarime District Hospital,2018,8,Suspect,2
+Mara,Tarime,Tarime District Hospital,2018,9,Suspect,3
+Mara,Tarime,Tarime District Hospital,2018,10,Healthy,2
+Mara,Tarime,Tarime District Hospital,2018,10,Suspect,3
+Mara,Tarime,Tarime District Hospital,2018,12,Suspect,2
+Mara,Tarime,Tarime District Hospital,2019,1,Suspect,2
+Mara,Tarime,Tarime District Hospital,2019,2,Suspect,2
+Mara,Tarime,Tarime District Hospital,2019,4,Healthy,1
+Mara,Tarime,Tarime District Hospital,2020,8,Suspect,1
+Mara,Tarime,Tarime District Hospital,2020,10,Suspect,1
+Mara,Tarime,Tarime District Hospital,2020,11,Healthy,6
+Mara,Tarime,Tarime District Hospital,2020,11,Suspect,7
+Mara,Tarime,Tarime District Hospital,2020,12,Healthy,6
+Mara,Tarime,Tarime District Hospital,2020,12,Suspect,4
+Mara,Tarime,Tarime District Hospital,2021,2,Suspect,2
+Mara,Tarime,Tarime District Hospital,2021,3,Suspect,2
+Mara,Tarime,Tarime District Hospital,2021,4,Suspect,2
+Mara,Tarime,Tarime District Hospital,2021,6,Healthy,3
+Mara,Tarime,Tarime District Hospital,2021,6,Suspect,2
+Mara,Tarime,Tarime District Hospital,2021,7,Healthy,4
+Mara,Tarime,Tarime District Hospital,2021,7,Suspect,3
+Mara,Tarime,Tarime District Hospital,2021,8,Healthy,4
+Mara,Tarime,Tarime District Hospital,2021,8,Suspect,1
+Mara,Tarime,Tarime District Hospital,2021,11,Suspect,2
+Mara,Tarime,Tarime District Hospital,2021,12,Suspect,2
+Mara,Tarime,Tarime District Hospital,2022,3,Suspect,2
+Mara,Tarime,Tarime District Hospital,2022,4,Suspect,5
+Mara,Tarime,Tarime District Hospital,2022,5,Healthy,1
+Mara,Tarime,Tarime District Hospital,2022,5,Suspect,6
+Mara,Tarime,Tarime District Hospital,2022,6,Suspect,3
+Mara,Tarime,Tarime District Hospital,2022,7,Suspect,7
+Mara,Tarime,Tarime District Hospital,2023,1,Suspect,2
+Mara,Tarime,Tarime District Hospital,2023,2,Suspect,8
+Mara,Tarime,Tarime District Hospital,2023,3,Suspect,3
+Mara,Tarime,Tarime District Hospital,2023,4,Suspect,3
+Mara,Tarime,Tarime District Hospital,2023,6,Healthy,2
+Mara,Tarime,Tarime District Hospital,2023,6,Suspect,3
+Mara,Tarime,Tarime District Hospital,2023,7,Suspect,7
+Mara,Tarime,Tarime District Hospital,2023,8,Healthy,1
+Mara,Tarime,Tarime District Hospital,2023,8,Suspect,8
+Mara,Tarime,Tarime District Hospital,2023,9,Suspect,2
+Mara,Tarime,Tarime District Hospital,2023,10,Suspect,2
+Mara,Tarime,Tarime District Hospital,2023,11,Suspect,3
+Morogoro,Kilombero,Kibaoni Health Center,2018,8,Healthy,3
+Morogoro,Kilombero,Kibaoni Health Center,2018,8,Suspect,9
+Morogoro,Kilombero,Kibaoni Health Center,2018,9,Healthy,1
+Morogoro,Kilombero,Kibaoni Health Center,2018,9,Suspect,1
+Morogoro,Kilombero,Kibaoni Health Center,2018,11,Healthy,4
+Morogoro,Kilombero,Kibaoni Health Center,2018,12,Healthy,2
+Morogoro,Kilombero,Kibaoni Health Center,2018,12,Suspect,4
+Morogoro,Kilombero,Kibaoni Health Center,2019,2,Suspect,6
+Morogoro,Kilombero,Kibaoni Health Center,2019,3,Healthy,1
+Morogoro,Kilombero,Kibaoni Health Center,2019,3,Suspect,6
+Morogoro,Kilombero,Kibaoni Health Center,2019,4,Healthy,4
+Morogoro,Kilombero,Kibaoni Health Center,2019,4,Suspect,2
+Morogoro,Kilombero,Kibaoni Health Center,2019,6,Suspect,1
+Morogoro,Kilombero,Kibaoni Health Center,2020,2,Healthy,1
+Morogoro,Kilombero,Kibaoni Health Center,2020,2,Suspect,11
+Morogoro,Kilombero,Kibaoni Health Center,2020,3,Suspect,8
+Morogoro,Kilombero,Kibaoni Health Center,2020,6,Healthy,1
+Morogoro,Kilombero,Kibaoni Health Center,2020,8,Healthy,3
+Morogoro,Kilombero,Kibaoni Health Center,2020,8,Suspect,11
+Morogoro,Kilombero,Kibaoni Health Center,2020,9,Healthy,6
+Morogoro,Kilombero,Kibaoni Health Center,2020,9,Suspect,37
+Morogoro,Kilombero,Kibaoni Health Center,2020,10,Healthy,13
+Morogoro,Kilombero,Kibaoni Health Center,2020,10,Suspect,6
+Morogoro,Kilombero,Kibaoni Health Center,2020,11,Healthy,3
+Morogoro,Kilombero,Kibaoni Health Center,2020,11,Suspect,5
+Morogoro,Kilombero,Kibaoni Health Center,2021,6,Suspect,1
+Morogoro,Kilombero,Kibaoni Health Center,2021,7,Healthy,15
+Morogoro,Kilombero,Kibaoni Health Center,2021,7,Suspect,12
+Morogoro,Kilombero,Kibaoni Health Center,2021,8,Healthy,7
+Morogoro,Kilombero,Kibaoni Health Center,2021,8,Suspect,4
+Morogoro,Kilombero,Kibaoni Health Center,2021,9,Healthy,2
+Morogoro,Kilombero,Kibaoni Health Center,2021,9,Suspect,22
+Morogoro,Kilombero,Kibaoni Health Center,2021,10,Healthy,1
+Morogoro,Kilombero,Kibaoni Health Center,2021,10,Suspect,10
+Morogoro,Kilombero,Kibaoni Health Center,2021,11,Suspect,24
+Morogoro,Kilombero,Kibaoni Health Center,2021,12,Suspect,2
+Morogoro,Kilombero,Kibaoni Health Center,2022,1,Suspect,7
+Morogoro,Kilombero,Kibaoni Health Center,2022,2,Suspect,3
+Morogoro,Kilombero,Kibaoni Health Center,2022,7,Healthy,5
+Morogoro,Kilombero,Kibaoni Health Center,2022,7,Suspect,3
+Morogoro,Kilombero,Kibaoni Health Center,2022,8,Healthy,3
+Morogoro,Kilombero,Kibaoni Health Center,2022,8,Suspect,11
+Morogoro,Kilombero,Kibaoni Health Center,2022,9,Suspect,4
+Morogoro,Kilombero,Kibaoni Health Center,2022,10,Suspect,3
+Morogoro,Kilombero,Kibaoni Health Center,2022,11,Suspect,2
+Morogoro,Kilombero,Kibaoni Health Center,2022,12,Suspect,3
+Morogoro,Kilombero,Kibaoni Health Center,2023,1,Suspect,6
+Morogoro,Kilombero,Kibaoni Health Center,2023,2,Suspect,4
+Morogoro,Kilombero,Kibaoni Health Center,2023,3,Suspect,2
+Morogoro,Kilombero,Kibaoni Health Center,2023,5,Suspect,5
+Morogoro,Kilombero,Kibaoni Health Center,2023,8,Healthy,5
+Morogoro,Kilombero,Kibaoni Health Center,2023,8,Suspect,4
+Morogoro,Kilombero,Kibaoni Health Center,2023,9,Healthy,6
+Morogoro,Kilombero,Kibaoni Health Center,2023,9,Suspect,1
+Morogoro,Kilombero,Kibaoni Health Center,2023,10,Healthy,1
+Morogoro,Kilombero,Kibaoni Health Center,2023,10,Suspect,4
+Morogoro,Kilombero,Kibaoni Health Center,2023,11,Suspect,4
+Morogoro,Kilombero,Kidodi Health Center,2023,4,Suspect,1
+Morogoro,Kilombero,Kilosa District Hospital,2022,5,Suspect,2
+Morogoro,Kilombero,Mahurunga Health Center,2019,3,Suspect,1
+Morogoro,Kilombero,Mahurunga Health Center,2019,4,Healthy,1
+Morogoro,Kilombero,Mahurunga Health Center,2019,4,Suspect,2
+Morogoro,Kilombero,Mahurunga Health Center,2019,5,Suspect,2
+Morogoro,Kilombero,Mahurunga Health Center,2019,6,Healthy,3
+Morogoro,Kilombero,Mahurunga Health Center,2019,6,Suspect,10
+Morogoro,Kilombero,Mahurunga Health Center,2019,7,Healthy,1
+Morogoro,Kilombero,Mahurunga Health Center,2019,7,Suspect,2
+Morogoro,Kilombero,Mahurunga Health Center,2019,8,Healthy,1
+Morogoro,Kilombero,Mahurunga Health Center,2019,8,Suspect,3
+Morogoro,Kilombero,Mang'ula Health Center,2022,4,Suspect,3
+Morogoro,Kilombero,Mang'ula Health Center,2022,5,Suspect,2
+Morogoro,Kilombero,Mang'ula Health Center,2022,6,Healthy,2
+Morogoro,Kilombero,Mang'ula Health Center,2022,6,Suspect,6
+Morogoro,Kilombero,Mang'ula Health Center,2022,7,Suspect,2
+Morogoro,Kilombero,Mang'ula Health Center,2022,9,Suspect,1
+Morogoro,Kilombero,Mang'ula Health Center,2022,10,Suspect,3
+Morogoro,Kilombero,Mang'ula Health Center,2023,5,Healthy,2
+Morogoro,Kilombero,Mang'ula Health Center,2023,5,Suspect,1
+Morogoro,Kilombero,Mang'ula Health Center,2023,6,Healthy,3
+Morogoro,Kilombero,Mang'ula Health Center,2023,6,Suspect,1
+Morogoro,Kilombero,Mang'ula Health Center,2023,7,Healthy,1
+Morogoro,Kilombero,Mang'ula Health Center,2023,7,Suspect,3
+Morogoro,Kilombero,Mang'ula Health Center,2023,9,Suspect,1
+Morogoro,Kilombero,Mang'ula Health Center,2023,10,Healthy,2
+Morogoro,Kilombero,Mang'ula Health Center,2023,10,Suspect,1
+Morogoro,Kilombero,Mang'ula Health Center,2023,12,Suspect,2
+Morogoro,Kilombero,Mbingu Dispensary,2020,8,Healthy,1
+Morogoro,Kilombero,Mbingu Dispensary,2020,8,Suspect,1
+Morogoro,Kilombero,Mbingu Dispensary,2020,9,Suspect,1
+Morogoro,Kilombero,Mbingu Dispensary,2020,11,Suspect,4
+Morogoro,Kilombero,Mbingu Dispensary,2020,12,Suspect,4
+Morogoro,Kilombero,Mbingu Dispensary,2022,7,Suspect,1
+Morogoro,Kilombero,Mlimba Health Center,2018,1,Healthy,1
+Morogoro,Kilombero,Mlimba Health Center,2018,2,Healthy,3
+Morogoro,Kilombero,Mlimba Health Center,2018,3,Healthy,6
+Morogoro,Kilombero,Mlimba Health Center,2018,8,Healthy,1
+Morogoro,Kilombero,Mlimba Health Center,2019,1,Healthy,9
+Morogoro,Kilombero,Mlimba Health Center,2019,2,Healthy,6
+Morogoro,Kilombero,Mlimba Health Center,2019,3,Healthy,2
+Morogoro,Kilombero,Mlimba Health Center,2019,4,Healthy,2
+Morogoro,Kilombero,Mlimba Health Center,2019,5,Healthy,5
+Morogoro,Kilombero,Mlimba Health Center,2019,7,Healthy,3
+Morogoro,Kilombero,Mlimba Health Center,2019,8,Healthy,2
+Morogoro,Kilombero,Mlimba Health Center,2019,9,Healthy,10
+Morogoro,Kilombero,Mlimba Health Center,2019,9,Suspect,2
+Morogoro,Kilombero,Mlimba Health Center,2019,10,Healthy,9
+Morogoro,Kilombero,Mlimba Health Center,2019,10,Suspect,1
+Morogoro,Kilombero,Mlimba Health Center,2019,11,Healthy,2
+Morogoro,Kilombero,Mlimba Health Center,2019,11,Suspect,1
+Morogoro,Kilombero,Mlimba Health Center,2019,12,Healthy,8
+Morogoro,Kilombero,Mlimba Health Center,2019,12,Suspect,4
+Morogoro,Kilombero,Mlimba Health Center,2020,1,Healthy,2
+Morogoro,Kilombero,Mlimba Health Center,2020,2,Suspect,1
+Morogoro,Kilombero,Mlimba Health Center,2020,3,Healthy,1
+Morogoro,Kilombero,Mlimba Health Center,2020,3,Suspect,4
+Morogoro,Kilombero,Mlimba Health Center,2020,5,Suspect,2
+Morogoro,Kilombero,Mlimba Health Center,2020,7,Suspect,1
+Morogoro,Kilombero,Mlimba Health Center,2020,8,Healthy,4
+Morogoro,Kilombero,Mlimba Health Center,2020,8,Suspect,11
+Morogoro,Kilombero,Mlimba Health Center,2020,9,Suspect,1
+Morogoro,Kilombero,Mlimba Health Center,2020,10,Suspect,1
+Morogoro,Kilombero,Mlimba Health Center,2020,11,Suspect,6
+Morogoro,Kilombero,Mlimba Health Center,2021,1,Suspect,2
+Morogoro,Kilombero,Mlimba Health Center,2021,2,Suspect,4
+Morogoro,Kilombero,Mlimba Health Center,2021,5,Suspect,1
+Morogoro,Kilombero,Mlimba Health Center,2021,6,Healthy,2
+Morogoro,Kilombero,Mlimba Health Center,2021,7,Healthy,2
+Morogoro,Kilombero,Mlimba Health Center,2022,5,Healthy,4
+Morogoro,Kilombero,Mlimba Health Center,2022,5,Suspect,4
+Morogoro,Kilombero,Mlimba Health Center,2022,6,Healthy,7
+Morogoro,Kilombero,Mlimba Health Center,2022,6,Suspect,7
+Morogoro,Kilombero,Mlimba Health Center,2022,7,Healthy,6
+Morogoro,Kilombero,Mlimba Health Center,2022,7,Suspect,6
+Morogoro,Kilombero,Mlimba Health Center,2022,8,Suspect,1
+Morogoro,Kilombero,Mlimba Health Center,2022,9,Healthy,1
+Morogoro,Kilombero,Mlimba Health Center,2022,9,Suspect,8
+Morogoro,Kilombero,Mlimba Health Center,2022,10,Healthy,5
+Morogoro,Kilombero,Mlimba Health Center,2022,10,Suspect,1
+Morogoro,Kilombero,Mlimba Health Center,2022,11,Suspect,4
+Morogoro,Kilombero,Mlimba Health Center,2023,1,Suspect,3
+Morogoro,Kilombero,Mlimba Health Center,2023,2,Suspect,4
+Morogoro,Kilombero,Mlimba Health Center,2023,3,Suspect,3
+Morogoro,Kilombero,Mlimba Health Center,2023,5,Suspect,5
+Morogoro,Kilombero,Mlimba Health Center,2023,6,Suspect,1
+Morogoro,Kilombero,Mlimba Health Center,2023,7,Healthy,1
+Morogoro,Kilombero,Mlimba Health Center,2023,7,Suspect,4
+Morogoro,Kilombero,Mlimba Health Center,2023,8,Suspect,3
+Morogoro,Kilombero,Mlimba Health Center,2023,9,Suspect,1
+Morogoro,Kilombero,Mlimba Health Center,2023,10,Suspect,1
+Morogoro,Kilombero,Mngeta Health Center,2020,1,Healthy,1
+Morogoro,Kilombero,Mngeta Health Center,2020,4,Healthy,2
+Morogoro,Kilombero,Mngeta Health Center,2020,6,Healthy,2
+Morogoro,Kilombero,Mngeta Health Center,2020,7,Suspect,1
+Morogoro,Kilombero,Mngeta Health Center,2020,8,Healthy,2
+Morogoro,Kilombero,Mngeta Health Center,2022,2,Suspect,1
+Morogoro,Kilombero,Mngeta Health Center,2022,3,Healthy,2
+Morogoro,Kilombero,Mngeta Health Center,2022,3,Suspect,1
+Morogoro,Kilombero,Mngeta Health Center,2022,6,Suspect,2
+Morogoro,Kilombero,Mngeta Health Center,2022,7,Healthy,9
+Morogoro,Kilombero,Mngeta Health Center,2022,7,Suspect,10
+Morogoro,Kilombero,Mngeta Health Center,2022,8,Healthy,1
+Morogoro,Kilombero,Mngeta Health Center,2022,8,Suspect,10
+Morogoro,Kilombero,Mngeta Health Center,2022,10,Healthy,1
+Morogoro,Kilombero,Mngeta Health Center,2022,10,Suspect,3
+Morogoro,Kilombero,Mngeta Health Center,2022,11,Suspect,1
+Morogoro,Kilombero,Mngeta Health Center,2022,12,Healthy,3
+Morogoro,Kilombero,Mngeta Health Center,2022,12,Suspect,2
+Morogoro,Kilombero,Mngeta Health Center,2023,1,Healthy,2
+Morogoro,Kilombero,Mngeta Health Center,2023,1,Suspect,1
+Morogoro,Kilombero,Mngeta Health Center,2023,2,Healthy,1
+Morogoro,Kilombero,Mngeta Health Center,2023,2,Suspect,4
+Morogoro,Kilombero,Mngeta Health Center,2023,3,Suspect,1
+Morogoro,Kilombero,Mngeta Health Center,2023,4,Healthy,2
+Morogoro,Kilombero,Mngeta Health Center,2023,4,Suspect,2
+Morogoro,Kilombero,Mngeta Health Center,2023,5,Healthy,3
+Morogoro,Kilombero,Mngeta Health Center,2023,5,Suspect,1
+Morogoro,Kilombero,Mngeta Health Center,2023,8,Healthy,2
+Morogoro,Kilombero,Mngeta Health Center,2023,8,Suspect,2
+Morogoro,Kilombero,Mngeta Health Center,2023,9,Healthy,1
+Morogoro,Kilombero,Mngeta Health Center,2023,10,Healthy,2
+Morogoro,Kilombero,Mngeta Health Center,2023,10,Suspect,3
+Morogoro,Kilombero,Mngeta Health Center,2023,11,Healthy,5
+Morogoro,Kilombero,Mngeta Health Center,2023,11,Suspect,2
+Morogoro,Kilombero,Mngeta Health Center,2023,12,Healthy,3
+Morogoro,Kilombero,Mngeta Health Center,2023,12,Suspect,1
+Morogoro,Kilombero,Morogoro Regional Hospital,2023,1,Suspect,1
+Morogoro,Kilombero,Mwembesongo Dispensary,2019,8,Suspect,1
+Morogoro,Kilosa,Dumila Dispensary,2020,8,Healthy,3
+Morogoro,Kilosa,Dumila Dispensary,2020,8,Suspect,5
+Morogoro,Kilosa,Dumila Dispensary,2020,11,Healthy,4
+Morogoro,Kilosa,Dumila Dispensary,2020,11,Suspect,4
+Morogoro,Kilosa,Dumila Dispensary,2020,12,Healthy,1
+Morogoro,Kilosa,Dumila Dispensary,2021,1,Healthy,2
+Morogoro,Kilosa,Dumila Dispensary,2021,1,Suspect,2
+Morogoro,Kilosa,Dumila Dispensary,2021,2,Healthy,5
+Morogoro,Kilosa,Dumila Dispensary,2021,2,Suspect,6
+Morogoro,Kilosa,Dumila Dispensary,2021,4,Suspect,1
+Morogoro,Kilosa,Dumila Dispensary,2021,7,Suspect,1
+Morogoro,Kilosa,Dumila Dispensary,2021,8,Healthy,3
+Morogoro,Kilosa,Dumila Dispensary,2021,8,Suspect,1
+Morogoro,Kilosa,Dumila Dispensary,2021,9,Healthy,1
+Morogoro,Kilosa,Dumila Dispensary,2021,9,Suspect,2
+Morogoro,Kilosa,Dumila Dispensary,2022,6,Healthy,1
+Morogoro,Kilosa,Dumila Dispensary,2022,6,Suspect,5
+Morogoro,Kilosa,Dumila Dispensary,2022,7,Healthy,3
+Morogoro,Kilosa,Dumila Dispensary,2022,7,Suspect,4
+Morogoro,Kilosa,Dumila Dispensary,2022,8,Suspect,2
+Morogoro,Kilosa,Kidodi Health Center,2020,8,Healthy,2
+Morogoro,Kilosa,Kidodi Health Center,2020,8,Suspect,3
+Morogoro,Kilosa,Kidodi Health Center,2020,9,Healthy,1
+Morogoro,Kilosa,Kidodi Health Center,2020,9,Suspect,6
+Morogoro,Kilosa,Kidodi Health Center,2020,10,Suspect,2
+Morogoro,Kilosa,Kidodi Health Center,2020,11,Healthy,1
+Morogoro,Kilosa,Kidodi Health Center,2020,11,Suspect,1
+Morogoro,Kilosa,Kidodi Health Center,2021,1,Healthy,1
+Morogoro,Kilosa,Kidodi Health Center,2021,6,Healthy,1
+Morogoro,Kilosa,Kidodi Health Center,2021,7,Healthy,1
+Morogoro,Kilosa,Kidodi Health Center,2021,7,Suspect,1
+Morogoro,Kilosa,Kidodi Health Center,2021,8,Healthy,1
+Morogoro,Kilosa,Kidodi Health Center,2022,1,Suspect,3
+Morogoro,Kilosa,Kidodi Health Center,2022,2,Healthy,1
+Morogoro,Kilosa,Kidodi Health Center,2022,2,Suspect,8
+Morogoro,Kilosa,Kidodi Health Center,2022,3,Healthy,1
+Morogoro,Kilosa,Kidodi Health Center,2022,4,Healthy,1
+Morogoro,Kilosa,Kidodi Health Center,2022,4,Suspect,14
+Morogoro,Kilosa,Kidodi Health Center,2022,5,Suspect,3
+Morogoro,Kilosa,Kidodi Health Center,2022,6,Healthy,3
+Morogoro,Kilosa,Kidodi Health Center,2022,6,Suspect,1
+Morogoro,Kilosa,Kidodi Health Center,2022,7,Healthy,1
+Morogoro,Kilosa,Kidodi Health Center,2022,8,Healthy,1
+Morogoro,Kilosa,Kidodi Health Center,2022,10,Suspect,2
+Morogoro,Kilosa,Kidodi Health Center,2022,11,Suspect,1
+Morogoro,Kilosa,Kidodi Health Center,2023,1,Suspect,4
+Morogoro,Kilosa,Kidodi Health Center,2023,2,Suspect,5
+Morogoro,Kilosa,Kidodi Health Center,2023,3,Suspect,2
+Morogoro,Kilosa,Kidodi Health Center,2023,6,Suspect,1
+Morogoro,Kilosa,Kidodi Health Center,2023,7,Healthy,1
+Morogoro,Kilosa,Kidodi Health Center,2023,7,Suspect,2
+Morogoro,Kilosa,Kidodi Health Center,2023,8,Suspect,2
+Morogoro,Kilosa,Kilosa District Hospital,2018,6,Suspect,3
+Morogoro,Kilosa,Kilosa District Hospital,2018,7,Suspect,3
+Morogoro,Kilosa,Kilosa District Hospital,2018,8,Healthy,6
+Morogoro,Kilosa,Kilosa District Hospital,2018,8,Suspect,12
+Morogoro,Kilosa,Kilosa District Hospital,2018,9,Healthy,1
+Morogoro,Kilosa,Kilosa District Hospital,2018,9,Suspect,19
+Morogoro,Kilosa,Kilosa District Hospital,2018,10,Suspect,6
+Morogoro,Kilosa,Kilosa District Hospital,2018,11,Suspect,1
+Morogoro,Kilosa,Kilosa District Hospital,2018,12,Suspect,2
+Morogoro,Kilosa,Kilosa District Hospital,2019,2,Suspect,3
+Morogoro,Kilosa,Kilosa District Hospital,2019,3,Healthy,1
+Morogoro,Kilosa,Kilosa District Hospital,2019,3,Suspect,1
+Morogoro,Kilosa,Kilosa District Hospital,2019,6,Healthy,1
+Morogoro,Kilosa,Kilosa District Hospital,2019,7,Suspect,2
+Morogoro,Kilosa,Kilosa District Hospital,2019,11,Healthy,1
+Morogoro,Kilosa,Kilosa District Hospital,2020,6,Suspect,1
+Morogoro,Kilosa,Kilosa District Hospital,2020,8,Healthy,2
+Morogoro,Kilosa,Kilosa District Hospital,2020,8,Suspect,2
+Morogoro,Kilosa,Kilosa District Hospital,2020,9,Suspect,3
+Morogoro,Kilosa,Kilosa District Hospital,2020,10,Healthy,1
+Morogoro,Kilosa,Kilosa District Hospital,2020,10,Suspect,14
+Morogoro,Kilosa,Kilosa District Hospital,2020,11,Suspect,5
+Morogoro,Kilosa,Kilosa District Hospital,2020,12,Healthy,5
+Morogoro,Kilosa,Kilosa District Hospital,2021,1,Healthy,2
+Morogoro,Kilosa,Kilosa District Hospital,2021,1,Suspect,4
+Morogoro,Kilosa,Kilosa District Hospital,2021,2,Healthy,1
+Morogoro,Kilosa,Kilosa District Hospital,2021,2,Suspect,1
+Morogoro,Kilosa,Kilosa District Hospital,2021,4,Healthy,1
+Morogoro,Kilosa,Kilosa District Hospital,2021,4,Suspect,1
+Morogoro,Kilosa,Kilosa District Hospital,2021,5,Suspect,4
+Morogoro,Kilosa,Kilosa District Hospital,2021,7,Healthy,3
+Morogoro,Kilosa,Kilosa District Hospital,2021,7,Suspect,1
+Morogoro,Kilosa,Kilosa District Hospital,2021,8,Healthy,3
+Morogoro,Kilosa,Kilosa District Hospital,2021,8,Suspect,4
+Morogoro,Kilosa,Kilosa District Hospital,2021,9,Healthy,1
+Morogoro,Kilosa,Kilosa District Hospital,2021,10,Suspect,1
+Morogoro,Kilosa,Kilosa District Hospital,2021,11,Healthy,1
+Morogoro,Kilosa,Kilosa District Hospital,2021,11,Suspect,3
+Morogoro,Kilosa,Kilosa District Hospital,2022,3,Healthy,1
+Morogoro,Kilosa,Kilosa District Hospital,2022,3,Suspect,2
+Morogoro,Kilosa,Kilosa District Hospital,2022,4,Suspect,6
+Morogoro,Kilosa,Kilosa District Hospital,2022,5,Suspect,10
+Morogoro,Kilosa,Kilosa District Hospital,2022,6,Healthy,12
+Morogoro,Kilosa,Kilosa District Hospital,2022,6,Suspect,14
+Morogoro,Kilosa,Kilosa District Hospital,2022,7,Healthy,3
+Morogoro,Kilosa,Kilosa District Hospital,2022,7,Suspect,9
+Morogoro,Kilosa,Kilosa District Hospital,2022,8,Healthy,1
+Morogoro,Kilosa,Kilosa District Hospital,2022,8,Suspect,6
+Morogoro,Kilosa,Kilosa District Hospital,2022,9,Suspect,16
+Morogoro,Kilosa,Kilosa District Hospital,2022,10,Suspect,14
+Morogoro,Kilosa,Kilosa District Hospital,2023,1,Suspect,2
+Morogoro,Kilosa,Kilosa District Hospital,2023,2,Suspect,3
+Morogoro,Kilosa,Kilosa District Hospital,2023,3,Suspect,2
+Morogoro,Kilosa,Kilosa District Hospital,2023,4,Suspect,3
+Morogoro,Kilosa,Kilosa District Hospital,2023,6,Suspect,10
+Morogoro,Kilosa,Kilosa District Hospital,2023,8,Healthy,1
+Morogoro,Kilosa,Kilosa District Hospital,2023,10,Healthy,1
+Morogoro,Kilosa,Kilosa District Hospital,2023,10,Suspect,7
+Morogoro,Kilosa,Kilosa District Hospital,2023,11,Healthy,1
+Morogoro,Kilosa,Kilosa District Hospital,2023,11,Suspect,4
+Morogoro,Kilosa,Kilosa District Hospital,2023,12,Suspect,3
+Morogoro,Kilosa,Lugala Hospital,2019,2,Suspect,1
+Morogoro,Kilosa,Lugala Hospital,2019,6,Suspect,2
+Morogoro,Kilosa,Lugala Hospital,2019,10,Suspect,2
+Morogoro,Kilosa,Lugala Hospital,2019,11,Suspect,2
+Morogoro,Kilosa,Lugala Hospital,2019,12,Suspect,2
+Morogoro,Kilosa,Lugala Hospital,2020,1,Suspect,1
+Morogoro,Kilosa,Lugala Hospital,2020,7,Suspect,3
+Morogoro,Kilosa,Magubike Health Center,2022,3,Suspect,4
+Morogoro,Kilosa,Mang'ula Health Center,2023,4,Suspect,1
+Morogoro,Kilosa,Mikumi Health Center,2020,9,Suspect,1
+Morogoro,Kilosa,Mikumi Health Center,2020,10,Suspect,13
+Morogoro,Kilosa,Mikumi Health Center,2020,11,Healthy,1
+Morogoro,Kilosa,Morogoro Regional Hospital,2022,8,Healthy,1
+Morogoro,Kilosa,Morogoro Regional Hospital,2022,8,Suspect,1
+Morogoro,Kilosa,Rabies Test Facility,2018,1,Suspect,1
+Morogoro,Kilosa,Rabies Test Facility,2018,4,Healthy,1
+Morogoro,Kilosa,Sabasaba Health Center,2023,1,Suspect,1
+Morogoro,Kilosa,Sabasaba Health Center,2023,2,Suspect,1
+Morogoro,Kilosa,Sabasaba Health Center,2023,3,Suspect,1
+Morogoro,Kilosa,St. Joseph Hospital,2020,8,Suspect,1
+Morogoro,Kilosa,St. Joseph Hospital,2022,5,Suspect,2
+Morogoro,Kilosa,St. Joseph Hospital,2022,6,Suspect,1
+Morogoro,Kilosa,St. Kizito Hospital,2022,4,Healthy,1
+Morogoro,Kilosa,St. Kizito Hospital,2022,4,Suspect,1
+Morogoro,Kilosa,St. Kizito Hospital,2022,5,Suspect,1
+Morogoro,Kilosa,St. Kizito Hospital,2022,6,Suspect,3
+Morogoro,Kilosa,St. Kizito Hospital,2022,8,Suspect,4
+Morogoro,Kilosa,Uhuru Health Center,2019,2,Suspect,1
+Morogoro,Kilosa,Uhuru Health Center,2019,3,Suspect,3
+Morogoro,Kilosa,Uhuru Health Center,2019,4,Healthy,1
+Morogoro,Kilosa,Uhuru Health Center,2019,4,Suspect,1
+Morogoro,Kilosa,Uhuru Health Center,2019,5,Healthy,1
+Morogoro,Kilosa,Uhuru Health Center,2019,5,Suspect,1
+Morogoro,Kilosa,Uhuru Health Center,2019,8,Suspect,1
+Morogoro,Kilosa,Uhuru Health Center,2020,9,Healthy,2
+Morogoro,Kilosa,Uhuru Health Center,2020,9,Suspect,2
+Morogoro,Kilosa,Uhuru Health Center,2021,3,Suspect,1
+Morogoro,Kilosa,Uhuru Health Center,2021,5,Healthy,1
+Morogoro,Kilosa,Uhuru Health Center,2021,5,Suspect,1
+Morogoro,Kilosa,Uhuru Health Center,2021,12,Suspect,1
+Morogoro,Kilosa,Uhuru Health Center,2022,4,Suspect,1
+Morogoro,Kilosa,Uhuru Health Center,2022,5,Suspect,1
+Morogoro,Kilosa,Uhuru Health Center,2022,12,Suspect,1
+Morogoro,Kilosa,Uhuru Health Center,2023,1,Suspect,1
+Morogoro,Kilosa,Uhuru Health Center,2023,2,Suspect,3
+Morogoro,Kilosa,Uhuru Health Center,2023,6,Suspect,1
+Morogoro,Kilosa,Ulanga District Hospital,2019,3,Suspect,1
+Morogoro,Kilosa,Ulanga District Hospital,2019,11,Suspect,1
+Morogoro,Malinyi,Kibaoni Health Center,2018,12,Suspect,1
+Morogoro,Malinyi,Kibaoni Health Center,2021,9,Suspect,1
+Morogoro,Malinyi,Kibaoni Health Center,2021,11,Suspect,1
+Morogoro,Malinyi,Lugala Hospital,2018,8,Suspect,4
+Morogoro,Malinyi,Lugala Hospital,2018,9,Healthy,1
+Morogoro,Malinyi,Lugala Hospital,2018,9,Suspect,2
+Morogoro,Malinyi,Lugala Hospital,2018,11,Healthy,2
+Morogoro,Malinyi,Lugala Hospital,2018,11,Suspect,16
+Morogoro,Malinyi,Lugala Hospital,2019,1,Suspect,3
+Morogoro,Malinyi,Lugala Hospital,2019,6,Healthy,1
+Morogoro,Malinyi,Lugala Hospital,2019,10,Healthy,2
+Morogoro,Malinyi,Lugala Hospital,2019,11,Suspect,1
+Morogoro,Malinyi,Lugala Hospital,2020,3,Suspect,1
+Morogoro,Malinyi,Lugala Hospital,2020,4,Suspect,1
+Morogoro,Malinyi,Lugala Hospital,2020,6,Healthy,1
+Morogoro,Malinyi,Lugala Hospital,2020,7,Healthy,2
+Morogoro,Malinyi,Lugala Hospital,2020,7,Suspect,1
+Morogoro,Malinyi,Lugala Hospital,2020,8,Healthy,2
+Morogoro,Malinyi,Lugala Hospital,2020,8,Suspect,2
+Morogoro,Malinyi,Lugala Hospital,2021,1,Suspect,3
+Morogoro,Malinyi,Lugala Hospital,2021,2,Suspect,1
+Morogoro,Malinyi,Lugala Hospital,2021,3,Healthy,1
+Morogoro,Malinyi,Lugala Hospital,2021,4,Healthy,1
+Morogoro,Malinyi,Lugala Hospital,2021,4,Suspect,2
+Morogoro,Malinyi,Lugala Hospital,2021,5,Suspect,1
+Morogoro,Malinyi,Lugala Hospital,2022,1,Suspect,1
+Morogoro,Malinyi,Lugala Hospital,2022,7,Suspect,2
+Morogoro,Malinyi,Lugala Hospital,2022,8,Suspect,2
+Morogoro,Malinyi,Lugala Hospital,2023,1,Suspect,4
+Morogoro,Malinyi,Lugala Hospital,2023,3,Suspect,1
+Morogoro,Malinyi,Lugala Hospital,2023,4,Suspect,2
+Morogoro,Malinyi,Lugala Hospital,2023,5,Suspect,2
+Morogoro,Malinyi,Lugala Hospital,2023,7,Suspect,1
+Morogoro,Malinyi,Lugala Hospital,2023,9,Suspect,1
+Morogoro,Malinyi,Lugala Hospital,2023,12,Suspect,1
+Morogoro,Malinyi,Lupiro Health Center,2019,11,Suspect,1
+Morogoro,Malinyi,Lupiro Health Center,2023,1,Suspect,1
+Morogoro,Malinyi,Mahurunga Health Center,2019,5,Healthy,1
+Morogoro,Malinyi,Mahurunga Health Center,2019,8,Healthy,1
+Morogoro,Malinyi,Malinyi Dispensary,2020,7,Healthy,3
+Morogoro,Malinyi,Malinyi Dispensary,2020,8,Healthy,2
+Morogoro,Malinyi,Malinyi Dispensary,2020,9,Healthy,1
+Morogoro,Malinyi,Malinyi Dispensary,2020,10,Healthy,2
+Morogoro,Malinyi,Malinyi Dispensary,2021,3,Suspect,3
+Morogoro,Malinyi,Malinyi Dispensary,2021,4,Suspect,10
+Morogoro,Malinyi,Malinyi Dispensary,2022,3,Suspect,5
+Morogoro,Malinyi,Malinyi Dispensary,2022,6,Suspect,3
+Morogoro,Malinyi,Malinyi Dispensary,2022,7,Suspect,9
+Morogoro,Malinyi,Malinyi Dispensary,2022,8,Healthy,2
+Morogoro,Malinyi,Malinyi Dispensary,2022,8,Suspect,6
+Morogoro,Malinyi,Malinyi Dispensary,2022,9,Suspect,6
+Morogoro,Malinyi,Malinyi Dispensary,2022,10,Suspect,3
+Morogoro,Malinyi,Malinyi Dispensary,2022,11,Suspect,2
+Morogoro,Malinyi,Malinyi Dispensary,2022,12,Healthy,1
+Morogoro,Malinyi,Malinyi Dispensary,2022,12,Suspect,9
+Morogoro,Malinyi,Malinyi Dispensary,2023,1,Healthy,5
+Morogoro,Malinyi,Malinyi Dispensary,2023,1,Suspect,1
+Morogoro,Malinyi,Malinyi Dispensary,2023,2,Healthy,2
+Morogoro,Malinyi,Malinyi Dispensary,2023,2,Suspect,2
+Morogoro,Malinyi,Malinyi Dispensary,2023,4,Suspect,1
+Morogoro,Malinyi,Mtimbira Health Center,2018,1,Suspect,4
+Morogoro,Malinyi,Mtimbira Health Center,2018,2,Suspect,3
+Morogoro,Malinyi,Mtimbira Health Center,2018,3,Suspect,5
+Morogoro,Malinyi,Mtimbira Health Center,2018,4,Suspect,2
+Morogoro,Malinyi,Mtimbira Health Center,2018,5,Suspect,8
+Morogoro,Malinyi,Mtimbira Health Center,2018,6,Suspect,2
+Morogoro,Malinyi,Mtimbira Health Center,2018,7,Suspect,9
+Morogoro,Malinyi,Mtimbira Health Center,2018,8,Suspect,2
+Morogoro,Malinyi,Mtimbira Health Center,2018,9,Suspect,1
+Morogoro,Malinyi,Mtimbira Health Center,2019,2,Suspect,1
+Morogoro,Malinyi,Mtimbira Health Center,2020,1,Suspect,2
+Morogoro,Malinyi,Mtimbira Health Center,2020,3,Suspect,3
+Morogoro,Malinyi,Mtimbira Health Center,2020,4,Suspect,2
+Morogoro,Malinyi,Mtimbira Health Center,2020,5,Suspect,1
+Morogoro,Malinyi,Mtimbira Health Center,2020,6,Suspect,3
+Morogoro,Malinyi,Mtimbira Health Center,2020,7,Suspect,1
+Morogoro,Malinyi,Mtimbira Health Center,2020,8,Suspect,7
+Morogoro,Malinyi,Mtimbira Health Center,2020,9,Suspect,3
+Morogoro,Malinyi,Mtimbira Health Center,2020,10,Healthy,2
+Morogoro,Malinyi,Mtimbira Health Center,2020,10,Suspect,8
+Morogoro,Malinyi,Mtimbira Health Center,2020,11,Healthy,1
+Morogoro,Malinyi,Mtimbira Health Center,2020,11,Suspect,1
+Morogoro,Malinyi,Mtimbira Health Center,2020,12,Suspect,1
+Morogoro,Malinyi,Mtimbira Health Center,2021,1,Suspect,7
+Morogoro,Malinyi,Mtimbira Health Center,2021,2,Suspect,2
+Morogoro,Malinyi,Mtimbira Health Center,2021,3,Healthy,1
+Morogoro,Malinyi,Mtimbira Health Center,2021,4,Suspect,2
+Morogoro,Malinyi,Mtimbira Health Center,2021,5,Healthy,3
+Morogoro,Malinyi,Mtimbira Health Center,2021,5,Suspect,5
+Morogoro,Malinyi,Mtimbira Health Center,2021,6,Healthy,7
+Morogoro,Malinyi,Mtimbira Health Center,2021,6,Suspect,10
+Morogoro,Malinyi,Mtimbira Health Center,2021,7,Healthy,5
+Morogoro,Malinyi,Mtimbira Health Center,2021,7,Suspect,10
+Morogoro,Malinyi,Mtimbira Health Center,2021,8,Healthy,2
+Morogoro,Malinyi,Mtimbira Health Center,2021,8,Suspect,1
+Morogoro,Malinyi,Mtimbira Health Center,2021,9,Healthy,1
+Morogoro,Malinyi,Mtimbira Health Center,2021,9,Suspect,5
+Morogoro,Malinyi,Mtimbira Health Center,2021,10,Healthy,4
+Morogoro,Malinyi,Mtimbira Health Center,2021,10,Suspect,5
+Morogoro,Malinyi,Mtimbira Health Center,2021,11,Healthy,5
+Morogoro,Malinyi,Mtimbira Health Center,2021,11,Suspect,6
+Morogoro,Malinyi,Mtimbira Health Center,2021,12,Healthy,2
+Morogoro,Malinyi,Mtimbira Health Center,2021,12,Suspect,6
+Morogoro,Malinyi,Mtimbira Health Center,2022,1,Healthy,1
+Morogoro,Malinyi,Mtimbira Health Center,2022,1,Suspect,7
+Morogoro,Malinyi,Mtimbira Health Center,2022,2,Suspect,8
+Morogoro,Malinyi,Mtimbira Health Center,2022,3,Healthy,2
+Morogoro,Malinyi,Mtimbira Health Center,2022,3,Suspect,6
+Morogoro,Malinyi,Mtimbira Health Center,2022,4,Healthy,1
+Morogoro,Malinyi,Mtimbira Health Center,2022,4,Suspect,2
+Morogoro,Malinyi,Mtimbira Health Center,2022,5,Suspect,10
+Morogoro,Malinyi,Mtimbira Health Center,2022,6,Suspect,12
+Morogoro,Malinyi,Mtimbira Health Center,2022,7,Suspect,1
+Morogoro,Malinyi,Mtimbira Health Center,2022,8,Suspect,2
+Morogoro,Malinyi,Mtimbira Health Center,2022,9,Healthy,3
+Morogoro,Malinyi,Mtimbira Health Center,2022,9,Suspect,3
+Morogoro,Malinyi,Mtimbira Health Center,2022,10,Suspect,4
+Morogoro,Malinyi,Mtimbira Health Center,2022,11,Suspect,3
+Morogoro,Malinyi,Mtimbira Health Center,2022,12,Suspect,3
+Morogoro,Malinyi,Mtimbira Health Center,2023,1,Suspect,5
+Morogoro,Malinyi,Mtimbira Health Center,2023,2,Healthy,1
+Morogoro,Malinyi,Mtimbira Health Center,2023,2,Suspect,4
+Morogoro,Malinyi,Mtimbira Health Center,2023,3,Suspect,3
+Morogoro,Malinyi,Mtimbira Health Center,2023,5,Suspect,8
+Morogoro,Malinyi,Mtimbira Health Center,2023,6,Suspect,7
+Morogoro,Malinyi,Mtimbira Health Center,2023,8,Suspect,1
+Morogoro,Malinyi,Mtimbira Health Center,2023,9,Suspect,3
+Morogoro,Malinyi,Mtimbira Health Center,2023,10,Suspect,2
+Morogoro,Malinyi,Mtimbira Health Center,2023,12,Suspect,4
+Morogoro,Malinyi,Rabies Test Facility,2018,2,Healthy,1
+Morogoro,Malinyi,Rabies Test Facility,2018,3,Healthy,2
+Morogoro,Malinyi,Rabies Test Facility,2018,4,Healthy,1
+Morogoro,Morogoro,Dutumi Health Center,2019,4,Suspect,2
+Morogoro,Morogoro,Dutumi Health Center,2019,5,Suspect,4
+Morogoro,Morogoro,Dutumi Health Center,2019,6,Suspect,3
+Morogoro,Morogoro,Dutumi Health Center,2019,7,Suspect,1
+Morogoro,Morogoro,Dutumi Health Center,2019,8,Suspect,7
+Morogoro,Morogoro,Dutumi Health Center,2019,11,Suspect,7
+Morogoro,Morogoro,Dutumi Health Center,2019,12,Suspect,5
+Morogoro,Morogoro,Dutumi Health Center,2020,2,Suspect,2
+Morogoro,Morogoro,Dutumi Health Center,2020,7,Suspect,19
+Morogoro,Morogoro,Dutumi Health Center,2021,10,Suspect,3
+Morogoro,Morogoro,Dutumi Health Center,2021,11,Healthy,1
+Morogoro,Morogoro,Dutumi Health Center,2021,11,Suspect,1
+Morogoro,Morogoro,Dutumi Health Center,2022,1,Suspect,3
+Morogoro,Morogoro,Dutumi Health Center,2022,2,Healthy,2
+Morogoro,Morogoro,Dutumi Health Center,2022,2,Suspect,3
+Morogoro,Morogoro,Dutumi Health Center,2022,3,Suspect,1
+Morogoro,Morogoro,Dutumi Health Center,2022,4,Suspect,4
+Morogoro,Morogoro,Dutumi Health Center,2022,5,Suspect,7
+Morogoro,Morogoro,Dutumi Health Center,2022,6,Suspect,16
+Morogoro,Morogoro,Dutumi Health Center,2022,7,Suspect,18
+Morogoro,Morogoro,Dutumi Health Center,2022,8,Healthy,1
+Morogoro,Morogoro,Dutumi Health Center,2022,10,Healthy,1
+Morogoro,Morogoro,Dutumi Health Center,2022,10,Suspect,16
+Morogoro,Morogoro,Dutumi Health Center,2022,11,Suspect,3
+Morogoro,Morogoro,Dutumi Health Center,2023,8,Healthy,1
+Morogoro,Morogoro,Dutumi Health Center,2023,8,Suspect,2
+Morogoro,Morogoro,Dutumi Health Center,2023,9,Healthy,1
+Morogoro,Morogoro,Dutumi Health Center,2023,9,Suspect,5
+Morogoro,Morogoro,Dutumi Health Center,2023,10,Suspect,1
+Morogoro,Morogoro,Fulwe Dispensary,2020,5,Suspect,1
+Morogoro,Morogoro,Fulwe Dispensary,2020,7,Suspect,6
+Morogoro,Morogoro,Kibaoni Health Center,2019,12,Healthy,1
+Morogoro,Morogoro,Kingolwira Health Center,2019,6,Suspect,1
+Morogoro,Morogoro,Kingolwira Health Center,2019,7,Suspect,1
+Morogoro,Morogoro,Kingolwira Health Center,2019,8,Suspect,6
+Morogoro,Morogoro,Kingolwira Health Center,2019,9,Healthy,2
+Morogoro,Morogoro,Kingolwira Health Center,2019,9,Suspect,2
+Morogoro,Morogoro,Kingolwira Health Center,2019,10,Healthy,1
+Morogoro,Morogoro,Kingolwira Health Center,2019,10,Suspect,2
+Morogoro,Morogoro,Kingolwira Health Center,2019,11,Suspect,1
+Morogoro,Morogoro,Kingolwira Health Center,2019,12,Suspect,1
+Morogoro,Morogoro,Kingolwira Health Center,2020,1,Suspect,10
+Morogoro,Morogoro,Kingolwira Health Center,2020,2,Suspect,7
+Morogoro,Morogoro,Kingolwira Health Center,2020,4,Suspect,5
+Morogoro,Morogoro,Kingolwira Health Center,2020,6,Suspect,2
+Morogoro,Morogoro,Kingolwira Health Center,2020,7,Suspect,6
+Morogoro,Morogoro,Kingolwira Health Center,2020,12,Suspect,6
+Morogoro,Morogoro,Kingolwira Health Center,2021,1,Suspect,4
+Morogoro,Morogoro,Kingolwira Health Center,2021,4,Healthy,1
+Morogoro,Morogoro,Kingolwira Health Center,2021,4,Suspect,8
+Morogoro,Morogoro,Kingolwira Health Center,2021,5,Suspect,1
+Morogoro,Morogoro,Kingolwira Health Center,2021,6,Healthy,1
+Morogoro,Morogoro,Kingolwira Health Center,2021,7,Healthy,5
+Morogoro,Morogoro,Kingolwira Health Center,2021,7,Suspect,1
+Morogoro,Morogoro,Kingolwira Health Center,2021,8,Suspect,1
+Morogoro,Morogoro,Kingolwira Health Center,2022,3,Suspect,2
+Morogoro,Morogoro,Kingolwira Health Center,2022,4,Suspect,1
+Morogoro,Morogoro,Kingolwira Health Center,2022,5,Suspect,1
+Morogoro,Morogoro,Kingolwira Health Center,2022,8,Suspect,1
+Morogoro,Morogoro,Kingolwira Health Center,2022,9,Healthy,1
+Morogoro,Morogoro,Kingolwira Health Center,2022,9,Suspect,1
+Morogoro,Morogoro,Kingolwira Health Center,2022,10,Healthy,1
+Morogoro,Morogoro,Kingolwira Health Center,2022,10,Suspect,1
+Morogoro,Morogoro,Kingolwira Health Center,2022,12,Healthy,1
+Morogoro,Morogoro,Kingolwira Health Center,2022,12,Suspect,6
+Morogoro,Morogoro,Kingolwira Health Center,2023,2,Healthy,6
+Morogoro,Morogoro,Kingolwira Health Center,2023,2,Suspect,1
+Morogoro,Morogoro,Kingolwira Health Center,2023,5,Suspect,3
+Morogoro,Morogoro,Kingolwira Health Center,2023,6,Healthy,1
+Morogoro,Morogoro,Kingolwira Health Center,2023,6,Suspect,4
+Morogoro,Morogoro,Kingolwira Health Center,2023,8,Healthy,2
+Morogoro,Morogoro,Kingolwira Health Center,2023,8,Suspect,3
+Morogoro,Morogoro,Kingolwira Health Center,2023,9,Healthy,1
+Morogoro,Morogoro,Kingolwira Health Center,2023,9,Suspect,4
+Morogoro,Morogoro,Kingolwira Health Center,2023,10,Suspect,1
+Morogoro,Morogoro,Kingolwira Health Center,2023,12,Healthy,1
+Morogoro,Morogoro,Kisemu Dispensary,2018,8,Healthy,1
+Morogoro,Morogoro,Kisemu Dispensary,2018,11,Healthy,1
+Morogoro,Morogoro,Kisemu Dispensary,2018,12,Healthy,1
+Morogoro,Morogoro,Kisemu Dispensary,2019,1,Suspect,1
+Morogoro,Morogoro,Kisemu Dispensary,2019,3,Suspect,1
+Morogoro,Morogoro,Kisemu Dispensary,2019,4,Suspect,1
+Morogoro,Morogoro,Kisemu Dispensary,2019,5,Suspect,4
+Morogoro,Morogoro,Kisemu Dispensary,2019,6,Suspect,1
+Morogoro,Morogoro,Kisemu Dispensary,2019,7,Suspect,2
+Morogoro,Morogoro,Kisemu Dispensary,2019,8,Suspect,6
+Morogoro,Morogoro,Kisemu Dispensary,2019,9,Suspect,6
+Morogoro,Morogoro,Kisemu Dispensary,2019,10,Suspect,1
+Morogoro,Morogoro,Kisemu Dispensary,2020,4,Suspect,2
+Morogoro,Morogoro,Kisemu Dispensary,2020,5,Suspect,3
+Morogoro,Morogoro,Kisemu Dispensary,2020,6,Suspect,5
+Morogoro,Morogoro,Kisemu Dispensary,2020,7,Healthy,1
+Morogoro,Morogoro,Kisemu Dispensary,2020,7,Suspect,3
+Morogoro,Morogoro,Kisemu Dispensary,2020,8,Healthy,1
+Morogoro,Morogoro,Kisemu Dispensary,2020,10,Healthy,2
+Morogoro,Morogoro,Kisemu Dispensary,2021,5,Suspect,3
+Morogoro,Morogoro,Liwale District Hospital,2019,8,Suspect,1
+Morogoro,Morogoro,Liwale District Hospital,2019,9,Suspect,1
+Morogoro,Morogoro,Mafiga Health Center,2021,5,Healthy,1
+Morogoro,Morogoro,Mafiga Health Center,2021,5,Suspect,1
+Morogoro,Morogoro,Mafiga Health Center,2021,6,Suspect,1
+Morogoro,Morogoro,Mafiga Health Center,2023,7,Suspect,1
+Morogoro,Morogoro,Mafiga Health Center,2023,8,Suspect,1
+Morogoro,Morogoro,Mafiga Health Center,2023,9,Suspect,1
+Morogoro,Morogoro,Mafiga Health Center,2023,10,Healthy,1
+Morogoro,Morogoro,Mafiga Health Center,2023,10,Suspect,1
+Morogoro,Morogoro,Mafiga Health Center,2023,12,Suspect,3
+Morogoro,Morogoro,Mkuyuni Health Center,2021,5,Healthy,1
+Morogoro,Morogoro,Mkuyuni Health Center,2021,5,Suspect,1
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,4,Healthy,2
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,4,Suspect,4
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,5,Suspect,3
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,6,Healthy,2
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,6,Suspect,5
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,7,Suspect,1
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,8,Healthy,4
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,8,Suspect,5
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,9,Healthy,1
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,9,Suspect,2
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,10,Healthy,2
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,10,Suspect,1
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,11,Healthy,1
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,12,Healthy,2
+Morogoro,Morogoro,Morogoro Regional Hospital,2022,12,Suspect,4
+Morogoro,Morogoro,Morogoro Regional Hospital,2023,1,Healthy,2
+Morogoro,Morogoro,Morogoro Regional Hospital,2023,1,Suspect,6
+Morogoro,Morogoro,Morogoro Regional Hospital,2023,2,Suspect,3
+Morogoro,Morogoro,Morogoro Regional Hospital,2023,3,Healthy,4
+Morogoro,Morogoro,Morogoro Regional Hospital,2023,3,Suspect,1
+Morogoro,Morogoro,Morogoro Regional Hospital,2023,5,Healthy,1
+Morogoro,Morogoro,Morogoro Regional Hospital,2023,8,Healthy,2
+Morogoro,Morogoro,Morogoro Regional Hospital,2023,8,Suspect,1
+Morogoro,Morogoro,Morogoro Regional Hospital,2023,9,Suspect,1
+Morogoro,Morogoro,Mtimbira Health Center,2020,3,Suspect,2
+Morogoro,Morogoro,Mtimbira Health Center,2020,4,Suspect,1
+Morogoro,Morogoro,Mwembesongo Dispensary,2019,10,Suspect,2
+Morogoro,Morogoro,Mwembesongo Dispensary,2020,1,Suspect,10
+Morogoro,Morogoro,Mwembesongo Dispensary,2020,5,Suspect,1
+Morogoro,Morogoro,Mwembesongo Dispensary,2021,11,Suspect,2
+Morogoro,Morogoro,Mwembesongo Dispensary,2021,12,Healthy,2
+Morogoro,Morogoro,Mwembesongo Dispensary,2021,12,Suspect,2
+Morogoro,Morogoro,Mwembesongo Dispensary,2022,5,Suspect,1
+Morogoro,Morogoro,Mwembesongo Dispensary,2023,8,Healthy,1
+Morogoro,Morogoro,Ngerengere Health Center,2019,3,Suspect,1
+Morogoro,Morogoro,Ngerengere Health Center,2019,4,Suspect,2
+Morogoro,Morogoro,Ngerengere Health Center,2019,5,Suspect,1
+Morogoro,Morogoro,Ngerengere Health Center,2019,6,Suspect,6
+Morogoro,Morogoro,Ngerengere Health Center,2020,5,Suspect,1
+Morogoro,Morogoro,Ngerengere Health Center,2020,6,Suspect,19
+Morogoro,Morogoro,Ngerengere Health Center,2020,7,Healthy,1
+Morogoro,Morogoro,Ngerengere Health Center,2020,7,Suspect,2
+Morogoro,Morogoro,Ngerengere Health Center,2020,8,Suspect,22
+Morogoro,Morogoro,Ngerengere Health Center,2020,9,Healthy,3
+Morogoro,Morogoro,Ngerengere Health Center,2020,9,Suspect,3
+Morogoro,Morogoro,Ngerengere Health Center,2020,10,Healthy,11
+Morogoro,Morogoro,Ngerengere Health Center,2020,10,Suspect,3
+Morogoro,Morogoro,Ngerengere Health Center,2020,11,Healthy,2
+Morogoro,Morogoro,Ngerengere Health Center,2020,11,Suspect,1
+Morogoro,Morogoro,Ngerengere Health Center,2021,5,Healthy,2
+Morogoro,Morogoro,Ngerengere Health Center,2021,5,Suspect,6
+Morogoro,Morogoro,Ngerengere Health Center,2021,6,Healthy,1
+Morogoro,Morogoro,Ngerengere Health Center,2022,1,Suspect,8
+Morogoro,Morogoro,Ngerengere Health Center,2022,2,Healthy,2
+Morogoro,Morogoro,Ngerengere Health Center,2022,2,Suspect,5
+Morogoro,Morogoro,Ngerengere Health Center,2022,3,Healthy,1
+Morogoro,Morogoro,Ngerengere Health Center,2022,3,Suspect,1
+Morogoro,Morogoro,Ngerengere Health Center,2022,4,Healthy,2
+Morogoro,Morogoro,Ngerengere Health Center,2022,4,Suspect,1
+Morogoro,Morogoro,Ngerengere Health Center,2022,5,Healthy,4
+Morogoro,Morogoro,Ngerengere Health Center,2022,6,Healthy,1
+Morogoro,Morogoro,Ngerengere Health Center,2022,6,Suspect,2
+Morogoro,Morogoro,Ngerengere Health Center,2022,7,Suspect,2
+Morogoro,Morogoro,Ngerengere Health Center,2022,8,Healthy,3
+Morogoro,Morogoro,Ngerengere Health Center,2022,8,Suspect,5
+Morogoro,Morogoro,Ngerengere Health Center,2022,9,Suspect,1
+Morogoro,Morogoro,Ngerengere Health Center,2022,12,Suspect,1
+Morogoro,Morogoro,Ngerengere Health Center,2023,1,Suspect,3
+Morogoro,Morogoro,Ngerengere Health Center,2023,2,Suspect,6
+Morogoro,Morogoro,Ngerengere Health Center,2023,3,Suspect,5
+Morogoro,Morogoro,Ngerengere Health Center,2023,4,Suspect,4
+Morogoro,Morogoro,Ngerengere Health Center,2023,5,Suspect,7
+Morogoro,Morogoro,Ngerengere Health Center,2023,6,Healthy,2
+Morogoro,Morogoro,Ngerengere Health Center,2023,6,Suspect,1
+Morogoro,Morogoro,Ngerengere Health Center,2023,7,Healthy,3
+Morogoro,Morogoro,Ngerengere Health Center,2023,7,Suspect,8
+Morogoro,Morogoro,Ngerengere Health Center,2023,8,Healthy,3
+Morogoro,Morogoro,Ngerengere Health Center,2023,8,Suspect,4
+Morogoro,Morogoro,Ngerengere Health Center,2023,9,Suspect,1
+Morogoro,Morogoro,Ngerengere Health Center,2023,10,Suspect,3
+Morogoro,Morogoro,Ngerengere Health Center,2023,11,Suspect,3
+Morogoro,Morogoro,Ngerengere Health Center,2023,12,Suspect,4
+Morogoro,Morogoro,Rabies Test Facility,2018,1,Healthy,20
+Morogoro,Morogoro,Rabies Test Facility,2018,1,Suspect,8
+Morogoro,Morogoro,Rabies Test Facility,2018,2,Healthy,26
+Morogoro,Morogoro,Rabies Test Facility,2018,2,Suspect,11
+Morogoro,Morogoro,Rabies Test Facility,2018,3,Healthy,28
+Morogoro,Morogoro,Rabies Test Facility,2018,3,Suspect,10
+Morogoro,Morogoro,Rabies Test Facility,2018,4,Healthy,40
+Morogoro,Morogoro,Rabies Test Facility,2018,5,Healthy,17
+Morogoro,Morogoro,Rabies Test Facility,2018,5,Suspect,1
+Morogoro,Morogoro,Rabies Test Facility,2018,6,Healthy,4
+Morogoro,Morogoro,Rabies Test Facility,2018,7,Healthy,2
+Morogoro,Morogoro,Rabies Test Facility,2018,9,Healthy,1
+Morogoro,Morogoro,Sabasaba Health Center,2019,3,Healthy,3
+Morogoro,Morogoro,Sabasaba Health Center,2019,3,Suspect,9
+Morogoro,Morogoro,Sabasaba Health Center,2019,4,Suspect,1
+Morogoro,Morogoro,Sabasaba Health Center,2019,5,Suspect,1
+Morogoro,Morogoro,Sabasaba Health Center,2019,12,Suspect,3
+Morogoro,Morogoro,Sabasaba Health Center,2020,1,Suspect,3
+Morogoro,Morogoro,Sabasaba Health Center,2020,3,Suspect,3
+Morogoro,Morogoro,Sabasaba Health Center,2020,6,Suspect,5
+Morogoro,Morogoro,Sabasaba Health Center,2020,9,Healthy,4
+Morogoro,Morogoro,Sabasaba Health Center,2020,9,Suspect,10
+Morogoro,Morogoro,Sabasaba Health Center,2020,10,Healthy,3
+Morogoro,Morogoro,Sabasaba Health Center,2021,6,Healthy,1
+Morogoro,Morogoro,Sabasaba Health Center,2021,7,Healthy,9
+Morogoro,Morogoro,Sabasaba Health Center,2021,8,Healthy,12
+Morogoro,Morogoro,Sabasaba Health Center,2021,8,Suspect,4
+Morogoro,Morogoro,Sabasaba Health Center,2021,9,Healthy,8
+Morogoro,Morogoro,Sabasaba Health Center,2021,9,Suspect,2
+Morogoro,Morogoro,Sabasaba Health Center,2022,11,Suspect,4
+Morogoro,Morogoro,Sabasaba Health Center,2023,1,Suspect,1
+Morogoro,Morogoro,Sabasaba Health Center,2023,3,Suspect,2
+Morogoro,Morogoro,Sabasaba Health Center,2023,4,Healthy,1
+Morogoro,Morogoro,Sabasaba Health Center,2023,4,Suspect,6
+Morogoro,Morogoro,Sabasaba Health Center,2023,5,Suspect,1
+Morogoro,Morogoro,Sabasaba Health Center,2023,7,Healthy,2
+Morogoro,Morogoro,Sabasaba Health Center,2023,7,Suspect,5
+Morogoro,Morogoro,Sabasaba Health Center,2023,8,Healthy,2
+Morogoro,Morogoro,Sabasaba Health Center,2023,8,Suspect,8
+Morogoro,Morogoro,Sabasaba Health Center,2023,9,Suspect,1
+Morogoro,Morogoro,Sabasaba Health Center,2023,11,Suspect,1
+Morogoro,Morogoro,Uhuru Health Center,2019,2,Healthy,10
+Morogoro,Morogoro,Uhuru Health Center,2019,2,Suspect,21
+Morogoro,Morogoro,Uhuru Health Center,2019,3,Healthy,4
+Morogoro,Morogoro,Uhuru Health Center,2019,3,Suspect,10
+Morogoro,Morogoro,Uhuru Health Center,2019,4,Healthy,1
+Morogoro,Morogoro,Uhuru Health Center,2019,4,Suspect,11
+Morogoro,Morogoro,Uhuru Health Center,2019,5,Healthy,4
+Morogoro,Morogoro,Uhuru Health Center,2019,5,Suspect,33
+Morogoro,Morogoro,Uhuru Health Center,2019,6,Suspect,42
+Morogoro,Morogoro,Uhuru Health Center,2019,7,Suspect,20
+Morogoro,Morogoro,Uhuru Health Center,2019,8,Suspect,13
+Morogoro,Morogoro,Uhuru Health Center,2019,11,Healthy,1
+Morogoro,Morogoro,Uhuru Health Center,2019,11,Suspect,13
+Morogoro,Morogoro,Uhuru Health Center,2019,12,Suspect,9
+Morogoro,Morogoro,Uhuru Health Center,2020,1,Suspect,2
+Morogoro,Morogoro,Uhuru Health Center,2020,2,Suspect,7
+Morogoro,Morogoro,Uhuru Health Center,2020,3,Healthy,1
+Morogoro,Morogoro,Uhuru Health Center,2020,3,Suspect,34
+Morogoro,Morogoro,Uhuru Health Center,2020,5,Suspect,7
+Morogoro,Morogoro,Uhuru Health Center,2020,6,Suspect,11
+Morogoro,Morogoro,Uhuru Health Center,2020,7,Suspect,5
+Morogoro,Morogoro,Uhuru Health Center,2020,8,Suspect,16
+Morogoro,Morogoro,Uhuru Health Center,2020,9,Healthy,5
+Morogoro,Morogoro,Uhuru Health Center,2020,9,Suspect,15
+Morogoro,Morogoro,Uhuru Health Center,2020,10,Healthy,2
+Morogoro,Morogoro,Uhuru Health Center,2020,10,Suspect,7
+Morogoro,Morogoro,Uhuru Health Center,2020,11,Healthy,3
+Morogoro,Morogoro,Uhuru Health Center,2020,11,Suspect,22
+Morogoro,Morogoro,Uhuru Health Center,2020,12,Healthy,3
+Morogoro,Morogoro,Uhuru Health Center,2020,12,Suspect,3
+Morogoro,Morogoro,Uhuru Health Center,2021,1,Healthy,3
+Morogoro,Morogoro,Uhuru Health Center,2021,1,Suspect,5
+Morogoro,Morogoro,Uhuru Health Center,2021,2,Healthy,8
+Morogoro,Morogoro,Uhuru Health Center,2021,3,Healthy,1
+Morogoro,Morogoro,Uhuru Health Center,2021,3,Suspect,13
+Morogoro,Morogoro,Uhuru Health Center,2021,4,Healthy,8
+Morogoro,Morogoro,Uhuru Health Center,2021,4,Suspect,8
+Morogoro,Morogoro,Uhuru Health Center,2021,5,Healthy,3
+Morogoro,Morogoro,Uhuru Health Center,2021,5,Suspect,15
+Morogoro,Morogoro,Uhuru Health Center,2021,6,Healthy,4
+Morogoro,Morogoro,Uhuru Health Center,2021,6,Suspect,20
+Morogoro,Morogoro,Uhuru Health Center,2021,7,Suspect,6
+Morogoro,Morogoro,Uhuru Health Center,2021,8,Healthy,1
+Morogoro,Morogoro,Uhuru Health Center,2021,8,Suspect,2
+Morogoro,Morogoro,Uhuru Health Center,2021,9,Suspect,2
+Morogoro,Morogoro,Uhuru Health Center,2021,10,Healthy,2
+Morogoro,Morogoro,Uhuru Health Center,2021,10,Suspect,18
+Morogoro,Morogoro,Uhuru Health Center,2021,11,Healthy,4
+Morogoro,Morogoro,Uhuru Health Center,2021,11,Suspect,29
+Morogoro,Morogoro,Uhuru Health Center,2021,12,Healthy,1
+Morogoro,Morogoro,Uhuru Health Center,2021,12,Suspect,25
+Morogoro,Morogoro,Uhuru Health Center,2022,1,Suspect,42
+Morogoro,Morogoro,Uhuru Health Center,2022,2,Suspect,11
+Morogoro,Morogoro,Uhuru Health Center,2022,3,Suspect,11
+Morogoro,Morogoro,Uhuru Health Center,2022,4,Suspect,5
+Morogoro,Morogoro,Uhuru Health Center,2022,5,Healthy,2
+Morogoro,Morogoro,Uhuru Health Center,2022,5,Suspect,8
+Morogoro,Morogoro,Uhuru Health Center,2022,7,Healthy,2
+Morogoro,Morogoro,Uhuru Health Center,2022,7,Suspect,7
+Morogoro,Morogoro,Uhuru Health Center,2022,8,Suspect,6
+Morogoro,Morogoro,Uhuru Health Center,2022,10,Healthy,7
+Morogoro,Morogoro,Uhuru Health Center,2022,10,Suspect,11
+Morogoro,Morogoro,Uhuru Health Center,2022,11,Suspect,7
+Morogoro,Morogoro,Uhuru Health Center,2022,12,Suspect,3
+Morogoro,Morogoro,Uhuru Health Center,2023,1,Suspect,9
+Morogoro,Morogoro,Uhuru Health Center,2023,2,Suspect,9
+Morogoro,Morogoro,Uhuru Health Center,2023,4,Healthy,1
+Morogoro,Morogoro,Uhuru Health Center,2023,5,Suspect,12
+Morogoro,Morogoro,Uhuru Health Center,2023,6,Suspect,1
+Morogoro,Morogoro,Uhuru Health Center,2023,7,Healthy,5
+Morogoro,Morogoro,Uhuru Health Center,2023,7,Suspect,6
+Morogoro,Morogoro,Uhuru Health Center,2023,8,Healthy,1
+Morogoro,Morogoro,Uhuru Health Center,2023,8,Suspect,22
+Morogoro,Morogoro,Uhuru Health Center,2023,9,Suspect,1
+Morogoro,Morogoro,Uhuru Health Center,2023,10,Suspect,7
+Morogoro,Morogoro,Uhuru Health Center,2023,11,Suspect,3
+Morogoro,Morogoro,Uhuru Health Center,2023,12,Healthy,1
+Morogoro,Morogoro,Uhuru Health Center,2023,12,Suspect,3
+Morogoro,Mvomero,Kisemu Dispensary,2019,3,Suspect,1
+Morogoro,Mvomero,Rabies Test Facility,2018,3,Suspect,1
+Morogoro,Mvomero,Rabies Test Facility,2018,4,Healthy,5
+Morogoro,Mvomero,Rabies Test Facility,2018,5,Healthy,2
+Morogoro,Mvomero,Uhuru Health Center,2019,2,Suspect,1
+Morogoro,Mvomero,Uhuru Health Center,2020,3,Suspect,1
+Morogoro,Mvomero,Uhuru Health Center,2020,9,Suspect,1
+Morogoro,Mvomero,Uhuru Health Center,2021,7,Suspect,1
+Morogoro,Mvomero,Uhuru Health Center,2021,11,Suspect,4
+Morogoro,Mvomero,Uhuru Health Center,2022,4,Suspect,1
+Morogoro,Mvomero,Uhuru Health Center,2023,8,Suspect,2
+Morogoro,NANA,Sabasaba Health Center,2018,7,Healthy,1
+Morogoro,Ulanga,FAME Health Center,2021,4,Suspect,1
+Morogoro,Ulanga,Kibaoni Health Center,2018,9,Healthy,1
+Morogoro,Ulanga,Kibaoni Health Center,2019,3,Suspect,1
+Morogoro,Ulanga,Kibaoni Health Center,2020,2,Healthy,1
+Morogoro,Ulanga,Kibaoni Health Center,2020,2,Suspect,1
+Morogoro,Ulanga,Kibaoni Health Center,2020,11,Healthy,1
+Morogoro,Ulanga,Kibaoni Health Center,2020,11,Suspect,1
+Morogoro,Ulanga,Kibaoni Health Center,2021,9,Healthy,1
+Morogoro,Ulanga,Kibaoni Health Center,2021,9,Suspect,1
+Morogoro,Ulanga,Kibaoni Health Center,2021,11,Suspect,1
+Morogoro,Ulanga,Kibaoni Health Center,2022,8,Healthy,2
+Morogoro,Ulanga,Kibaoni Health Center,2022,8,Suspect,2
+Morogoro,Ulanga,Kibaoni Health Center,2023,1,Suspect,1
+Morogoro,Ulanga,Kibaoni Health Center,2023,9,Healthy,1
+Morogoro,Ulanga,Kibaoni Health Center,2023,10,Healthy,1
+Morogoro,Ulanga,Kibaoni Health Center,2023,10,Suspect,4
+Morogoro,Ulanga,Lupiro Health Center,2019,8,Healthy,2
+Morogoro,Ulanga,Lupiro Health Center,2019,10,Healthy,1
+Morogoro,Ulanga,Lupiro Health Center,2020,3,Suspect,3
+Morogoro,Ulanga,Lupiro Health Center,2020,6,Suspect,2
+Morogoro,Ulanga,Lupiro Health Center,2020,7,Suspect,5
+Morogoro,Ulanga,Lupiro Health Center,2021,10,Healthy,1
+Morogoro,Ulanga,Lupiro Health Center,2021,10,Suspect,3
+Morogoro,Ulanga,Lupiro Health Center,2021,11,Suspect,4
+Morogoro,Ulanga,Lupiro Health Center,2021,12,Suspect,2
+Morogoro,Ulanga,Lupiro Health Center,2022,5,Suspect,2
+Morogoro,Ulanga,Lupiro Health Center,2022,6,Healthy,1
+Morogoro,Ulanga,Lupiro Health Center,2022,6,Suspect,3
+Morogoro,Ulanga,Lupiro Health Center,2022,7,Healthy,2
+Morogoro,Ulanga,Lupiro Health Center,2022,7,Suspect,5
+Morogoro,Ulanga,Lupiro Health Center,2022,8,Healthy,1
+Morogoro,Ulanga,Lupiro Health Center,2022,8,Suspect,4
+Morogoro,Ulanga,Lupiro Health Center,2022,10,Healthy,3
+Morogoro,Ulanga,Lupiro Health Center,2022,11,Healthy,5
+Morogoro,Ulanga,Lupiro Health Center,2022,12,Healthy,2
+Morogoro,Ulanga,Lupiro Health Center,2022,12,Suspect,2
+Morogoro,Ulanga,Lupiro Health Center,2023,1,Healthy,2
+Morogoro,Ulanga,Lupiro Health Center,2023,1,Suspect,5
+Morogoro,Ulanga,Lupiro Health Center,2023,2,Healthy,1
+Morogoro,Ulanga,Lupiro Health Center,2023,2,Suspect,2
+Morogoro,Ulanga,Lupiro Health Center,2023,3,Healthy,2
+Morogoro,Ulanga,Lupiro Health Center,2023,3,Suspect,14
+Morogoro,Ulanga,Lupiro Health Center,2023,4,Healthy,1
+Morogoro,Ulanga,Lupiro Health Center,2023,5,Suspect,2
+Morogoro,Ulanga,Lupiro Health Center,2023,6,Healthy,2
+Morogoro,Ulanga,Lupiro Health Center,2023,6,Suspect,2
+Morogoro,Ulanga,Lupiro Health Center,2023,7,Healthy,2
+Morogoro,Ulanga,Lupiro Health Center,2023,7,Suspect,11
+Morogoro,Ulanga,Lupiro Health Center,2023,8,Suspect,1
+Morogoro,Ulanga,Lupiro Health Center,2023,10,Suspect,5
+Morogoro,Ulanga,Lupiro Health Center,2023,11,Suspect,1
+Morogoro,Ulanga,Lupiro Health Center,2023,12,Healthy,1
+Morogoro,Ulanga,Lupiro Health Center,2023,12,Suspect,1
+Morogoro,Ulanga,Mahurunga Health Center,2019,4,Suspect,1
+Morogoro,Ulanga,Mahurunga Health Center,2019,5,Suspect,1
+Morogoro,Ulanga,Mahurunga Health Center,2019,6,Suspect,1
+Morogoro,Ulanga,Mahurunga Health Center,2019,8,Healthy,2
+Morogoro,Ulanga,Malinyi Dispensary,2022,6,Healthy,1
+Morogoro,Ulanga,Malinyi Dispensary,2022,8,Suspect,1
+Morogoro,Ulanga,Mang'ula Health Center,2021,8,Suspect,2
+Morogoro,Ulanga,Mang'ula Health Center,2021,9,Healthy,1
+Morogoro,Ulanga,Mang'ula Health Center,2021,9,Suspect,2
+Morogoro,Ulanga,Manyamanyama Health Center,2023,2,Healthy,4
+Morogoro,Ulanga,Manyamanyama Health Center,2023,2,Suspect,3
+Morogoro,Ulanga,Manyamanyama Health Center,2023,3,Healthy,2
+Morogoro,Ulanga,Manyamanyama Health Center,2023,3,Suspect,3
+Morogoro,Ulanga,Mlimba Health Center,2019,12,Healthy,1
+Morogoro,Ulanga,Mngeta Health Center,2022,9,Healthy,3
+Morogoro,Ulanga,Mngeta Health Center,2022,9,Suspect,2
+Morogoro,Ulanga,Mngeta Health Center,2022,10,Healthy,14
+Morogoro,Ulanga,Mngeta Health Center,2022,10,Suspect,1
+Morogoro,Ulanga,Mngeta Health Center,2022,11,Healthy,2
+Morogoro,Ulanga,Mngeta Health Center,2022,11,Suspect,4
+Morogoro,Ulanga,Mngeta Health Center,2022,12,Suspect,6
+Morogoro,Ulanga,Mtimbira Health Center,2021,8,Suspect,1
+Morogoro,Ulanga,Mtimbira Health Center,2023,10,Suspect,1
+Morogoro,Ulanga,Mwaya Health Center,2020,3,Suspect,2
+Morogoro,Ulanga,Mwaya Health Center,2020,9,Suspect,2
+Morogoro,Ulanga,Mwaya Health Center,2020,11,Suspect,6
+Morogoro,Ulanga,Mwaya Health Center,2021,3,Suspect,2
+Morogoro,Ulanga,Mwaya Health Center,2021,4,Suspect,11
+Morogoro,Ulanga,Mwaya Health Center,2021,5,Healthy,2
+Morogoro,Ulanga,Mwaya Health Center,2021,7,Suspect,1
+Morogoro,Ulanga,Mwaya Health Center,2021,8,Healthy,1
+Morogoro,Ulanga,Mwaya Health Center,2021,8,Suspect,1
+Morogoro,Ulanga,Mwaya Health Center,2021,12,Suspect,1
+Morogoro,Ulanga,Mwaya Health Center,2022,1,Healthy,1
+Morogoro,Ulanga,Mwaya Health Center,2022,1,Suspect,4
+Morogoro,Ulanga,Mwaya Health Center,2022,2,Suspect,1
+Morogoro,Ulanga,Mwaya Health Center,2022,3,Suspect,2
+Morogoro,Ulanga,Mwaya Health Center,2022,7,Healthy,1
+Morogoro,Ulanga,Mwaya Health Center,2022,7,Suspect,5
+Morogoro,Ulanga,Mwaya Health Center,2022,8,Suspect,5
+Morogoro,Ulanga,Mwaya Health Center,2022,9,Suspect,3
+Morogoro,Ulanga,Mwaya Health Center,2023,6,Suspect,5
+Morogoro,Ulanga,Mwaya Health Center,2023,7,Healthy,4
+Morogoro,Ulanga,Mwaya Health Center,2023,7,Suspect,10
+Morogoro,Ulanga,Mwaya Health Center,2023,8,Healthy,2
+Morogoro,Ulanga,Mwaya Health Center,2023,8,Suspect,1
+Morogoro,Ulanga,Mwaya Health Center,2023,9,Suspect,4
+Morogoro,Ulanga,Mwaya Health Center,2023,10,Suspect,1
+Morogoro,Ulanga,Mwaya Health Center,2023,11,Suspect,2
+Morogoro,Ulanga,Nyasho Health Center,2022,9,Healthy,1
+Morogoro,Ulanga,Rabies Test Facility,2018,1,Healthy,4
+Morogoro,Ulanga,Rabies Test Facility,2018,1,Suspect,1
+Morogoro,Ulanga,Rabies Test Facility,2018,2,Healthy,3
+Morogoro,Ulanga,Rabies Test Facility,2018,2,Suspect,1
+Morogoro,Ulanga,Rabies Test Facility,2018,3,Healthy,7
+Morogoro,Ulanga,Rabies Test Facility,2018,4,Healthy,6
+Morogoro,Ulanga,Rabies Test Facility,2018,4,Suspect,2
+Morogoro,Ulanga,Rabies Test Facility,2018,5,Healthy,8
+Morogoro,Ulanga,Rabies Test Facility,2018,6,Healthy,3
+Morogoro,Ulanga,Rabies Test Facility,2018,6,Suspect,1
+Morogoro,Ulanga,Rabies Test Facility,2018,7,Healthy,1
+Morogoro,Ulanga,Rabies Test Facility,2018,8,Healthy,1
+Morogoro,Ulanga,Ulanga District Hospital,2018,6,Suspect,1
+Morogoro,Ulanga,Ulanga District Hospital,2018,7,Suspect,1
+Morogoro,Ulanga,Ulanga District Hospital,2018,8,Healthy,2
+Morogoro,Ulanga,Ulanga District Hospital,2018,9,Healthy,5
+Morogoro,Ulanga,Ulanga District Hospital,2018,9,Suspect,2
+Morogoro,Ulanga,Ulanga District Hospital,2018,10,Healthy,14
+Morogoro,Ulanga,Ulanga District Hospital,2018,10,Suspect,2
+Morogoro,Ulanga,Ulanga District Hospital,2018,11,Healthy,14
+Morogoro,Ulanga,Ulanga District Hospital,2018,11,Suspect,5
+Morogoro,Ulanga,Ulanga District Hospital,2018,12,Healthy,10
+Morogoro,Ulanga,Ulanga District Hospital,2019,1,Suspect,7
+Morogoro,Ulanga,Ulanga District Hospital,2019,2,Healthy,1
+Morogoro,Ulanga,Ulanga District Hospital,2019,2,Suspect,13
+Morogoro,Ulanga,Ulanga District Hospital,2019,3,Suspect,20
+Morogoro,Ulanga,Ulanga District Hospital,2019,4,Suspect,49
+Morogoro,Ulanga,Ulanga District Hospital,2019,5,Healthy,12
+Morogoro,Ulanga,Ulanga District Hospital,2019,5,Suspect,35
+Morogoro,Ulanga,Ulanga District Hospital,2019,6,Healthy,15
+Morogoro,Ulanga,Ulanga District Hospital,2019,6,Suspect,11
+Morogoro,Ulanga,Ulanga District Hospital,2019,7,Healthy,18
+Morogoro,Ulanga,Ulanga District Hospital,2019,7,Suspect,13
+Morogoro,Ulanga,Ulanga District Hospital,2019,8,Healthy,13
+Morogoro,Ulanga,Ulanga District Hospital,2019,8,Suspect,8
+Morogoro,Ulanga,Ulanga District Hospital,2019,9,Healthy,11
+Morogoro,Ulanga,Ulanga District Hospital,2019,9,Suspect,18
+Morogoro,Ulanga,Ulanga District Hospital,2019,10,Healthy,1
+Morogoro,Ulanga,Ulanga District Hospital,2019,10,Suspect,1
+Morogoro,Ulanga,Ulanga District Hospital,2019,12,Suspect,1
+Morogoro,Ulanga,Ulanga District Hospital,2020,1,Suspect,11
+Morogoro,Ulanga,Ulanga District Hospital,2020,2,Suspect,5
+Morogoro,Ulanga,Ulanga District Hospital,2020,3,Suspect,9
+Morogoro,Ulanga,Ulanga District Hospital,2020,4,Suspect,8
+Morogoro,Ulanga,Ulanga District Hospital,2020,5,Suspect,6
+Morogoro,Ulanga,Ulanga District Hospital,2020,6,Suspect,13
+Morogoro,Ulanga,Ulanga District Hospital,2020,7,Suspect,14
+Morogoro,Ulanga,Ulanga District Hospital,2020,8,Healthy,1
+Morogoro,Ulanga,Ulanga District Hospital,2020,8,Suspect,5
+Morogoro,Ulanga,Ulanga District Hospital,2020,9,Healthy,1
+Morogoro,Ulanga,Ulanga District Hospital,2020,9,Suspect,2
+Morogoro,Ulanga,Ulanga District Hospital,2021,2,Healthy,2
+Morogoro,Ulanga,Ulanga District Hospital,2021,2,Suspect,2
+Morogoro,Ulanga,Ulanga District Hospital,2021,3,Healthy,2
+Morogoro,Ulanga,Ulanga District Hospital,2021,4,Healthy,2
+Morogoro,Ulanga,Ulanga District Hospital,2021,5,Healthy,9
+Morogoro,Ulanga,Ulanga District Hospital,2021,5,Suspect,5
+Morogoro,Ulanga,Ulanga District Hospital,2021,8,Healthy,3
+Morogoro,Ulanga,Ulanga District Hospital,2021,8,Suspect,5
+Morogoro,Ulanga,Ulanga District Hospital,2021,9,Healthy,2
+Morogoro,Ulanga,Ulanga District Hospital,2021,9,Suspect,4
+Morogoro,Ulanga,Ulanga District Hospital,2021,10,Healthy,2
+Morogoro,Ulanga,Ulanga District Hospital,2021,10,Suspect,4
+Morogoro,Ulanga,Ulanga District Hospital,2021,11,Healthy,1
+Morogoro,Ulanga,Ulanga District Hospital,2021,11,Suspect,4
+Morogoro,Ulanga,Ulanga District Hospital,2022,1,Suspect,4
+Morogoro,Ulanga,Ulanga District Hospital,2022,2,Healthy,1
+Morogoro,Ulanga,Ulanga District Hospital,2022,2,Suspect,7
+Morogoro,Ulanga,Ulanga District Hospital,2022,3,Healthy,5
+Morogoro,Ulanga,Ulanga District Hospital,2022,3,Suspect,4
+Morogoro,Ulanga,Ulanga District Hospital,2022,4,Healthy,3
+Morogoro,Ulanga,Ulanga District Hospital,2022,4,Suspect,3
+Morogoro,Ulanga,Ulanga District Hospital,2022,5,Healthy,4
+Morogoro,Ulanga,Ulanga District Hospital,2022,6,Healthy,5
+Morogoro,Ulanga,Ulanga District Hospital,2022,6,Suspect,9
+Morogoro,Ulanga,Ulanga District Hospital,2022,7,Healthy,1
+Morogoro,Ulanga,Ulanga District Hospital,2022,7,Suspect,16
+Morogoro,Ulanga,Ulanga District Hospital,2022,8,Healthy,3
+Morogoro,Ulanga,Ulanga District Hospital,2022,8,Suspect,6
+Morogoro,Ulanga,Ulanga District Hospital,2022,9,Healthy,1
+Morogoro,Ulanga,Ulanga District Hospital,2022,9,Suspect,7
+Morogoro,Ulanga,Ulanga District Hospital,2022,10,Suspect,6
+Morogoro,Ulanga,Ulanga District Hospital,2022,11,Healthy,1
+Morogoro,Ulanga,Ulanga District Hospital,2022,11,Suspect,10
+Morogoro,Ulanga,Ulanga District Hospital,2022,12,Healthy,1
+Morogoro,Ulanga,Ulanga District Hospital,2022,12,Suspect,13
+Morogoro,Ulanga,Ulanga District Hospital,2023,1,Suspect,4
+Morogoro,Ulanga,Ulanga District Hospital,2023,2,Healthy,1
+Morogoro,Ulanga,Ulanga District Hospital,2023,2,Suspect,1
+Morogoro,Ulanga,Ulanga District Hospital,2023,3,Healthy,8
+Morogoro,Ulanga,Ulanga District Hospital,2023,3,Suspect,5
+Morogoro,Ulanga,Ulanga District Hospital,2023,4,Healthy,1
+Morogoro,Ulanga,Ulanga District Hospital,2023,4,Suspect,6
+Morogoro,Ulanga,Ulanga District Hospital,2023,5,Suspect,3
+Morogoro,Ulanga,Ulanga District Hospital,2023,6,Suspect,5
+Morogoro,Ulanga,Ulanga District Hospital,2023,12,Healthy,1
+Morogoro,Ulanga,Ulanga District Hospital,2023,12,Suspect,2
+Mtwara,Masasi,Karatu Health Center,2023,1,Healthy,1
+Mtwara,Masasi,Masasi Hospital,2018,1,Healthy,5
+Mtwara,Masasi,Masasi Hospital,2018,6,Healthy,1
+Mtwara,Masasi,Masasi Hospital,2020,8,Suspect,1
+Mtwara,Masasi,Mkomaindo Hospital,2019,1,Healthy,5
+Mtwara,Masasi,Mkomaindo Hospital,2019,1,Suspect,1
+Mtwara,Masasi,Mkomaindo Hospital,2019,2,Suspect,3
+Mtwara,Masasi,Mkomaindo Hospital,2019,3,Healthy,1
+Mtwara,Masasi,Mkomaindo Hospital,2019,4,Healthy,1
+Mtwara,Masasi,Mkomaindo Hospital,2019,5,Healthy,1
+Mtwara,Masasi,Mkomaindo Hospital,2019,6,Healthy,2
+Mtwara,Masasi,Mkomaindo Hospital,2019,7,Healthy,1
+Mtwara,Masasi,Mkomaindo Hospital,2020,3,Healthy,3
+Mtwara,Masasi,Mkomaindo Hospital,2020,8,Suspect,1
+Mtwara,Masasi,Mkomaindo Hospital,2020,9,Suspect,1
+Mtwara,Masasi,Mkomaindo Hospital,2020,10,Healthy,1
+Mtwara,Masasi,Mkomaindo Hospital,2020,10,Suspect,1
+Mtwara,Masasi,Mkomaindo Hospital,2020,11,Suspect,2
+Mtwara,Masasi,Mkomaindo Hospital,2020,12,Suspect,1
+Mtwara,Masasi,Mkomaindo Hospital,2021,2,Suspect,2
+Mtwara,Masasi,Mkomaindo Hospital,2021,3,Suspect,2
+Mtwara,Masasi,Mkomaindo Hospital,2021,4,Suspect,2
+Mtwara,Masasi,Mkomaindo Hospital,2021,8,Suspect,1
+Mtwara,Masasi,Mkomaindo Hospital,2021,9,Suspect,2
+Mtwara,Masasi,Mkomaindo Hospital,2021,10,Healthy,1
+Mtwara,Masasi,Mkomaindo Hospital,2022,1,Suspect,3
+Mtwara,Masasi,Mkomaindo Hospital,2022,2,Suspect,2
+Mtwara,Masasi,Mkomaindo Hospital,2022,3,Suspect,5
+Mtwara,Masasi,Mkomaindo Hospital,2022,4,Suspect,5
+Mtwara,Masasi,Mkomaindo Hospital,2022,7,Suspect,1
+Mtwara,Masasi,Mkomaindo Hospital,2022,8,Suspect,1
+Mtwara,Masasi,Mkomaindo Hospital,2022,9,Healthy,1
+Mtwara,Masasi,Mkomaindo Hospital,2022,10,Healthy,1
+Mtwara,Masasi,Mkomaindo Hospital,2022,10,Suspect,7
+Mtwara,Masasi,Mkomaindo Hospital,2022,11,Suspect,4
+Mtwara,Masasi,Mkomaindo Hospital,2023,1,Healthy,1
+Mtwara,Masasi,Mkomaindo Hospital,2023,1,Suspect,4
+Mtwara,Masasi,Mkomaindo Hospital,2023,2,Suspect,1
+Mtwara,Masasi,Mkomaindo Hospital,2023,4,Suspect,2
+Mtwara,Masasi,Mkomaindo Hospital,2023,5,Healthy,1
+Mtwara,Masasi,Nachingwea District Hospital,2018,10,Suspect,1
+Mtwara,Masasi,Nanyumbu District Hospital,2020,9,Suspect,1
+Mtwara,Masasi,Nanyumbu District Hospital,2021,12,Suspect,2
+Mtwara,Masasi,Ndanda Hospital,2020,8,Healthy,1
+Mtwara,Masasi,Ndanda Hospital,2022,1,Suspect,1
+Mtwara,Masasi,Ndanda Hospital,2022,6,Healthy,2
+Mtwara,Masasi,Ndanda Hospital,2023,8,Suspect,1
+Mtwara,Masasi,Nyangao Hospital,2019,2,Healthy,1
+Mtwara,Masasi,Nyangao Hospital,2019,7,Suspect,1
+Mtwara,Masasi,Nyangao Hospital,2020,6,Healthy,1
+Mtwara,Masasi,Nyangao Hospital,2020,7,Healthy,1
+Mtwara,Masasi,Nyangao Hospital,2020,7,Suspect,1
+Mtwara,Masasi,Nyangao Hospital,2022,1,Suspect,1
+Mtwara,Masasi,Rabies Test Facility,2018,1,Healthy,4
+Mtwara,Masasi,Rabies Test Facility,2018,2,Healthy,2
+Mtwara,Masasi,Rabies Test Facility,2018,3,Healthy,1
+Mtwara,Masasi,Rabies Test Facility,2018,4,Healthy,4
+Mtwara,Masasi,Rabies Test Facility,2018,4,Suspect,1
+Mtwara,Masasi,Rabies Test Facility,2018,5,Suspect,1
+Mtwara,Masasi,Ulanga District Hospital,2019,1,Suspect,2
+Mtwara,Mtwara,Dinyecha Health Center,2019,8,Suspect,1
+Mtwara,Mtwara,Dinyecha Health Center,2020,3,Healthy,1
+Mtwara,Mtwara,Dinyecha Health Center,2021,7,Suspect,1
+Mtwara,Mtwara,Dinyecha Health Center,2021,8,Healthy,1
+Mtwara,Mtwara,Dinyecha Health Center,2021,8,Suspect,1
+Mtwara,Mtwara,Dinyecha Health Center,2021,9,Healthy,1
+Mtwara,Mtwara,Dinyecha Health Center,2022,3,Suspect,7
+Mtwara,Mtwara,Dinyecha Health Center,2022,5,Suspect,11
+Mtwara,Mtwara,Dinyecha Health Center,2022,8,Suspect,1
+Mtwara,Mtwara,Ligula Regional Hospital,2018,8,Healthy,1
+Mtwara,Mtwara,Ligula Regional Hospital,2018,10,Healthy,1
+Mtwara,Mtwara,Ligula Regional Hospital,2018,10,Suspect,2
+Mtwara,Mtwara,Ligula Regional Hospital,2018,12,Healthy,1
+Mtwara,Mtwara,Ligula Regional Hospital,2019,1,Healthy,1
+Mtwara,Mtwara,Ligula Regional Hospital,2019,1,Suspect,2
+Mtwara,Mtwara,Ligula Regional Hospital,2019,2,Healthy,2
+Mtwara,Mtwara,Ligula Regional Hospital,2019,3,Healthy,1
+Mtwara,Mtwara,Ligula Regional Hospital,2019,3,Suspect,3
+Mtwara,Mtwara,Ligula Regional Hospital,2019,4,Healthy,1
+Mtwara,Mtwara,Ligula Regional Hospital,2020,9,Healthy,1
+Mtwara,Mtwara,Ligula Regional Hospital,2020,9,Suspect,1
+Mtwara,Mtwara,Ligula Regional Hospital,2020,10,Healthy,1
+Mtwara,Mtwara,Ligula Regional Hospital,2020,10,Suspect,1
+Mtwara,Mtwara,Ligula Regional Hospital,2020,11,Healthy,2
+Mtwara,Mtwara,Ligula Regional Hospital,2021,1,Suspect,4
+Mtwara,Mtwara,Ligula Regional Hospital,2021,2,Suspect,10
+Mtwara,Mtwara,Ligula Regional Hospital,2021,3,Suspect,6
+Mtwara,Mtwara,Ligula Regional Hospital,2021,4,Healthy,1
+Mtwara,Mtwara,Ligula Regional Hospital,2021,4,Suspect,5
+Mtwara,Mtwara,Ligula Regional Hospital,2021,11,Suspect,2
+Mtwara,Mtwara,Ligula Regional Hospital,2022,2,Suspect,2
+Mtwara,Mtwara,Ligula Regional Hospital,2022,3,Suspect,1
+Mtwara,Mtwara,Ligula Regional Hospital,2022,4,Suspect,1
+Mtwara,Mtwara,Ligula Regional Hospital,2022,5,Suspect,1
+Mtwara,Mtwara,Ligula Regional Hospital,2022,6,Suspect,6
+Mtwara,Mtwara,Ligula Regional Hospital,2022,7,Suspect,4
+Mtwara,Mtwara,Ligula Regional Hospital,2022,8,Suspect,1
+Mtwara,Mtwara,Ligula Regional Hospital,2022,9,Suspect,2
+Mtwara,Mtwara,Ligula Regional Hospital,2022,12,Suspect,1
+Mtwara,Mtwara,Ligula Regional Hospital,2023,1,Suspect,1
+Mtwara,Mtwara,Ligula Regional Hospital,2023,2,Suspect,3
+Mtwara,Mtwara,Ligula Regional Hospital,2023,3,Suspect,1
+Mtwara,Mtwara,Ligula Regional Hospital,2023,4,Suspect,1
+Mtwara,Mtwara,Ligula Regional Hospital,2023,5,Suspect,2
+Mtwara,Mtwara,Ligula Regional Hospital,2023,6,Suspect,2
+Mtwara,Mtwara,Ligula Regional Hospital,2023,7,Suspect,1
+Mtwara,Mtwara,Ligula Regional Hospital,2023,8,Suspect,1
+Mtwara,Mtwara,Ligula Regional Hospital,2023,10,Suspect,3
+Mtwara,Mtwara,Ligula Regional Hospital,2023,11,Suspect,3
+Mtwara,Mtwara,Ligula Regional Hospital,2023,12,Suspect,1
+Mtwara,Mtwara,Likombe Health Center,2018,1,Healthy,1
+Mtwara,Mtwara,Likombe Health Center,2018,2,Healthy,1
+Mtwara,Mtwara,Likombe Health Center,2018,3,Healthy,1
+Mtwara,Mtwara,Likombe Health Center,2018,4,Healthy,1
+Mtwara,Mtwara,Likombe Health Center,2018,10,Healthy,1
+Mtwara,Mtwara,Nanguruwe Health Center,2018,10,Suspect,1
+Mtwara,Mtwara,Nanguruwe Health Center,2021,1,Suspect,1
+Mtwara,Mtwara,Nanguruwe Health Center,2021,2,Suspect,1
+Mtwara,Mtwara,Nanguruwe Health Center,2021,3,Healthy,1
+Mtwara,Mtwara,Nanguruwe Health Center,2021,3,Suspect,1
+Mtwara,Mtwara,Nanguruwe Health Center,2021,4,Suspect,2
+Mtwara,Mtwara,Nanguruwe Health Center,2021,8,Suspect,2
+Mtwara,Mtwara,Nanguruwe Health Center,2021,10,Healthy,1
+Mtwara,Mtwara,Nanguruwe Health Center,2021,10,Suspect,2
+Mtwara,Mtwara,Nanguruwe Health Center,2021,11,Healthy,2
+Mtwara,Mtwara,Nanguruwe Health Center,2023,4,Suspect,1
+Mtwara,Mtwara,Nanguruwe Health Center,2023,5,Suspect,1
+Mtwara,Mtwara,Nanguruwe Health Center,2023,6,Suspect,1
+Mtwara,Mtwara,Nanyumbu District Hospital,2022,10,Healthy,1
+Mtwara,Mtwara,Sabasaba Health Center,2020,10,Healthy,1
+Mtwara,Mtwara,Tandahimba District Hospital,2018,9,Suspect,3
+Mtwara,Mtwara,Tandahimba District Hospital,2021,2,Suspect,1
+Mtwara,Mtwara,Tandahimba District Hospital,2021,4,Suspect,1
+Mtwara,Mtwara,Tandahimba District Hospital,2022,2,Suspect,1
+Mtwara,Mtwara,Tanzania Facility,2022,8,Healthy,1
+Mtwara,Mtwara,Tanzania Facility,2022,8,Suspect,1
+Mtwara,Nanyumbu,Karatu Health Center,2022,10,Healthy,1
+Mtwara,Nanyumbu,Likombe Health Center,2018,4,Healthy,1
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2018,1,Healthy,2
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2018,7,Healthy,1
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2018,8,Healthy,1
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2018,9,Suspect,2
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2018,10,Suspect,1
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2018,12,Suspect,1
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2019,1,Suspect,1
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2019,4,Healthy,2
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2019,5,Healthy,2
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2020,9,Suspect,2
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2021,8,Healthy,1
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2021,9,Suspect,4
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2021,10,Suspect,1
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2021,11,Suspect,1
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2021,12,Healthy,3
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2022,1,Suspect,3
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2022,3,Suspect,3
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2022,5,Suspect,3
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2022,6,Healthy,1
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2022,6,Suspect,10
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2022,7,Healthy,3
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2022,8,Healthy,4
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2022,12,Suspect,1
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2023,1,Suspect,1
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2023,2,Suspect,1
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2023,4,Suspect,1
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2023,5,Suspect,2
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2023,6,Suspect,2
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2023,7,Suspect,2
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2023,8,Suspect,2
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2023,11,Healthy,3
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2023,12,Healthy,1
+Mtwara,Nanyumbu,Nanyumbu District Hospital,2023,12,Suspect,4
+Mtwara,Nanyumbu,Tanzania Facility,2022,8,Healthy,2
+Mtwara,Nanyumbu,Tanzania Facility,2022,8,Suspect,1
+Mtwara,Newala,Kitangari Dispensary,2018,7,Suspect,1
+Mtwara,Newala,Newala District Hospital,2018,7,Healthy,1
+Mtwara,Newala,Newala District Hospital,2018,7,Suspect,2
+Mtwara,Newala,Newala District Hospital,2019,9,Healthy,1
+Mtwara,Newala,Newala District Hospital,2020,3,Suspect,1
+Mtwara,Newala,Newala District Hospital,2020,7,Suspect,1
+Mtwara,Newala,Newala District Hospital,2021,2,Healthy,1
+Mtwara,Newala,Newala District Hospital,2021,5,Healthy,1
+Mtwara,Newala,Newala District Hospital,2021,8,Healthy,1
+Mtwara,Newala,Newala District Hospital,2022,4,Healthy,1
+Mtwara,Newala,Newala District Hospital,2022,4,Suspect,2
+Mtwara,Newala,Newala District Hospital,2022,11,Suspect,1
+Mtwara,Newala,Newala District Hospital,2023,4,Suspect,2
+Mtwara,Newala,Newala District Hospital,2023,5,Suspect,1
+Mtwara,Newala,Newala District Hospital,2023,6,Suspect,1
+Mtwara,Newala,Newala District Hospital,2023,12,Suspect,5
+Mtwara,Newala,Nyangao Hospital,2020,3,Suspect,1
+Mtwara,Newala,Rabies Test Facility,2018,2,Healthy,1
+Mtwara,Newala,Tandahimba District Hospital,2018,10,Healthy,1
+Mtwara,Tandahimba,Kilwa Masoko Health Center,2019,4,Suspect,1
+Mtwara,Tandahimba,Ligula Regional Hospital,2020,11,Suspect,2
+Mtwara,Tandahimba,Mahuta Health Center,2020,9,Suspect,1
+Mtwara,Tandahimba,Mahuta Health Center,2022,3,Suspect,1
+Mtwara,Tandahimba,Mkomaindo Hospital,2019,1,Suspect,1
+Mtwara,Tandahimba,Mkomaindo Hospital,2020,9,Healthy,1
+Mtwara,Tandahimba,Namikupa Health Center,2020,11,Suspect,4
+Mtwara,Tandahimba,Nyangao Hospital,2020,2,Suspect,1
+Mtwara,Tandahimba,Nyangao Hospital,2022,1,Suspect,1
+Mtwara,Tandahimba,Rabies Test Facility,2018,1,Healthy,1
+Mtwara,Tandahimba,Rabies Test Facility,2018,2,Healthy,2
+Mtwara,Tandahimba,Rabies Test Facility,2018,3,Healthy,2
+Mtwara,Tandahimba,Rabies Test Facility,2018,4,Healthy,2
+Mtwara,Tandahimba,Rabies Test Facility,2018,4,Suspect,1
+Mtwara,Tandahimba,Rabies Test Facility,2018,5,Healthy,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2018,2,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2018,3,Healthy,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2018,4,Healthy,2
+Mtwara,Tandahimba,Tandahimba District Hospital,2018,5,Healthy,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2018,6,Healthy,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2018,7,Healthy,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2018,7,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2018,8,Healthy,2
+Mtwara,Tandahimba,Tandahimba District Hospital,2018,8,Suspect,4
+Mtwara,Tandahimba,Tandahimba District Hospital,2018,11,Suspect,2
+Mtwara,Tandahimba,Tandahimba District Hospital,2018,12,Healthy,4
+Mtwara,Tandahimba,Tandahimba District Hospital,2018,12,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2019,1,Healthy,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2019,1,Suspect,3
+Mtwara,Tandahimba,Tandahimba District Hospital,2019,2,Suspect,12
+Mtwara,Tandahimba,Tandahimba District Hospital,2019,3,Suspect,5
+Mtwara,Tandahimba,Tandahimba District Hospital,2019,4,Healthy,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2019,4,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2019,7,Healthy,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2020,7,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2020,9,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2020,10,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2021,1,Suspect,2
+Mtwara,Tandahimba,Tandahimba District Hospital,2021,2,Healthy,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2021,2,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2021,3,Suspect,2
+Mtwara,Tandahimba,Tandahimba District Hospital,2021,4,Suspect,2
+Mtwara,Tandahimba,Tandahimba District Hospital,2021,8,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2021,9,Suspect,2
+Mtwara,Tandahimba,Tandahimba District Hospital,2021,10,Suspect,2
+Mtwara,Tandahimba,Tandahimba District Hospital,2021,11,Healthy,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2021,11,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2022,2,Suspect,6
+Mtwara,Tandahimba,Tandahimba District Hospital,2022,4,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2022,8,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2022,9,Healthy,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2022,9,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2022,10,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2022,11,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2023,4,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2023,5,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2023,8,Suspect,1
+Mtwara,Tandahimba,Tandahimba District Hospital,2023,12,Suspect,1
+Outside,NANA,FAME Health Center,2023,8,Suspect,1
+Pemba Kaskazini,NANA,Tanzania Facility,2022,9,Suspect,1

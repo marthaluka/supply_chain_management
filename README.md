@@ -49,6 +49,21 @@ Rabies remains a critical public health issue in low- and middle-income countrie
 - **scripts**: R scripts used for data processing, analysis, and simulations.  
 
 
+---
+
+## **Running the code**
+Order of scripts (written using R version 4.4.2):
+
+1. "./scripts/ibcm_vial_use.R" (this runs data_filtering.R, HelperFun.R & decentralization.R)
+2. "./scripts/stockouts.R" // "./scripts/vial_use_by_bites_model.R" // "./scripts/Kenyan_data.R"
+
+
+//  either of these scripts can be run after those in number 1
+
+---
+
+## **Citation**
+Luka MM, Ferguson EA, Rees E, Hoffu H, Changalucha J, Lushasi K, Sikana L, Mutunga M, Mwangi T, Hampson K. Optimising human rabies vaccine supply chains: a modelling study (2025).
 
 
 

@@ -4,7 +4,7 @@ require(pacman)
 pacman::p_load(brms,
                purrr)
 
-source("./R/HelperFun.R")
+source("./scripts/HelperFun.R")
 
 # # 1. Extract sizes and mu from IBCM data ##########
 # 
@@ -207,7 +207,7 @@ supp_a/supp_c
   ## Note: This is for IPC only as decentralization has no impact on vials used under essen4
 
 # Df defining different levels of decentralization
-source("./R/decentralization.R")
+source("./scripts/decentralization.R")
 decentral_df
 
 no_decentralization <- loop_thru_possible_mus(
@@ -352,7 +352,7 @@ supp_d <- plot_summary_data(vials_per_pt_summary, "mean_vials", "Vials per patie
 (supp_a+supp_b)/(supp_c+supp_d) +
   plot_annotation(tag_levels = 'A')
 
-pdf("./manuscript/SupplementaryFig4.pdf", width = 8, height = 7)
+pdf("./figures/SupplementaryFig4.pdf", width = 8, height = 7)
 (supp_a+supp_b)/(supp_c+supp_d) +
   plot_annotation(tag_levels = 'A')
 dev.off()

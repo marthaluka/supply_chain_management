@@ -2,7 +2,7 @@
 
 
 # read data1 (master data) -- here, the location (dist, region etc) reflect the patients' home, not the clinics'
-ibcm_bite_data <- read.csv("./data/clean/ibcm_first_visit_patient_district_monthly_2018_2023-4.csv") %>%
+ibcm_bite_data <- read.csv("./data/ibcm_first_visit_patient_district_monthly_2018_2023-4.csv") %>%
   dplyr::mutate(
     Region_patient = REGION,
     District_patient = DISTRICT,
@@ -32,7 +32,7 @@ ibcm_bite_data <- read.csv("./data/clean/ibcm_first_visit_patient_district_month
 unique(ibcm_bite_data$new_FACILITY) %>% sort()
 
 # PEP status dataset
-facilities_PEP_status <- read.csv("./data/clean/facilitiesPEPstatusOct2024.csv") %>%
+facilities_PEP_status <- read.csv("./data/facilitiesPEPstatusOct2024.csv") %>%
   dplyr::select(name_facility, facility_type, District_facility, Region_facility, `facility_PEP_status`) %>%
   # dplyr::filter(!Region_facility == "Arusha",
   #               !District_facility == "Serengeti") %>%
@@ -169,3 +169,4 @@ drop_both_dispAndtmpPEP
 print(paste("Patients:", sum(drop_both_dispAndtmpPEP$n)))
 print(paste("Clinics:", length(unique(drop_both_dispAndtmpPEP$new_FACILITY))))
 print(paste("Districts:", length(unique(drop_both_dispAndtmpPEP$District_facility))))
+

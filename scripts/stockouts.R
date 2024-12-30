@@ -3,7 +3,7 @@
 
 
 # Models ##############
-source("./R/HelperFun.R")
+source("./scripts/HelperFun.R")
 
 # Define thresholds
 restocking_vol <- 60
@@ -299,7 +299,7 @@ myplot <- (stockouts_plot_IPC + restocks_plot_IPC) / (stockouts_plot_essen4+rest
 
 myplot
 
-pdf("./manuscript/Fig4.pdf", width = 10, height = 5)
+pdf("./figures/Fig4.pdf", width = 10, height = 5)
 myplot
 dev.off()
 
@@ -432,7 +432,7 @@ b <- plot_prob_function(plot_data = high_thru_plot_df, subtitle="High throughput
 (a+b)
 
 
-pdf("./manuscript/Fig5.pdf", width = 8, height = 4)
+pdf("./figures/Fig5.pdf", width = 8, height = 4)
 (a+b) +
   plot_annotation(tag_levels = 'A')
 dev.off()
@@ -520,7 +520,7 @@ print(output_table)
 # Export the flextable object to an word file
     # convert to flextable object
 flextable_output_table <- flextable(output_table)
-save_as_docx(flextable_output_table, path = "./manuscript/Table2.docx")
+save_as_docx(flextable_output_table, path = "./figures/Table2.docx")
 
 
 ## table for essen 4 -- just to find values for fig5
@@ -558,7 +558,7 @@ print(output_table2)
 # Export the flextable object to an word file
   # convert to flextable object
 flextable_output_table2 <- flextable(output_table2)
-save_as_docx(flextable_output_table2, path = "./manuscript/Supp_Table2.docx")
+save_as_docx(flextable_output_table2, path = "./figures/Supp_Table2.docx")
 
 
 
