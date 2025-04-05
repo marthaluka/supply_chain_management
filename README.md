@@ -40,15 +40,6 @@ Rabies remains a critical public health issue in low- and middle-income countrie
    - Modelled PEP availability when decentralised to ward-level facilities.  
    - Measured the trade-off between improved access and reduced vial-sharing opportunities.  
 
-
----
-
-## **Repository Contents**
-- **data**: Simulated outputs and anonymised summaries of real-world data.  
-- **figures**: Reproducible visualisations and tables supporting manuscript findings.  
-- **scripts**: R scripts used for data processing, analysis, and simulations.  
-
-
 ---
 
 ## **Running the code**
