@@ -164,7 +164,7 @@ supp_a <- total_vials_hypothetical %>%
   ggplot(., aes(x = mu_estimate, y = mean_vials, fill = regimen)) +
     geom_line(aes(color = regimen)) +
     geom_ribbon(aes(ymin = lower_bound, ymax = upper_bound, fill = regimen), alpha = 0.7, color = NA) +
-    theme_lancet() +
+    theme_classic() +
     labs(x = "Mean monthly patients", y = "Annual vials") +
     ylim(0, NA) +
     scale_fill_manual(values = c("ID" = "#1f77b4", "IM" = "#64c56e")) +
@@ -191,7 +191,7 @@ supp_c <- vials_per_pt_hypothetical %>%
   ggplot(., aes(x = mu_estimate, y = mean_vials_per_pt, fill = regimen)) +
     geom_line(aes(color = regimen)) +
     geom_ribbon(aes(ymin = lower_bound, ymax = upper_bound, fill = regimen), alpha = 0.7, color = NA) +
-    theme_lancet() +
+    theme_classic() +
     labs(x = "Mean monthly patients", y = "Vials per Patient") +
     ylim(0, NA) +
     scale_fill_manual(values = c("ID" = "#1f77b4", "IM" = "#64c56e")) +
@@ -332,7 +332,7 @@ plot_summary_data <- function(summary_data, y_var, y_label) {
                                          fill = decentralization), alpha = 0.5, color = NA) +
     scale_color_manual(values = c("High" = "#EE9A00", "Moderate" = "#8968CD", "None" = "#1f77b4")) +
     scale_fill_manual(values = c("High" = "#EE9A00", "Moderate" = "#8968CD", "None" = "#1f77b4")) +
-    theme_lancet() +
+    theme_classic() +
     labs(x = "Mean monthly patients", y = y_label) +
     ylim(0, NA) +
     theme(legend.position = "right") +

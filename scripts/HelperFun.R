@@ -261,7 +261,8 @@ calculate_vials_used <- function(patients_matrix, PEP_admin, Vial_size, wastage)
 # pt_data_to_vials_annual_district_sum
   # this wraps up the functions above
 pt_data_to_annual_vials <- function(no_of_months = 13, regimen = essen4, mydata = complete_data, PCentral = 0.7, facilities = 5, 
-                                     district = 'Bunda', N = 100, PEP_admin = "IM", vial_size = 1, wastage = 0, pep_compliance = 1){
+                                     district = 'Bunda', N = 100, PEP_admin = "IM", vial_size = 1, wastage = 0, 
+                                    pep_compliance = 1, multiplier = 1){
   # Ensure regimen is an object
   if (is.character(regimen)) {
     regimen <- get(regimen, envir = .GlobalEnv)
@@ -270,6 +271,7 @@ pt_data_to_annual_vials <- function(no_of_months = 13, regimen = essen4, mydata 
   # Simulate bites per district
   set.seed(123)
   bites_per_dist <- lapply(seq_len(no_of_months), function(x) simulate_bites(mydata=mydata, district=district,  N=N))
+  bites_per_dist <- lapply(bites_per_dist, function(x) round(x * multiplier))
   bites_per_dist[[no_of_months]] <- rep(0,  N) # The extra month at the end has 0 new patients to allow for follow up visits of the last month
   
   # Spread out pts to different clinics in the district (first visit)

@@ -266,7 +266,7 @@ plot_heatmap <- function(plot_data, col_to_plot, legend_title, label = "ID"){
     labs(x = "Restocking volume",
          y = "Alert threshold",
          fill = legend_title) +
-    theme_lancet() +
+    theme_classic() +
     theme(strip.background = element_blank(),
           #strip.text = element_blank(),
           legend.position = "top") 
@@ -416,7 +416,7 @@ plot_prob_function <- function(plot_data, subtitle){
                       labels = c("IPC" = "ID", "essen4" = "IM")) +
     scale_color_manual(values = c("IPC" = "#1f77b4", "essen4" = "#64c56e"),
                        labels = c("IPC" = "ID", "essen4" = "IM")) +
-    theme_lancet() +
+    theme_classic() +
     ylim(0,1) +
     guides(fill = guide_legend(title = NULL), color = guide_legend(title = NULL))
 }
@@ -441,21 +441,31 @@ dev.off()
 # Table of appropriate stocking #######
 
 # Define restocking values and alert_thresholds to iterate over
-restock_vols <- seq(50, 1000, 25)
+restock_vols <- seq(50, 5000, 25)
 
-alert_thresh <- seq(10, 500, 10)
+alert_thresh <- seq(20, 2000, 20)
 
 
 
 
 calc_appropriate_restock_numbers <- function(regimen=IPC, PCentral=1, facilities=1, district_mu=5, no_months = 13,
                                              PEP_admin='ID', vial_size='1', N=10, wastage=0, output = "district",
-                                             restock_vols=restock_vols, alert_thresh=alert_thresh, lag_months = 1) {
+                                             restock_vols=restock_vols, alert_thresh=alert_thresh, lag_months = 1,
+                                             quarterly = FALSE) {
   
   # Calculate vaccine needs
   vaccine_needs <- mu_to_monthly_vials(regimen=regimen, PCentral=PCentral, facilities=facilities, possible_mu=district_mu,
                                        no_of_months = no_months, PEP_admin=PEP_admin, vial_size=vial_size, N=N, wastage=wastage,
                                        output = output)$monthly_vials
+  # Apply conversion to quarterly (a short-cut aimed to replicate IVD practices/ restocking criteria)
+  # Apply conversion to quarterly if requested
+  if (quarterly) {
+    vaccine_needs <- monthly_to_quarterly(vaccine_needs)
+    
+    if (lag_months != 0) {
+      warning("For quarterly resupply logic, lag_months should be set to 0.")
+    }
+  }
   
   # Calculate stockouts for different thresholds and values
   stockouts <- calculate_stockouts_for_thresholds_and_values(monthly_vax_needs= vaccine_needs,
@@ -496,9 +506,9 @@ possible_district_mu <- c(5, 10, 20, 30, 50, 75, 100)
 apply_function_ID <- function(possible_mu) {
   result <- tryCatch({
     calc_appropriate_restock_numbers(
-      regimen = IPC, PCentral = 1, facilities = 1, district_mu = possible_mu, no_months = 85, 
+      regimen = IPC, PCentral = 1, facilities = 1, district_mu = possible_mu, no_months = 61, 
       PEP_admin = 'ID', vial_size = '1', N = 1000, wastage = 0, output = "district",
-      restock_vols = restock_vols, alert_thresh = alert_thresh, lag_months = 1)
+      restock_vols = restock_vols, alert_thresh = alert_thresh, lag_months = 0, quarterly = TRUE)
   }, error = function(e) {
     message(paste("Error with district_mu =", possible_mu, ":", e$message))
     return(NULL)
@@ -512,7 +522,7 @@ output_list <- lapply(possible_district_mu, apply_function_ID)
 
 # Combine results into a single data frame, removing NULL elements
 output_table <- do.call(rbind, Filter(Negate(is.null), output_list)) %>%
-  dplyr::mutate(ave_restocks = round(ave_restocks/7))
+  dplyr::mutate(ave_restocks = round(ave_restocks/5))
 
 # Display the output
 print(output_table)
@@ -527,8 +537,8 @@ save_as_docx(flextable_output_table, path = "./figures/Table2.docx")
  ## export as Supplementary Table 2
 
 
-restock_vols2 = seq(30, 5000, 30)
-alert_thresh2=seq(10, 3000, 30)
+restock_vols2 = seq(100, 7000, 25)
+alert_thresh2=seq(50, 5000, 20)
 
 
 apply_function_IM <- function(possible_mu) {
@@ -536,7 +546,7 @@ apply_function_IM <- function(possible_mu) {
     calc_appropriate_restock_numbers(
       regimen = essen4, PCentral = 1, facilities = 1, district_mu = possible_mu, no_months = 61, 
       PEP_admin = 'IM', vial_size = '1', N = 1000, wastage = 0, output = "district",
-      restock_vols = restock_vols2, alert_thresh = alert_thresh2, lag_months = 1)
+      restock_vols = restock_vols2, alert_thresh = alert_thresh2, lag_months = 0, quarterly = TRUE)
   }, error = function(e) {
     message(paste("Error with district_mu =", possible_mu, ":", e$message))
     return(NULL)

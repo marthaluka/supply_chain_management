@@ -23,24 +23,24 @@ pacman::p_load(tidyverse, # data manipulation
 
 
 
-# Custom theme for Lancet-style plots
-theme_lancet <- function() {
-  theme_minimal() +
-    theme(
-      panel.grid = element_blank(), # Remove grid lines
-      panel.border = element_blank(), # Remove panel border
-      axis.line.x = element_line(linewidth = 0.5, color = "black"), # Add x-axis line
-      axis.line.y = element_line(linewidth = 0.5, color = "black"), # Add y-axis line
-      axis.ticks = element_line(color = "black", linewidth = 0.5),  # Add axis ticks
-      axis.ticks.length = unit(2, "pt"), # Adjust tick length
-      axis.text = element_text(size = 10), # Adjust axis text size
-      axis.title = element_text(size = 12), # Adjust axis title size
-      plot.title = element_text(size = 14, face = "bold", hjust = 0.5), # Center and bold plot title
-      legend.position = "right", # Place legend on the right
-      legend.key = element_blank(), # Remove legend background
-      legend.text = element_text(size = 10) # Adjust legend text size
-    )
-}
+# # Custom theme for Lancet-style plots
+# theme_lancet <- function() {
+#   theme_minimal() +
+#     theme(
+#       panel.grid = element_blank(), # Remove grid lines
+#       panel.border = element_blank(), # Remove panel border
+#       axis.line.x = element_line(linewidth = 0.5, color = "black"), # Add x-axis line
+#       axis.line.y = element_line(linewidth = 0.5, color = "black"), # Add y-axis line
+#       axis.ticks = element_line(color = "black", linewidth = 0.5),  # Add axis ticks
+#       axis.ticks.length = unit(2, "pt"), # Adjust tick length
+#       axis.text = element_text(size = 10), # Adjust axis text size
+#       axis.title = element_text(size = 12), # Adjust axis title size
+#       plot.title = element_text(size = 14, face = "bold", hjust = 0.5), # Center and bold plot title
+#       legend.position = "right", # Place legend on the right
+#       legend.key = element_blank(), # Remove legend background
+#       legend.text = element_text(size = 10) # Adjust legend text size
+#     )
+# }
 
 
 # data filtering script
@@ -244,7 +244,7 @@ by_dist_plot <- complete_data %>%
     y = "Monthly Bites",
     color = "Year") +
   scale_x_discrete(breaks = month.abb[c(1, 4, 7, 10)], labels = month.abb[c(1, 4, 7, 10)]) + 
-  theme_lancet() +
+  theme_classic() +
   theme(legend.position = "top",
         axis.text.x = element_text(angle = 45, hjust = 1),
         strip.background = element_blank()) 
@@ -422,7 +422,7 @@ plotB <- complete_data %>%
   ggplot(aes(x = Year_month, y = total_n, fill = District_facility, alpha = District_facility)) +
     geom_col(position = "identity") +  # Overlapping bars with specific transparency
     labs(x = NULL, y = "Bite patients") +
-    theme_lancet() +
+    theme_classic() +
     scale_fill_manual(values = c("Low throughput district" = "#5553c7", "High throughput district" = "#d6b7f5")) +
     scale_alpha_manual(values = c("Low throughput district" = 1, "High throughput district" = 0.6)) +  
     scale_x_date(date_labels = "%b %Y", date_breaks = "6 months") +
@@ -493,7 +493,7 @@ plot_two_districts_fit <- function(data, N = 1000, district1 = "Liwale", distric
                                   "High throughput district" = "#d6b7f5")) +
     labs(x = "Monthly bites",
          y = "Density") +
-    theme_lancet() +
+    theme_classic() +
     theme(
       strip.background = element_blank(),
       legend.position = "none"  
@@ -616,7 +616,7 @@ combined_table <- summary_stats2 %>%
 # 5. Can we define a surge factor?########
 hist <- ggplot(data=summary_stats, aes(x = Surge_factor)) +
   geom_histogram(binwidth = 1, color = "white", fill="#1f77b4") +
-  theme_lancet() +
+  theme_classic() +
   labs(
     x = "Surge factor",
     y = "Count")
@@ -624,7 +624,7 @@ hist <- ggplot(data=summary_stats, aes(x = Surge_factor)) +
 scatter <- ggplot() +
   geom_point(data=summary_stats, aes(x = Mean, y = Surge_factor)) +
   geom_smooth(data=summary_stats, aes(x = Mean, y = Surge_factor), method = "loess", color ="#1f77b4")+
-  theme_lancet() +
+  theme_classic() +
   labs(
     x = "Mean monthly bite patients",
     y = "Surge factor")
@@ -653,55 +653,6 @@ pdf("./figures/Fig2.pdf", width = 9, height = 7)
 combined_plot
 dev.off()
 
-
-# 6. Neighbouring districts #########
-# 
-# proximity <- c("Bunda", "Serengeti", "Tarime", "Tarime District Council", "Rorya", 
-#                "Butiama",  "Musoma", "Musoma Municipal",  # Mara region
-#                "Morogoro", "Morogoro Urban", "Kilosa","Ulanga", "Kilombero",          # Morogoro region
-#                "Lindi Rural", "Lindi Urban", "Nachingwea", "Liwale", "Ruangwa", "Kilwa",      # Lindi region
-#                "Mtwara Rural", "Mtwara Urban", "Masasi", "Masasi Township Authority", "Newala","Tandahimba"   # Mtwara region
-# )
-# 
-# # Convert District_facility to a factor with levels based on proximity
-# complete_data <- complete_data %>%
-#   mutate(District_facility = factor(District_facility, levels = proximity))
-# 
-# # Plot with facets ordered by proximity
-# count_bites <- ggplot(complete_data, aes(x = Year_month, y = total_n)) +
-#   geom_line() +
-#   facet_wrap(~ District_facility, scales = "free_y") + 
-#   labs(title = "Monthly Bites per District",
-#        x = "Date",
-#        y = "Total Monthly Bites") +
-#   theme_minimal() +
-#   theme(axis.text.x = element_text(angle = 45, hjust = 1))
-# 
-# # kernel densities
-# 
-# Uncount the data
-# expanded_ibcm_bites_mon <- tidyr::uncount(ibcm_bites_mon, weights = total_n)
-# expanded_ibcm_bites_mon <- expanded_ibcm_bites_mon %>%
-#   mutate(District_facility = factor(District_facility, levels = proximity))
-# 
-# kernel_bites <- ggplot(expanded_ibcm_bites_mon, aes(x = Year_month, y= District_facility, fill = District_facility)) +
-#   geom_density_ridges2(bandwidth=10,alpha = 0.5, scale = 2) +
-#   theme_minimal()+
-#   theme(legend.position = "none")+
-#   labs(
-#     title = "Kernel densities of bite pts per district",
-#     x = "Date",
-#     y = NULL
-#   )
-# 
-# 
-# out_plot <- count_bites/ kernel_bites
-# 
-# out_plot <- out_plot + plot_layout(heights = c(1, 2))
-# 
-# out_plot
-# 
-# 
 
 
 # 7. Vial use (annual) #########
@@ -813,13 +764,13 @@ total_vials_long %>%
   pull(vials) %>%
   mean()
 
-a <- total_vials_long %>%
+fig3a <- total_vials_long %>%
   dplyr::mutate(district = dplyr::recode(district,
                                          "Tarime District Council" = "Tarime DC",
                                          "Masasi Township Authority" = "Masasi Township")) %>%
   ggplot(aes(x = district, y = vials, fill = regimen)) +
   geom_boxplot() +
-  theme_lancet() +
+  theme_classic() +
   labs(x = NULL,
        y = "Annual vials") +
   scale_fill_manual(values = c("IPC" = "#1f77b4", "essen4" = "#64c56e"), 
@@ -835,13 +786,13 @@ a <- total_vials_long %>%
 
 
 
-b <- vial_per_pt_long %>%
+fig3b <- vial_per_pt_long %>%
   dplyr::mutate(district = dplyr::recode(district,
                            "Tarime District Council" = "Tarime DC",
                            "Masasi Township Authority" = "Masasi Township")) %>%
   ggplot(., aes(x = district, y = vials, fill = regimen)) +
   geom_boxplot(aes(color = regimen)) +
-  theme_lancet() +
+  theme_classic() +
   labs(x = NULL,
        y = "Vials per patient") +
   ylim(0, 4.1) +
@@ -857,7 +808,7 @@ b <- vial_per_pt_long %>%
   geom_vline(xintercept = which(levels(total_vials_long$district) == "Kilombero") + 0.5, 
              linetype = "dashed", color = "black", size = 0.7)
 
-a/b
+fig3a/fig3b
 
 
 
@@ -876,8 +827,8 @@ flextable_summary_stats <- flextable(combined_table2)
 flextable_summary_stats
 
 # Export the flextable object to an HTML file
-save_as_docx(flextable_summary_stats, path = "./figures/Supp_Table1.docx")
-write_csv(combined_table2, "./figures/Supp_Table1.csv")
+save_as_docx(flextable_summary_stats, path = "./figures/Supp_Table2.docx")
+write_csv(combined_table2, "./figures/Supp_Table2.csv")
 
 
 
@@ -896,14 +847,14 @@ combined_long %>%
 
 
 # Plot box plot for both districts
-d <- ggplot(combined_long, aes(x = Label, y = Total_Vials, fill = Regimen)) +
+fig3c <- ggplot(combined_long, aes(x = Label, y = Total_Vials, fill = Regimen)) +
   geom_boxplot() +
   facet_wrap(vars(fct_rev(District)), scales = "free_y", ncol = 2) +
   labs(
     x = "Decentralization",
     y = "Annual vials"
   ) +
-  theme_lancet() +
+  theme_classic() +
   scale_fill_manual(values = c("IPC" = "#1f77b4", "essen4" = "#64c56e")) +
   scale_x_discrete(limits = c("None", "Moderate", "High")) + 
   theme(
@@ -913,12 +864,13 @@ d <- ggplot(combined_long, aes(x = Label, y = Total_Vials, fill = Regimen)) +
   ) +
   ylim(0, NA)
 
-
+fig3ac <- (fig3a + fig3c)
+fig3bd <- (fig3b + fig3d)
 # combine
-myplt <- a/b/d +
+myplt <- fig3a/fig3b/fig3c/fig3d +
   plot_annotation(tag_levels = 'A')
 
-pdf("./figures/Fig3.pdf", width = 7, height = 8)
+pdf("./figures/Fig3.pdf", width = 7, height = 9)
 myplt
 dev.off()
 
@@ -998,103 +950,6 @@ high_low_distr <- tz_shp %>%
   left_join(., summ_table_vials, by = c("dist_nm" =  "district"))
 
 
-# # color palette
-# pal1 <-
-#   colorBin(
-#     palette = "YlOrRd",
-#     domain = ibcm_districts_shp$Popultn,
-#     bins = 7,
-#     pretty = TRUE,
-#     na.color = "#808080"
-#   )
-# 
-# # pop up message
-# labels <- 
-#   sprintf(
-#     "<strong>%s</strong><br/>%s",
-#     ibcm_districts_shp$dist_nm, scales::comma(ibcm_districts_shp$Popultn)) %>% 
-#   lapply(htmltools::HTML)
-# 
-# # passing the shp df to leaflet
-# map_1<- leaflet(ibcm_districts_shp) %>%
-#   # adding tiles, without labels to minimize clutter
-#   addProviderTiles("CartoDB.PositronNoLabels") %>%
-#   # parameters for the polygons
-#   addPolygons(
-#     fillColor = ~pal1(ibcm_districts_shp$Popultn), 
-#     weight = 1,
-#     opacity = 1,
-#     color = "white",
-#     fillOpacity = 0.7,
-#     highlight = highlightOptions(
-#       weight = 2,
-#       color = "#666",
-#       fillOpacity = 0.8,
-#       bringToFront = TRUE),
-#     label = labels,
-#     labelOptions = labelOptions(
-#       style = list("font-weight" = "normal"),
-#       textsize = "15px",
-#       direction = "auto")) %>%
-#   # legend
-#   addLegend(pal = pal1,
-#             values = ibcm_districts_shp$Popultn,
-#             position = "bottomright",
-#             title = "Population",
-#             opacity = 0.8,
-#             na.label = "No data")
-# 
-# # Print the map
-# map_1
-
-
-
-## ALL distrcits  (trouble shooting)
-
-# # color palette
-# pal2 <-
-#   colorBin(
-#     palette = "YlOrRd",
-#     domain = tz_shp$Popultn,
-#     bins = 5,
-#     pretty = TRUE,
-#     na.color = "#808080"
-#   )
-# 
-# # pop up message
-# labels2 <- 
-#   sprintf(
-#     "<strong>%s</strong><br/>%s",
-#     tz_shp$dist_nm, scales::comma(tz_shp$Popultn)) %>% 
-#   lapply(htmltools::HTML)
-# 
-# leaflet(tz_shp) %>%
-#   # adding tiles, without labels to minimize clutter
-#   addProviderTiles("CartoDB.PositronNoLabels") %>%
-#   # parameters for the polygons
-#   addPolygons(
-#     fillColor = ~pal2(tz_shp$Popultn), 
-#     weight = 1,
-#     opacity = 1,
-#     color = "white",
-#     fillOpacity = 0.7,
-#     highlight = highlightOptions(
-#       weight = 2,
-#       color = "#666",
-#       fillOpacity = 0.8,
-#       bringToFront = TRUE),
-#     label = labels2,
-#     labelOptions = labelOptions(
-#       style = list("font-weight" = "normal"),
-#       textsize = "15px",
-#       direction = "auto")) %>%
-#   # legend
-#   addLegend(pal = pal2,
-#             values = tz_shp$Popultn,
-#             position = "bottomright",
-#             title = "Population",
-#             opacity = 0.8,
-#             na.label = "No data")
 
 # Calculate incidence ########
 ## bites summary
@@ -1141,5 +996,39 @@ ibcm_clinic_year <- ibcm_bite_data %>%
 
 
 write.csv(ibcm_clinic_year, "./figures/ibcm_clinic_year.csv")
+
+
+### Extra stats
+# Surges temporary
+
+# Step 1: Add a column with mean bites (mean_bites) per District_facility
+complete_data <- complete_data %>%
+  group_by(District_facility) %>%
+  mutate(mean_bites = mean(total_n, na.rm = TRUE)) %>%
+  ungroup()
+
+wide_data <- complete_data %>%
+  dplyr::mutate(bites_ratio = total_n / mean_bites) %>% # Calculate total_n / mean_bites
+  dplyr::select(District_facility, Year_month, bites_ratio) %>% # Keep only relevant columns
+  pivot_wider(names_from = Year_month, values_from = bites_ratio, names_prefix = "Month_") # Convert to wide format
+
+
+# Correctly calculate "above X times mean"
+threshold <- 3
+above_x <- wide_data %>%
+  rowwise() %>%
+  dplyr::mutate(above_x_count = sum(c_across(starts_with("Month_")) > threshold, na.rm = TRUE),
+         valid_months = sum(!is.na(c_across(starts_with("Month_")))), # Count valid (non-NA) months
+         above_x_percentage = (above_x_count / valid_months) * 100) %>% # Calculate percentage of months
+  dplyr::select(District_facility, above_x_count, above_x_percentage)
+
+# View the results
+above_x
+
+# Calculate the mean percentage of months above the threshold across all districts
+mean(above_x$above_x_percentage, na.rm = TRUE)
+
+max(above_x$above_x_percentage)
+
 
 

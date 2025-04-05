@@ -53,7 +53,7 @@ A <- ke_data_county %>%
     y = "Monthly Bites",
     color = "Year") +
   scale_x_discrete(breaks = month.abb[c(1, 4, 7, 10)], labels = month.abb[c(1, 4, 7, 10)]) + 
-  theme_lancet() +
+  theme_classic() +
   theme(legend.position = "bottom",
         axis.text.x = element_text(angle = 45, hjust = 1),
         strip.background = element_blank()) 
@@ -262,7 +262,7 @@ plotB <- ke_data_subcounty %>%
   ggplot(aes(x = Date, y = Bites, fill = subcounty, alpha = subcounty)) +
     geom_col(position = "identity") +  # Overlapping bars with specific transparency
     labs(x = NULL, y = "Bite patients") +
-    theme_lancet() +
+    theme_classic() +
     scale_fill_manual(values = c("Low throughput sub-county" = "#5553c7", "High throughput sub-county" = "#d6b7f5")) +
     scale_alpha_manual(values = c("Low throughput sub-county" = 1, "High throughput sub-county" = 0.6)) +  
     scale_x_date(date_labels = "%b %Y", date_breaks = "4 months") +
@@ -311,14 +311,14 @@ min(surge_factors$surge_factor)
 # Plot 4: Histogram of surge factors per subcounty
 hist <- ggplot(surge_factors, aes(x = surge_factor)) +
   geom_histogram(binwidth = 0.5, color = "#1f77b4", fill = "#1f77b4") +
-  theme_lancet() +
+  theme_classic() +
   labs(x = "Surge factor", y = "Count")
 
 # Plot 5: Relationship between mean bites and surge factor
 scatter <- ggplot(surge_factors, aes(x = mean_bites, y = surge_factor)) +
   geom_point() +
   geom_smooth(method = "loess", color = "#1f77b4") +
-  theme_lancet() +
+  theme_classic() +
   labs(x = "Mean monthly bite patients", y = "Surge factor")
 
 # Combine as an inset

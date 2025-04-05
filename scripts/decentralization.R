@@ -158,7 +158,8 @@ print(decentral_df)
 
 
 # Function to calculate vials per district with decentralization
-vials_per_dist_decentralization <- function(decentral_df, no_of_months =13, schedule, mydata, district, N, PEP_admin, Vial_size, wastage, pep_compliance = 1) {
+vials_per_dist_decentralization <- function(decentral_df, no_of_months =13, schedule, mydata, district, 
+                                            N, PEP_admin, Vial_size, wastage, pep_compliance = 1, multiplier = 1) {
   results <- list() # Initialize an empty list to store results
   
   # Loop through each row of the decentral_df data frame
@@ -168,7 +169,7 @@ vials_per_dist_decentralization <- function(decentral_df, no_of_months =13, sche
     
     result <- (pt_data_to_annual_vials(no_of_months = no_of_months, regimen = schedule, mydata = mydata, PCentral = pcentral_value, 
                                 facilities = facilities, district = district, N = N, PEP_admin = PEP_admin, 
-                                vial_size = Vial_size, wastage = wastage, pep_compliance = pep_compliance))$total_vials
+                                vial_size = Vial_size, wastage = wastage, pep_compliance = pep_compliance, multiplier = multiplier))$total_vials
     
     # Store the result in the list
     results[[paste("PCentral", pcentral_value, sep = "_")]] <- result
