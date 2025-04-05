@@ -63,7 +63,7 @@ Order of scripts (written using R version 4.4.2):
 ---
 
 ## **Citation**
-Luka MM, Ferguson EA, Rees E, Hoffu H, Changalucha J, Lushasi K, Sikana L, Mutunga M, Mwangi T, Hampson K. Optimising human rabies vaccine supply chains: a modelling study (2025).
+Luka MM, Ferguson EA, Rees E, Hoffu H, Changalucha J, Lushasi K, Sikana L, Mutunga M, Mwangi T, Hampson K. Optimising human rabies vaccine supply chains: a modelling study, *Vaccine* (2025).
 
 
 
