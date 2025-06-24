@@ -3,7 +3,7 @@
 ---
 
 ## **Background**
-Rabies remains a critical public health issue in low- and middle-income countries (LMICs), causing thousands of preventable deaths annually. Despite the availability of effective vaccines for post-exposure prophylaxis (PEP), their high costs and frequent supply chain failures lead to stockouts, particularly in resource-constrained settings. Gavi, the Vaccine Alliance, has pledged investment to improve PEP access in LMICs. This work evaluates PEP demand dynamics and identifies robust stock management strategies tailored for Gavi-eligible countries.
+Rabies remains a critical public health issue in low- and middle-income countries (LMICs), causing thousands of preventable deaths annually. Despite the availability of effective vaccines for post-exposure prophylaxis (PEP), their high costs and frequent supply chain failures lead to stockouts, particularly in resource-constrained settings. [Gavi, the Vaccine Alliance, ](https://www.gavi.org/vaccineswork/modelling-rabies-how-smarter-supply-chains-could-save-lives) has pledged investment to improve PEP access in LMICs. This work evaluates PEP demand dynamics and identifies robust stock management strategies tailored for Gavi-eligible countries.
 
 ![Graphical Abstract](./figures/graphical_abstract.jpg)
 
